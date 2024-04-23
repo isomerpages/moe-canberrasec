@@ -1,102 +1,155 @@
 ---
 title: Visual Arts, Design and Media (ALP)
-permalink: /programmes/visual-arts-design-media/
-description: ""
+permalink: /visual-arts-design-and-media-alp/
 variant: tiptap
+description: ""
 ---
-<h3><strong>Introduction</strong></h3>
-<p>Canberra Secondary School ALP on Visual Arts, Design and Media (VADM)
-is repositioned from our past strength in Digital Media. It is aligned
-to 21st Century Competencies Framework and to realise the vision of Every
-Canberran a Self-Directed Learner. We see VADM as a form of Aesthetics
-that helps our students to strike a balance between technical skills mastery
-with appreciation for the arts thus helping them in their holistic development.
-Our ALP incorporates learning in authentic setting, increased focus, alignment
-and integration as well as experiences and exposure to career prospects
-in VADM. The exposure in depth and breadth gives our students the opportunity
-to identify their aptitudes and interests, build their strengths, and make
-informed decisions on their education and career choices.</p>
-<p>ALP is the Integration of Art curriculum and ICT curriculum which is inclusive
-of 2 tiers - Tier 1, Tier 2 and Tier 2 plus.</p>
-<p>The 1st Tier is acquisition of knowledge and its pervasive learning through
-all level. The secondary 1 Visual Art curriculum looks into preparing students
-with visual aesthetics and digital media skills.</p>
-<p>The secondary 2 Visual Art curriculum looks into equipping students with
-visual aesthetics and digital media skills. Besides having all sec 1 and
-2 students undergo ALP curriculum, we also have our sec 3, 4 &amp; 5 Artist-students
-(students who select Art as an elective in upper sec) coming on board in
-this programme. This group of upper sec students will use the knowledge
-that they had learnt in lower sec and apply in their Art curriculum.</p>
-<p>In Tier 2, students will be considered as specialist and will focus on
-the application of skills. This group of students will be identified from
-sec 1, those who have been scoring well for both Art and ICT curriculum
-will be offered to join&nbsp;<strong>D</strong>igital&nbsp;<strong>M</strong>edia
-in Visual&nbsp;<strong>A</strong>rts (DMA) club. They will therefore undergo
-deeper engagement in digital media through visual art.</p>
-<p>For tier 2 plus, we call it Mastery because this group of students from
-DMA club will initiate personal project that is related to what they had
-learnt.</p>
-<p><strong>Art and ICT lesson – Students trying to apply Art knowledge using DSLR camera and editing software to edit the photographs taken.</strong>
+<h4><strong>Visual Arts, Design and Media Programme</strong></h4>
+<p>Canberra Secondary Schools’ ALP aligns with the 21st Century Competencies
+Framework, integrating authentic learning and career exposure. Through
+this use of Visual Arts and Design, we emphasize a balanced approach through
+arts appreciation and technical skills.</p>
+<p>Our ALP comprises of two tiers:</p>
+<p><strong><u>Tier 1</u></strong>: focuses on knowledge acquisition.</p>
+<p><strong><u>Tier 2</u></strong>: emphasises application of skills through
+involvement in personal projects through the Digital Media in Visual Arts
+CCA.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_Poster_2024.jpg">
+</div>
+<h4><strong>Objectives of ALP</strong></h4>
+<p>The Applied Learning Program (ALP) aims to integrate academic knowledge
+with real-world applications, emphasize on relevant learning experiences
+in school, motivate skill acquisition, develop visual arts, design, photography,
+and videography skills.</p>
+<p></p>
+<p><strong>ALP Framework</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Find</strong>: Leveraging on technology to brainstorm ideas for
+research and to identify the needs of the community.</p>
+</li>
+<li>
+<p><strong>Think</strong>: To think about why pictures are taken, telling
+an engaging story, and getting your point over to the audience.</p>
+</li>
+<li>
+<p><strong>Apply</strong>: Creative use of photography, editing, videography,
+and video editing skills</p>
+</li>
+<li>
+<p><strong>Create</strong>: Creating, connect, and communicate through photos
+and videos using the Google Sites platform for students’ e-Portfolios.</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-11.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p><strong>Art and ICT lesson – Art critique during Art lesson</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
+</div>
+<p><strong><u>Challenge-Based Learning</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-12.jpg">
-</div>
-<p><strong>Art and ICT lesson: Students trying out editing software to edit their photographs taken earlier.&nbsp;</strong>
+<p>The challenge-based learning approach encourages student collaboration
+by fostering big ideas, asking thoughtful questions, and identifying, investigating,
+and solving challenges through three interconnected phases.</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Engage</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Researching 5 BIG Ideas.</p>
+</li>
+<li>
+<p>Identifying 1 challenge</p>
+</li>
+<li>
+<p>Thinking of essential questions
+<br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-13.jpg">
-</div>
-<p><strong>Art and ICT lesson: Trying out photography techniques learnt during ICT lesson.</strong>
+</li>
+</ul>
+</li>
+<li>
+<p>Investigate</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning experiences through VIA, CCA, and public space visits</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p>Act</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proposing solutions</p>
+</li>
+<li>
+<p>Implementing and evaluating solutions</p>
+</li>
+</ul>
+</li>
+</ol>
+<p></p>
+<p><strong><u>BIG Ideas</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="40%" src="/images/2016-alp-14.jpg">
-</div>
-<h3><strong>Digital Media in Visual Arts (DMA) Club</strong></h3>
-<p>The Digital Media in Visual Arts Club serves as an avenue for students
-to pursue their interest in digital media such as photography and videography
-as a CCA.</p>
-<p>In Canberra Secondary school, we organise Photography competition once
-a year and this is open to other schools which is known as “National Young
-Shutterbug”. The objective of this event is to impart Digital Media skills
-to all primary schools (Cluster/National) in the area of digital photography.
-It is also to promote National Education values through cultural sites
-explorations and appreciation of the uniqueness in racial harmony within
-a multi-cultural society. Lastly we also want to promote Self-Directed
-learning and Collaborative Learning.</p>
-<p>Students from DMA club will apply their skills to guide the participants
-to understand the inter-relationships between different disciplines of
-digital media design, to develop social cohesiveness and awareness on the
-importance of racial harmony and gaining knowledge in the rich cultural
-heritage that Singapore possessed. It will also help to develop self-directed
-and collaborative learning through setting of goals and finding the right
-tools and strategies to achieve them.</p>
-<p>The programme benefited students because this experience will level-up
-their skills and competency in digital media design through better understanding
-of equipment controls, techniques with timely feedback by trainers. It
-also help students to apply the relevant skills and competency acquired
-immediately into practice in their role as student-trainers for each group.</p>
-<p>Through DMA club, talented students will be further developed in their
-knowledge of digital media productions and will be sent for participations
-in the various competitions such as the Singapore Digital Media Awards
-(SDMA). This is aligned to specialist track under the tier two programme.</p>
-<p><strong>One of the photography competitions that DMA had participated in Amazing photo race event.</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>Climate Change (Biodiversity)</p>
+</li>
+<li>
+<p>Diverse Society (Gender, Gratitude, Inequity, and Inequality, Community)</p>
+</li>
+<li>
+<p>Environment and Sustainability (Plastic, Environmental Justice, Water)</p>
+</li>
+<li>
+<p>Food and Health (Health)</p>
+</li>
+<li>
+<p>Security (Coding)</p>
+</li>
+</ol>
+<h4><strong>Our Curriculum</strong></h4>
+<p><strong>Cohort 1: Photography</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-23.jpg">
-</div>
-<p><strong>DMA students conducted photo workshop with their peers after attending Singapore photo conference student workshop.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photography skills</p>
+</li>
+<li>
+<p>Photo editing</p>
+</li>
+<li>
+<p>Photo journaling</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Cohort 2: Videography</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Videography skills</p>
+</li>
+<li>
+<p>Storyboarding</p>
+</li>
+<li>
+<p>Video editing</p>
+<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-22.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_03.jpg">
 </div>
-<p>The setup for “National Young Shutterbug” showcase at the Woodlands Regional
-library.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2016-alp-21.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_01.jpg">
 </div>
+<p></p>
 <p></p>

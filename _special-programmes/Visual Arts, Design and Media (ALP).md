@@ -16,7 +16,7 @@ involvement in personal projects through the Digital Media in Visual Arts
 CCA.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_Poster_2024.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_Poster_2024.jpg">
 </div>
 <h4><strong>Objectives of ALP</strong></h4>
 <p>The Applied Learning Program (ALP) aims to integrate academic knowledge
@@ -152,4 +152,7 @@ and solving challenges through three interconnected phases.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_01.jpg">
 </div>
 <p></p>
-<p></p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>

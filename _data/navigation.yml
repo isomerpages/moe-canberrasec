@@ -1,9 +1,9 @@
 logo: /images/logo_large.png
 links:
-  - title: Canberra
-    collection: canberra
+  - title: About Canberra
+    collection: about-canberra
   - title: The Canberran Experience
-    collection: special-programmes
+    collection: the-canberran-experience
   - title: CCA
     collection: cca
   - title: Our Partners

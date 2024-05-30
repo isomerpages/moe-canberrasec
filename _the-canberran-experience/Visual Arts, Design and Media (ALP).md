@@ -3,7 +3,6 @@ title: Visual Arts, Design and Media (ALP)
 permalink: /visual-arts-design-and-media-alp/
 variant: tiptap
 description: ""
-third_nav_title: Cohort 1
 ---
 <h4><strong>Visual Arts, Design and Media Programme</strong></h4>
 <p>Canberra Secondary Schools’ ALP aligns with the 21st Century Competencies

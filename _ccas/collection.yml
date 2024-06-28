@@ -1,0 +1,26 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Our Co Curriculum.md
+      - CCA Achievements.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Netball (NEW!).md
+      - Sports & Games/Shooting (Air Pistol) (NEW!).md
+      - Sports & Games/Taekwondo (NEW!).md
+      - Sports & Games/Volleyball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - Uniformed Groups/National Cadet Corps (AIR).md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/Digital Media in Visual Arts Club (DMA).md
+      - Visual and Performing Arts/Dance Club.md
+      - Visual and Performing Arts/Guitar Ensemble (NEW!).md
+      - Visual and Performing Arts/Guzheng Ensemble.md
+      - CCA Schedule.md

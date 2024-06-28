@@ -3,6 +3,7 @@ title: School Crest & School Song
 permalink: /canberra/school-crest-school-song/
 description: ""
 variant: markdown
+third_nav_title: Vision, Mission & Values
 ---
 ##### School Song:
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7ZuMp0sxHoA?si=4wU8lol3i-w0hzlH" height="315" width="560"></iframe>

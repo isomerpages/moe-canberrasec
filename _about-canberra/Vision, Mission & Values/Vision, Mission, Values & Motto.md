@@ -1,8 +1,9 @@
 ---
-title: Vision, Mission & Motto
-permalink: /canberra/vision-mission-motto/
+title: Vision, Mission, Values & Motto
+permalink: /canberra/vision-mission-values-motto/
 description: ""
 variant: markdown
+third_nav_title: Vision, Mission & Values
 ---
 #### SCHOOL VISION
 Our school's vision is to nurture a community of Grateful, Respectful, and Compassionate individuals who are appreciative of the world around them, respectful of one another's differences and perspectives, and compassionate in their actions towards those in need. Through this vision, we aim to develop responsible, empathetic, kind, and socially conscious individuals who, as they grow and learn, will make a positive impact on their communities and the broader society.

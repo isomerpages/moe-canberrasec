@@ -1,5 +1,5 @@
 ---
-title: Personalised Learning Device Programme (PDLP)
+title: Personalised Learning Device Programme
 permalink: /pdlp/
 description: ""
 variant: tiptap

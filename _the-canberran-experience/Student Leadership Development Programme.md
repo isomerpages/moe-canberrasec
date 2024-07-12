@@ -1,9 +1,8 @@
 ---
-title: Student Leadership & Recognition
-permalink: /programmes/student-leadership-n-recognition/
+title: Student Leadership Development Programme
+permalink: /student-leadership-development-programme/
 description: ""
 variant: tiptap
-third_nav_title: Student Advocacy
 ---
 <p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong>
 </p>

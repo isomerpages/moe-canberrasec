@@ -1,6 +1,6 @@
 ---
-title: Letters to Parents
-permalink: /letter-to-parents/
+title: Term Letters to Parents
+permalink: /term-letter-to-parents/
 description: ""
 variant: tiptap
 third_nav_title: For Parents

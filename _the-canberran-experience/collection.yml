@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - Academic Programmes.md
-      - Personalised Learning Device Programme.md
+      - Student Leadership Development Programme.md
+      - Personalised Learning Device Programme (PDLP).md
       - Visual Arts, Design and Media (ALP).md
       - Learning for Life (LLP).md
-      - "Overseas Learning Journey/Global Canberran Programme 2024: Cambodia.md"
       - Overseas Learning Journey/.keep
+      - "Overseas Learning Journey/Global Canberran Programme 2024: Cambodia.md"
       - Academic Achievement.md

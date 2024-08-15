@@ -1,7 +1,8 @@
 ---
 title: Humanities
-permalink: /discover-canberra/our-curriculum/humanities/
+permalink: /humanities/
 description: ""
+variant: tiptap
 ---
 <p><strong>Vision</strong><br>Every Canberran an engaged learner and a responsible citizen</p>
 <p><strong>Mission</strong><br>To inspire and create opportunities for students to be engaged learners of Humanities</p>

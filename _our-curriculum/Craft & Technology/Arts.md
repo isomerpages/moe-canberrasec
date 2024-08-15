@@ -1,10 +1,10 @@
 ---
 title: Arts
-permalink: /discover-canberra/our-curriculum/craft-n-technology/art/
+permalink: /craft-n-technology/art/
 description: ""
 third_nav_title: Craft & Technology
+variant: tiptap
 ---
-
 <div class="pagecontent_box">
 <div id="_ptod_61353" class="description ive_editable ive_ptod ive_content">
 <p>At the Lower Secondary level, students are provided the opportunities to explore a range of media. The basic knowledge of drawing, colouring, painting and sculpture enhance students' understanding and appreciation of art in different perspectives.</p>
@@ -65,7 +65,7 @@ third_nav_title: Craft & Technology
 </blockquote>
 </div>
 </div>
-<div id="_ptoo_61369" class="pageblock_box ">
+<div id="_ptoo_61369" class="pageblock_box">
 <h3 id="_ptoh_61369" class="ive_editable ive_ptoh"><strong>Achievement:</strong></h3>
 </div>
 

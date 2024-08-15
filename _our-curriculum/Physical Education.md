@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /discover-canberra/our-curriculum/physical-education/
+permalink: /physical-education/
 description: ""
 variant: tiptap
 ---

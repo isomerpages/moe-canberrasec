@@ -1,7 +1,8 @@
 ---
 title: Science
-permalink: /discover-canberra/our-curriculum/science/
+permalink: /science/
 description: ""
+variant: tiptap
 ---
 ![](/images/science-0.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /discover-canberra/our-curriculum/mathematics/
+permalink: /mathematics/
 description: ""
 variant: tiptap
 ---

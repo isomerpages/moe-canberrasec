@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h3>Welcome to PSG @ Canberra Secondary!</h3>
+<h4>Welcome to PSG @ Canberra Secondary!</h4>
 <p>We're thrilled to start a new year with you, parents of Canberran students.
 Your active involvement in the Parent Support Group (PSG) strengthens the
 school-home partnership, benefiting your child, enriching your parenting
@@ -39,7 +39,7 @@ that our collective voices are heard and considered in school decisions.</p>
 </ul>
 <p>We welcome your involvement based on your availability, interests, and
 expertise:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Attend PSG Meetings: Share your ideas and talents, whether through arts
 and crafts or other creative contributions.</p>
@@ -64,8 +64,7 @@ the PSG improve its processes and effectiveness.</p>
 <p>Advocating for the School: Support and promote the school’s mission, vision,
 and directions.</p>
 </li>
-</ol>
-<p></p>
+</ul>
 <p>Recent PSG Activities</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,7 +92,6 @@ and directions.</p>
 <p>Teachers’ Day celebration</p>
 </li>
 </ol>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -101,6 +99,7 @@ and directions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
 <p><strong><em>In the words of PSG Chairman Steven Yeoh, on the benefits of joining PSG</em></strong>
 </p>
 <p></p>
@@ -130,6 +129,7 @@ and directions.</p>
 <p></p>
 <p><strong><em>Research has shown that children whose parents are involved in their educational journey have been found&nbsp; to have better self-esteem, are more self-disciplined, show positive attitudes, and exhibit higher aspirations and motivation towards school.</em></strong>
 </p>
+</blockquote>
 </td>
 </tr>
 </tbody>
@@ -138,4 +138,12 @@ and directions.</p>
 <p>Join Us Today! Become part of the PSG @ Canberra Secondary and help create
 a nurturing environment where every child thrives. Together, we can make
 a positive impact on our children's education and well-being.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_PSG_CNY_baing.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+</div>
+<p></p>

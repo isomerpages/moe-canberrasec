@@ -3,7 +3,7 @@ title: School Publications 2023
 permalink: /school-publications-2023/
 variant: tiptap
 description: ""
-third_nav_title: School Publication
+third_nav_title: School Publications
 ---
 <ul data-tight="true" class="tight">
 <li>

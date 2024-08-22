@@ -4,9 +4,8 @@ permalink: /english-language-n-literature/
 description: ""
 variant: tiptap
 ---
-<h4>Department Vision:</h4>
+<h4><strong>Vision:</strong></h4>
 <h4>Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</h4>
-<p>&nbsp;</p>
 <p></p>
 <blockquote>
 <p><em>“One child, one teacher, one book, and one pen can change the world” -&nbsp;Malala Yousafzai.</em>
@@ -23,6 +22,7 @@ and think creatively and critically.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/The_Paper_Menagerie.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Guest_Speaker_Boom_actor.jpg">
 </div>
@@ -37,6 +37,7 @@ body language effectively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_3.jpg">
 </div>
@@ -50,14 +51,14 @@ and critically to writers’ use of literary techniques, gaining a deeper
 understanding of the power and potential of language to challenge the mind
 and move the heart.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_3_Play_Appreciation.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Sec_3_Play_Appreciation.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower_Secondary_Play_Appreciation.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Lower_Secondary_Play_Appreciation.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower_Secondary_Play_Appreciation_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Lower_Secondary_Play_Appreciation_2.jpg">
 </div>
 <p></p>

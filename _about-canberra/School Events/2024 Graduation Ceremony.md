@@ -1,6 +1,6 @@
 ---
 title: 2024 Graduation Ceremony
-permalink: /graduation-ceremony-2024/
+permalink: /2024-graduation-ceremony/
 variant: tiptap
 description: ""
 third_nav_title: School Events

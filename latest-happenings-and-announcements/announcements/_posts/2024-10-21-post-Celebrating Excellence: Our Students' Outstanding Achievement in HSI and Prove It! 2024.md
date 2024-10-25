@@ -1,6 +1,7 @@
 ---
-title: Prove It! 2024 Competition Essay & Video, 1st and 3rd Placing
-permalink: /prove-it-2024-competition-essay-video-done-by-our-secondary-2-students/
+title: "Celebrating Excellence: Our Students' Outstanding Achievement in HSI and
+  Prove It! 2024"
+permalink: /celebrating-excellence-our-students-achievement-in-hsi-and-prove-it-2024/
 date: 2024-10-21
 layout: post
 description: ""

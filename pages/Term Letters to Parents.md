@@ -3,7 +3,6 @@ title: Term Letters to Parents
 permalink: /term-letter-to-parents/
 description: ""
 variant: tiptap
-third_nav_title: For Parents
 ---
 <h3>Year 2024</h3>
 <h4>Term 1</h4>

@@ -7,8 +7,9 @@ third_nav_title: Useful Links
 ---
 <h4>2025 Semester 1 Class Time Table</h4>
 <h4>Cohort 1</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -18,7 +19,10 @@ third_nav_title: Useful Links
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Odd week (Week 1,3,5,7,9)</p>
+<p>Odd Week (Week 1,3,5,7,9)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Even Week (Week 2,4,6,8,10)</p>
 </th>
 </tr>
 <tr>
@@ -27,6 +31,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/1_Diligence_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Diligence Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Diligence Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -38,6 +46,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/1_Empathy_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Empathy Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Empathy_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Empathy Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,6 +57,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/1_Honour_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Honour Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Honour Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -56,6 +72,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/1_Integrity_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Integrity Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Integrity Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,6 +83,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/1_Kindness_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Kindness Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Kindness_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Kindness Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -74,6 +98,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/1_Resilience_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Resilience Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Resilience_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Resilience Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,12 +111,17 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/1_Respect_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Respect Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Respect_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Respect Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Cohort 2</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -98,7 +131,10 @@ third_nav_title: Useful Links
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Odd week (Week 1,3,5,7,9)</p>
+<p>Odd Week (Week 1,3,5,7,9)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Even Week (Week 2,4,6,8,10)</p>
 </th>
 </tr>
 <tr>
@@ -107,6 +143,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/2_Diligence_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Diligence Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Diligence Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -118,6 +158,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/2_Honour_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Honour Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Honour Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,6 +169,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/2_Integrity_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Integrity Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Integrity Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -136,6 +184,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/2_Kindness_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Kindness Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Kindness_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Kindness Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -143,6 +195,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/2_Resilience_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Resilience Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Resilience_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Resilience Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -154,12 +210,17 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/2_Respect_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">2 Respect Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Respect_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">2 Respect Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Cohort 3</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -169,7 +230,10 @@ third_nav_title: Useful Links
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Odd week (Week 1,3,5,7,9)</p>
+<p>Odd Week (Week 1,3,5,7,9)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Even Week (Week 2,4,6,8,10)</p>
 </th>
 </tr>
 <tr>
@@ -178,6 +242,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/3_Empathy_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Empathy Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Empathy_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Empathy Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -189,6 +257,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/3_Honour_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -196,6 +268,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/3_Diligence_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Diligence Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Diligence Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -207,6 +283,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/3_Integrity_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Integrity Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Integrity Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -214,6 +294,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/3_Harmony_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Harmony Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Harmony_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Harmony Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -225,6 +309,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/3_Respect_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Respect Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Respect_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Respect Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -234,12 +322,17 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/3_Kindness_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Kindness Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Kindness_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Kindness Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 <h4>Cohort 4 &amp; 5</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -249,7 +342,10 @@ third_nav_title: Useful Links
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Odd week (Week 1,3,5,7,9)</p>
+<p>Odd Week (Week 1,3,5,7,9)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Even Week (Week 2,4,6,8,10)</p>
 </th>
 </tr>
 <tr>
@@ -258,6 +354,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/4_Empathy_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Empathy Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Empathy_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Empathy Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -269,6 +369,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/4_Honour_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Honour Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Honour Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -276,6 +380,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/4_Diligence_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Diligence Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Diligence Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -287,6 +395,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/4_Resilience_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Resilience Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Resilience_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Resilience Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -294,6 +406,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/4_Integrity_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Integrity Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Integrity Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -305,6 +421,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/4_Harmony_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Harmony Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Harmony_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Harmony Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -312,6 +432,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/4_Respect_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Respect Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Respect_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Respect Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>
@@ -323,6 +447,10 @@ third_nav_title: Useful Links
 <p><a href="/files/2025/4_Kindness_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">4 Kindness Sem 1 Odd Wk</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Kindness_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">4 Kindness Sem 1 Even Wk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -330,6 +458,10 @@ third_nav_title: Useful Links
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025/5_Integrity_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">5 Integrity Sem 1 Odd Wk</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/5_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">5 Integrity Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Our Staff
-permalink: /our-canberra/our-staff/
+permalink: /our-staff/
 description: ""
 variant: tiptap
 ---
@@ -73,8 +73,8 @@ variant: tiptap
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_tung_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Cheong</a>
-</p>
+<p><a href="mailto:cheong_wai_tung_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Cheong</a> (ext
+116)</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_wai_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Wai Han</a> (ext
-225)</p>
+111)</p>
 </td>
 </tr>
 <tr>
@@ -127,8 +127,8 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a>
-</p>
+<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a> (ext
+108)</p>
 </td>
 </tr>
 <tr>
@@ -145,8 +145,8 @@ variant: tiptap
 <p>HOD PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manoharan_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Manoharan Ramasamy</a>
-</p>
+<p><a href="mailto:manoharan_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Manoharan Ramasamy</a> (ext
+119)</p>
 </td>
 </tr>
 <tr>
@@ -154,8 +154,8 @@ variant: tiptap
 <p>Year Head (Sec 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dianah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dianah Binte Abdullah</a>
-</p>
+<p><a href="mailto:dianah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Dianah Binte Abdullah</a> (ext
+114)</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +263,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aw_yong_wai_keet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aw Yong Wai Keet</a> (ext
-111)
+243)
 <br><a href="mailto:shahani_kamarudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahani Binte Kamarudin</a> (ext
 249)
 <br><a href="mailto:Dinesh_Chander@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dinesh Sawlani</a> (ext
@@ -339,7 +339,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
 </p>
-<p>Ms Christine Chua</p>
+<p><a href="mailto:chua_shu_ting_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Christine Chua</a>
+</p>
 </td>
 </tr>
 <tr>

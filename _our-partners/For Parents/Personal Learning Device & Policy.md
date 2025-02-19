@@ -15,7 +15,7 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p><a href="/files/2024/Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Information Kit 2024</a>
+<p><a href="/files/2025/Student_Device_Information_Kit_2025.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2025</a>
 </p>
 </li>
 <li>

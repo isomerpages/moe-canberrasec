@@ -19,7 +19,7 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p><a href="/files/2024/CBSS_AUP_2_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Acceptable Use Policy For Students</a>
+<p><a href="/files/2025/AUP_2_7Feb_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Acceptable Use Policy For Students</a>
 </p>
 </li>
 </ul>

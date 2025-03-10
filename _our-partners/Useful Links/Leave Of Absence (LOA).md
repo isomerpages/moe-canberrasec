@@ -12,10 +12,11 @@ can be readmitted directly to their schools.</p>
 <p>Applicants are to submit the completed LOA application form and the LOA
 fees to the school.</p>
 <p>More information may be obtained on <a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">MOE's website</a>.</p>
-<p>This is the link to LOA application form: <a href="https://form.gov.sg/637af56a51c8d40012397e76" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/637af56a51c8d40012397e76</a>
+<p>This is the link to LOA application form: <a href="https://go.gov.sg/cbss-loa-form" rel="noopener nofollow" target="_blank">https://go.gov.sg/cbss-loa-form</a>
 </p>
 <p>This is the QR code for the LOA application form:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CBSS%20LOA%20QR%20Code.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_cbss_loa_form.png">
 </div>
 <p></p>

@@ -29,9 +29,14 @@ a revival spot in the Semi-Finals. Our team's creative infographic was
 selected as one of the top 5 entries nationwide, demonstrating our students'
 ability to effectively communicate geographical concepts related to the
 theme of urban renewal and sustainable development.</p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_shot_of_NUSGC_2025_participants.jpg">
+</div>
 <p>Through their innovative approach in the Creative Component, our students
 earned a coveted spot in the Semi-Finals (Geo-Trail), which will be held
 on 29th March 2025.</p>
@@ -40,3 +45,11 @@ prepare for the upcoming Geo-Trail. Your support will mean a lot to our
 students as they compete against other top schools in Singapore!</p>
 <p>Join us in wishing our team the very best for the Semi-Finals!</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canberra_Secondary_School_Infographic_GC2025_Page_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canberra_Secondary_School_Infographic_GC2025_Page_2.jpg">
+</div>
+<p></p>

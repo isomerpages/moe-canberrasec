@@ -19,6 +19,14 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: Breakfast Dialogue with School Leaders on 18 February 2025
+          date: 12 March 2025
+          announcement: On 18 Feb 2025, a productive PSG breakfast dialogue session took
+            place at Canberra Secondary School Cosmix from 8am to 10am. During
+            the session, our school principal, Mr. Leong, shared the various
+            school learning activities planned for Term 1.
+          link_text: Click here to read more
+          link_url: https://canberrasec.moe.edu.sg/breakfast-dialogue-with-school-leaders-18-february-2025/
         - title: Canberra Secondary School Shines at NUS Geography Challenge 2025!
           date: 12 March 2025
           announcement: We are proud to announce our school's outstanding performance at

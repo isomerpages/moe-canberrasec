@@ -19,6 +19,13 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: Canberra Secondary School Shines at NUS Geography Challenge 2025!
+          date: 12 March 2025
+          announcement: We are proud to announce our school's outstanding performance at
+            the prestigious National University of Singapore Geography Challenge
+            2025!
+          link_text: Click here to read more
+          link_url: https://canberrasec.moe.edu.sg/canberra-secondary-school-shines-at-nus-geography-challenge-2025/
         - title: Robotics Team Clinches Create Award at National Championship
           date: 08 February 2025
           announcement: Canberra Secondary School's Robotics team has achieved a
@@ -41,20 +48,6 @@ sections:
             Johore and Malacca City.
           link_text: Find out more about their experience
           link_url: https://www.canberrasec.moe.edu.sg/overseas-learning-journey-2024-malacca/
-        - title: "Global Canberran Programme 2024: Guangzhou"
-          date: 24 October 2024
-          announcement: Selected Secondary 3 Canberrans participated in an enriching
-            Global Canberra Programme (GCP) journey to Guangzhou, China from 24
-            to 30 October 2024.
-          link_text: Recap their journey here
-          link_url: https://www.canberrasec.moe.edu.sg/global-canberran-programme-2024-guangzhou/
-        - title: "Global Canberran Programme 2024: Vietnam"
-          date: 24 October 2024
-          announcement: Selected Secondary 3 Canberrans participated in an enriching
-            educational journey to Ho Chi Minh City, Vietnam, from 24 to 29
-            October 2024 as part of our Global Canberra Programme (GCP).
-          link_text: Find out more about their experience
-          link_url: https://www.canberrasec.moe.edu.sg/global-canberran-programme-2024-vietnam/
   - resources:
       title: Announcements
       button: VIEW MORE

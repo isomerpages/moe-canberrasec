@@ -151,6 +151,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_lay_ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Lay Ching</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Sec 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">

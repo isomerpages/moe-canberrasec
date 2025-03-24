@@ -254,11 +254,11 @@ third_nav_title: Useful Links
 <p>3 Honour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/3_Honour_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Odd Wk</a>
+<p><a href="/files/2025/3_Honour_Term_2_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Odd Wk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/3_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Even Wk</a>
+<p><a href="/files/2025/3_Honour_Term_2_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Even Wk</a>
 </p>
 </td>
 </tr>

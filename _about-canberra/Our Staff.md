@@ -151,6 +151,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_lay_ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Lay Ching</a> (ext
+109)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Sec 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,6 +170,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head (Sec 3 &amp; 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kumari_Nagapan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kumari Nagapan</a> (ext
+107)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Special Project)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext

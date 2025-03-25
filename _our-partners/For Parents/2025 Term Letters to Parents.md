@@ -24,4 +24,7 @@ third_nav_title: For Parents
 </p>
 </li>
 </ul>
+<h4>Term 2</h4>
+<p><a href="/files/2025/2025_03_24___PG_2025_Term_2_Sec_1_to_Sec_5_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents &amp; Guardians</a>
+</p>
 <p></p>

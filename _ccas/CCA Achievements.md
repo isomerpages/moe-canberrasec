@@ -4,6 +4,69 @@ permalink: /cca/cca-achievements/
 variant: tiptap
 description: ""
 ---
+<h3>2025</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Civil Defence Cadet Corps (NCDCC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 Unit Overall Proficiency Award (UOPA) - Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton B Division (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - North Zone 3rd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton B Division (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - North Zone 3rd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pistol Shooting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 NTU Invitational Shoot Air Pistol Men (C Div) National - 5th place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball B Division (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 National School Games - North Zone 2nd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VEX Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore VEX (V5RC) Tournament (2024) - Judges Award (Top 8)</p>
+<p></p>
+<p>2025 Singapore V5RC National Championship - Create Award</p>
+<p></p>
+<p>Team 2769B – invited to participate in the <strong>2025 VEX Robotics World Championship - </strong>
+<a href="https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info" rel="noopener nofollow" target="_blank">VEX V5 Robotics Competition Middle School Event</a><strong> in Texas, USA.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2024</h3>
 <table style="minWidth: 50px">
 <colgroup>

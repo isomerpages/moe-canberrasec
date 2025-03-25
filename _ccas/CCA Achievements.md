@@ -13,12 +13,10 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Civil Defence Cadet</p>
-<p>Corps (NCDCC)</p>
+<p>National Civil Defence Cadet Corps (NCDCC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Unit Overall Proficiency</p>
-<p>Award (UOPA) - Distinction Award</p>
+<p>2024 Unit Overall Proficiency Award (UOPA) - Distinction Award</p>
 </td>
 </tr>
 <tr>
@@ -42,8 +40,7 @@ description: ""
 <p>Pistol Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 NTU Invitational Shoot</p>
-<p>Air Pistol Men (C Div) National - 5th place</p>
+<p>2025 NTU Invitational Shoot Air Pistol Men (C Div) National - 5th place</p>
 </td>
 </tr>
 <tr>
@@ -59,11 +56,9 @@ description: ""
 <p>VEX Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore VEX (V5RC)</p>
-<p>Tournament (2024) - Judges Award (Top 8)</p>
+<p>Singapore VEX (V5RC) Tournament (2024) - Judges Award (Top 8)</p>
 <p></p>
-<p>2025 Singapore V5RC National</p>
-<p>Championship - Create Award</p>
+<p>2025 Singapore V5RC National Championship - Create Award</p>
 <p></p>
 <p>Team 2769B – invited to participate in the <strong>2025 VEX Robotics World Championship - </strong>
 <a href="https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info" rel="noopener nofollow" target="_blank">VEX V5 Robotics Competition Middle School Event</a><strong> in Texas, USA.</strong>

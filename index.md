@@ -26,6 +26,14 @@ sections:
             informative session together with their children.
           link_text: Click here to view more
           link_url: https://canberrasec.moe.edu.sg/secondary-2-streaming-talk-2025/
+        - title: Robotics Team Shines at WorldSkills Singapore 2025 VEX V5 Robotics
+            Competition
+          date: 03 April 2025
+          announcement: We are proud to share the achievements of our Robotics Club at the
+            WorldSkills VEX V5 Robotics Competition, held on 3 April 2025 at the
+            Sands Expo & Convention Centre.
+          link_text: Click here to read more
+          link_url: https://canberrasec.moe.edu.sg/robotics-team-shines-at-worldskills-singapore-2025-vex-v5-robotics-competition/
         - title: Breakfast Dialogue with School Leaders on 18 February 2025
           date: 12 March 2025
           announcement: On 18 Feb 2025, a productive PSG breakfast dialogue session took

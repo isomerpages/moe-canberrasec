@@ -19,6 +19,13 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: Secondary 2 Streaming Talk 2025
+          date: 04 April 2025
+          announcement: Parents of the Secondary Two cohort were invited to the Streaming
+            Talk held in the evening of 4th April and many attended the
+            informative session together with their children.
+          link_text: Click here to view more
+          link_url: https://canberrasec.moe.edu.sg/secondary-2-streaming-talk-2025/
         - title: Breakfast Dialogue with School Leaders on 18 February 2025
           date: 12 March 2025
           announcement: On 18 Feb 2025, a productive PSG breakfast dialogue session took
@@ -41,21 +48,6 @@ sections:
             VEX V5RC National Championship 2025.
           link_text: Click here to read more
           link_url: https://canberrasec.moe.edu.sg/student-innovation-shines-robotics-team-clinches-create-award-at-national-championship/
-        - title: 2025 Termly Breakfast Dialogue sessions with School Leaders
-          date: 22 January 2025
-          announcement: Invitation to attend 1st Breakfast Dialogue Session with School
-            Leaders on Tuesday, 18 February 2025 from 8am to 9.30am
-          link_text: Click here for more information
-          link_url: https://canberrasec.moe.edu.sg/termly-breakfast-dialogues/
-        - title: "Overseas Learning Journey 2024: Johore-Malacca, Malaysia"
-          date: 29 October 2024
-          announcement: Our school recently organized an enriching two-day, one-night
-            educational expedition to Malaysia, with two separate groups
-            experiencing the journey. A total of 127 students and 20 staff
-            members participated in this carefully planned adventure through
-            Johore and Malacca City.
-          link_text: Find out more about their experience
-          link_url: https://www.canberrasec.moe.edu.sg/overseas-learning-journey-2024-malacca/
   - resources:
       title: Announcements
       button: VIEW MORE

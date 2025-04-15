@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
-<h4>MOTHER TONGUE LANGUAGES MID-YEAR EXAMINATION TIME-TABLE</h4>
+<h4>Mother Tongue Languages Mid-Year Examination Time Table</h4>
 <p><a href="/files/2025/MTL_MID_YR_EXAM_TT_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4E/5N/4N SBB MT</a>
 </p>
 <h4><br>2025 Semester 1 Class Time Table</h4>

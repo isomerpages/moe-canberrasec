@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
-<h4><strong>Direct School Admission</strong></h4>
+<h4><strong>Direct School Admission (Background)</strong></h4>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, schools will be able to select a percentage of their students

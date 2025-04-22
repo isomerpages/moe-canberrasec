@@ -5,137 +5,98 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_16_at_3_57_24_PM.jpg">
-</div>
-<h4>Introduction</h4>
-<p>DSA-Sec is an admission exercise which provides students with the opportunity
-to seek admission to a secondary school, based on a diverse range of specific
-academic and non-academic achievements and talents that they can demonstrate
-beyond the Primary School Leaving Examination (PSLE). The objective of
-the DSA-Sec is to promote holistic education by giving participating schools
-greater flexibility in selecting students while holding on to the key principles
-of transparency and meritocracy. For students, the DSA provides them the
-opportunity to demonstrate a more diverse range of achievements and talents
-in seeking admission to secondary schools.</p>
-<p>In Canberra Secondary School, staff and students alike are constantly
-engaged in developing new ideas for the digital media in teaching and learning.
-Our DSA talent area in Visual Art – Media Arts / Film / Photography, is
-aligned with our Applied Learning Programme (Digital Media). Through our
-structured school-wide Applied Learning Programme (Digital Media), our
-students are given a headstart in Digital Media. The programme incorporates
-learning in authentic setting and integrates education and career experiences
-for the students. The exposure in depth and breadth gives our students
-the opportunity and skillsets to further their interests in Digital Media
-related fields later in their education and career choices.</p>
-<p>The school has vacancies for up to 20% of our Secondary 1 cohort in 2025
-for the DSA-Sec programme. Interested students can apply through the DSA
-process.</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
-<h4>Admission Criteria</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Keen interest and/or prior knowledge in learning Digital Media such as
-Photography, Videography and Animation. Exhibits high aptitude in creative
-and artistic areas.</p>
-</li>
-<li>
-<p>Candidate should show evidence of working independently and collaboratively
-with others in the creation of their products.</p>
-</li>
-<li>
-<p>Candidate should be able to communicate his/her design ideas and techniques
-to others.</p>
-</li>
-<li>
-<p>Must be in Primary 6 at the point of application or equivalent (international
-students).</p>
-</li>
-<li>
-<p>Candidates are encouraged to e-submit their e-portfolio* for the interview.</p>
-</li>
-<li>
-<p>We seek your kind understanding that meeting all the criteria does not
-guarantee the student will be shortlisted/given an offer.</p>
-</li>
-</ul>
-<h5>E-submission of e-portfolio</h5>
-<blockquote>
-<ol>
-<li>
-<p>Submit an e-portfolio of 3-5 original works using presentation slides
-on PowerPoint (photo of 1 work per slide).</p>
-</li>
-<li>
-<p>Works chosen:</p>
-</li>
-</ol>
-<ul>
-<li>
-<p>Should be completed in the last 3 years and can include works done in
-school Art lesson, Art CCA.</p>
-</li>
-<li>
-<p>Can include 2D, 3D (3D works can have up to 8 images), and time-based
-works (e.g. videos, animations, can be hosted online with link provided
-in slide).</p>
-</li>
-<li>
-<p>Should reflect student’s interests, experiences, abilities and qualities
-(e.g. in observing/perceiving/imagining, being curious/self-motivated,
-etc.).
-<br>
-</p>
-<hr>
-<p></p>
-</li>
-<li>
-<p>E-portfolio can be in PowerPoint or PDF format with the following file-naming
-convention:
-<br><em>Student’s Current School Name _Student’s Name_DSA Talent Area applied</em>
-</p>
-</li>
-<li>
-<p>Email the file (&lt;20MB) to lim_puay_ee@moe.edu.sg OR Upload to Google
-Drive to then share link with lim_puay_ee@moe.edu.sg (privacy setting should
-be ‘Public’ or ‘Anyone with the Link’).</p>
-</li>
-<li>
-<p>E-portfolios submitted will only be used for DSA selection purpose and
-will be deleted after selection is completed.</p>
-</li>
-</ul>
-</blockquote>
-<h4>Important Dates</h4>
+<h4><strong>Direct School Admission</strong></h4>
+<p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move
+towards a more flexible and broad-based education system. Under the DSA-Sec
+Exercise, schools will be able to select a percentage of their students
+for admission outside of the centralised posting system, via their own
+selection criteria. Parents and students are encouraged to choose schools
+wisely based on the student’s aptitudes and strengths, bearing in mind
+the schools’ academic and non-academic requirements, and the programmes
+available to develop the area of talent.</p>
+<h4><strong>Direct School Admission @ Canberra Secondary School</strong></h4>
+<p>Canberra Secondary School welcomes prospective students who demonstrate
+talent, passion and potential in the following talent categories:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>The application period is from <strong>7 May 2024, 11am - 3 June 2024, 3pm</strong>.</p>
+<p>Digital Media and Visual Arts (DMA) &nbsp;– Media Arts / Film / Photography</p>
 </li>
 <li>
-<p>All short-listed candidates will be notified by <strong>28 June 2024</strong> to
-attend an interview. Selection phase is from <strong>2 July – 29 August 2024</strong>.</p>
+<p>Robotics</p>
 </li>
 <li>
-<p>All applicants will be notified of the outcome of their application by <strong>9 September 2024</strong>.</p>
+<p>Badminton</p>
 </li>
 <li>
-<p>Students who are offered a DSA-Sec place will need to exercise their School
-Preference within the period from <strong>21 October - 25 October 2024</strong>.
-This can be done online through the DSA-Sec Portal.</p>
+<p>Volleyball</p>
 </li>
 </ol>
-<h4>How to apply</h4>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be <strong>open from 7 May 2024, 11am to 3 June 2024, 3pm</strong>.
-For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
-<p><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em>
-</p>
-<p>For further enquiries, please email <a href="mailto:lim_puay_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_ee@moe.edu.sg</a>
-</p>
+<p>Our Selection Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Talent and Aptitude</strong>: Applicants should demonstrate strong
+ability and/or potential in their chosen talent area through past achievements,
+experience, or during selection trials/auditions.</p>
+</li>
+<li>
+<p><strong>Character and Values</strong>: Applicants should exhibit good
+conduct, positive learning attitudes, and strong character traits that
+align with our school values.</p>
+</li>
+<li>
+<p><strong>Leadership Potential</strong>: Applicants should show the capacity
+to lead and serve others, demonstrating initiative and responsibility.</p>
+</li>
+<li>
+<p><strong>Academic Readiness</strong>: While academic excellence is not
+the primary criterion, applicants should demonstrate the ability to manage
+both their talent development and academic studies effectively.</p>
+<p></p>
+</li>
+</ul>
+<p>Successful applicants will join Canberra Secondary School in January 2026.
+Students who are keen to apply should possess a strong level of motivation
+and commitment to their chosen talent area. While achievement and mastery
+in their chosen area is important, we are also looking for students who
+display strong potential for growth. Our DSA talents should demonstrate
+the mindset and learning disposition to thrive in all aspects of school
+life at Canberra Secondary.</p>
+<p>Students admitted via DSA will benefit from training and guidance by professional
+coaches and experienced CCA Teachers-in-charge. The school is committed
+to providing quality programmes, activities and opportunities for DSA students
+to develop their talents and represent the school in competitions. Beyond
+talent development, we will closely support and motivate students to achieve
+academic excellence.</p>
+<p>Successful DSA candidates are expected to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Honour their commitment to the school from Secondary 1 to 4</p>
+</li>
+<li>
+<p>Actively participate in activities related to their talent area</p>
+</li>
+<li>
+<p>Maintain good academic progress and conduct</p>
+</li>
+<li>
+<p>Contribute to the school community</p>
+</li>
+</ul>
+<p>Parents and students are encouraged to make informed choices based on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The student's aptitude and strengths</p>
+</li>
+<li>
+<p>The school's academic and non-academic requirements</p>
+</li>
+<li>
+<p>The available programmes for talent development</p>
+</li>
+<li>
+<p>The student's ability to cope with the school's curriculum</p>
+</li>
+</ul>
+<p>We welcome students who demonstrate not just achievement, but also potential,
+motivation, and the right learning disposition to grow with us at Canberra
+Secondary School.</p>

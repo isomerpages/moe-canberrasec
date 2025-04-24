@@ -9,9 +9,9 @@ third_nav_title: For Partners
 by providing comprehensive support - academically, emotionally, and financially.
 Our mission is to ensure every student has the resources they need to excel
 in school and beyond:</p>
-<p>MENDAKI Tuition Scheme: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mendaki.org.sg/tuition/</a>
+<p>MENDAKI Tuition Scheme: <a href="https://www.mendaki.org.sg/tuition/" rel="noopener noreferrer nofollow" target="_blank">https://www.mendaki.org.sg/tuition/</a>
 </p>
-<p>CDAC: <a rel="noopener noreferrer nofollow" target="_blank">https://www.cdac.org.sg/</a>
+<p>CDAC: <a href="https://www.cdac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.cdac.org.sg/</a>
 </p>
-<p>SINDA: <a rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/services/education/</a>
+<p>SINDA: <a href="https://www.sinda.org.sg/services/education/" rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/services/education/</a>
 </p>

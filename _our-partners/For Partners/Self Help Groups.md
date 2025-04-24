@@ -20,5 +20,5 @@ we offer the following programs on our campus:</p>
 <p><strong>SINDA STEP Programme in Canberra Secondary School</strong>
 <br>Tuesdays – 7.00pm to 9.00pm
 <br>Saturdays – 8.15am to 12.30pm
-<br>For more information, you can visit: <a href="https://www.sinda.org.sg/education/step/" rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/education/step/</a> 
+<br>For more information, you can visit: <a href="https://www.sinda.org.sg/education/step/" rel="noopener noreferrer nofollow" target="_blank">https://www.sinda.org.sg/education/step/</a>
 </p>

@@ -121,7 +121,6 @@ Portal. For assistance, please visit: <a href="https://go.gov.sg/nmsdsa-sec-appl
 <li>
 <p>Applicants may submit up to 3 choices, with a maximum of 2 choices for
 the same school under different talent areas.</p>
-<p></p>
 </li>
 <li>
 <p>Applications can be updated, withdrawn, and resubmitted during the application
@@ -134,11 +133,10 @@ period until the closing time of 3:00 pm on 3 June 2025.
 Your child's primary school records (including P5 academic results, CCA
 participation, school-based activities, and achievements) will be automatically
 shared with the selected schools.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p><strong>Selection Process:</strong>
-</p>
+<h4><strong>Selection Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be notified by Monday, 21 July 2025.</p>

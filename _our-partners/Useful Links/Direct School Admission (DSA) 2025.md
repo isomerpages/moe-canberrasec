@@ -133,7 +133,6 @@ period until the closing time of 3:00 pm on 3 June 2025.
 Your child's primary school records (including P5 academic results, CCA
 participation, school-based activities, and achievements) will be automatically
 shared with the selected schools.</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Selection Process</strong></h4>

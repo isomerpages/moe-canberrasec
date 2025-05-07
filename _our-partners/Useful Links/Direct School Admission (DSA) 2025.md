@@ -100,3 +100,65 @@ academic excellence.</p>
 <p>We welcome students who demonstrate not just achievement, but also potential,
 motivation, and the right learning disposition to grow with us at Canberra
 Secondary School.</p>
+<h4>Development opportunities, and detailed selection criteria and process can be found <a href="/files/2025/Direct_School_Admission_additional_information_for_DSA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></h4>
+<h4><strong>Application Process</strong></h4>
+<p>The online application period runs from <strong>7 May 2025, 11:00 am to 3 June 2025, 3:00 pm</strong> through
+the centralised DSA-Sec Portal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>For applicants from MOE mainstream primary schools</em></strong>:
+Parents may access the DSA-Sec Portal directly using one parent's Singpass.
+Parents/guardians requiring assistance with the online applications may
+approach their child's/ ward’s primary school for support.</p>
+</li>
+<li>
+<p><strong><em>For applicants not from MOE mainstream primary schools:</em></strong> Parents
+must first obtain a Registration Number (RGxxxxxxx) to access the DSA-Sec
+Portal. For assistance, please visit: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<br>
+</p>
+</li>
+<li>
+<p>Applicants may submit up to 3 choices, with a maximum of 2 choices for
+the same school under different talent areas.</p>
+<p></p>
+</li>
+<li>
+<p>Applications can be updated, withdrawn, and resubmitted during the application
+period until the closing time of 3:00 pm on 3 June 2025.
+<br>
+</p>
+</li>
+<li>
+<p>Supporting documents are not required during the online application stage.
+Your child's primary school records (including P5 academic results, CCA
+participation, school-based activities, and achievements) will be automatically
+shared with the selected schools.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Selection Process:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shortlisted candidates will be notified by Monday, 21 July 2025.</p>
+</li>
+<li>
+<p>Trials, selection tests, and interviews will be conducted between July
+and August 2025.</p>
+</li>
+<li>
+<p>Shortlisted applicants will receive specific date and time notifications.</p>
+<p></p>
+</li>
+</ul>
+<p>All applicants will be notified of outcomes <strong>by 4 September 2025</strong>.
+The school's decision is final, and reasons for non-selection may not be
+disclosed.</p>
+<p><strong><u>Please note that meeting all criteria does not guarantee shortlisting or an offer.</u></strong>
+</p>
+<p>Please refer to the schedule overview below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Schedule_2025.png">
+</div>
+<p></p>

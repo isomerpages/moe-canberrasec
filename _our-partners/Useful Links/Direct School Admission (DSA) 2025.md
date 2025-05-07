@@ -154,4 +154,3 @@ The school's decision is final, and reasons for non-selection may not be
 disclosed.</p>
 <p><strong><u>Please note that meeting all criteria does not guarantee shortlisting or an offer.</u></strong>
 </p>
-<p></p>

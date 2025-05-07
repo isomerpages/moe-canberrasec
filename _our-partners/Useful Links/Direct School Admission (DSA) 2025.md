@@ -100,6 +100,7 @@ academic excellence.</p>
 <p>We welcome students who demonstrate not just achievement, but also potential,
 motivation, and the right learning disposition to grow with us at Canberra
 Secondary School.</p>
+<h4>Development opportunities, and detailed selection criteria and process can be found <a href="/files/2025/Direct_School_Admission_additional_information_for_DSA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></h4>
 <h4><strong>Application Process</strong></h4>
 <p>The online application period runs from <strong>7 May 2025, 11:00 am to 3 June 2025, 3:00 pm</strong> through
 the centralised DSA-Sec Portal.</p>

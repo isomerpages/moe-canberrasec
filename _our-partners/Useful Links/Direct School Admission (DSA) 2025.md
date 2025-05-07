@@ -154,8 +154,3 @@ The school's decision is final, and reasons for non-selection may not be
 disclosed.</p>
 <p><strong><u>Please note that meeting all criteria does not guarantee shortlisting or an offer.</u></strong>
 </p>
-<p>Please refer to the schedule overview below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Schedule_2025.png">
-</div>
-<p></p>

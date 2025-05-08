@@ -149,7 +149,7 @@ and August 2025.</p>
 <p></p>
 </li>
 </ul>
-<p>All applicants will be notified of outcomes <strong>by 4 September 2025</strong>.
+<p>All applicants will be notified of outcomes <strong>between 25 August and 4 September 2025</strong>.
 The school's decision is final, and reasons for non-selection may not be
 disclosed.</p>
 <p><strong><u>Please note that meeting all criteria does not guarantee shortlisting or an offer.</u></strong>

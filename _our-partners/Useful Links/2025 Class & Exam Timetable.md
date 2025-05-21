@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
+<h4>Sec 4/5 Preliminary Examinations 2025 Time Table</h4>
+<p><a href="/files/2025/2025_O_Level_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 O Level Prelim Time Table</a>
+</p>
+<p><a href="/files/2025/2025_NA_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NA Prelim Time Table</a>
+</p>
+<p><a href="/files/2025/2025_NT_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table</a>
+</p>
 <h4>Mother Tongue Languages Mid-Year Examination Time Table</h4>
 <p><a href="/files/2025/MTL_MID_YR_EXAM_TT_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4E/5N/4N SBB MT</a>
 </p>

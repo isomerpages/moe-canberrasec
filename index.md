@@ -23,6 +23,23 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Overseas Learning Journey 2025: Bali"
+          date: 27 May 2025
+          announcement: This overseas learning journey aims to provide students with
+            firsthand exposure to Bali’s rich cultural heritage and
+            environmental conservation efforts, deepening their appreciation for
+            diverse traditions and sustainable practices.
+          link_text: Follow their journey here
+          link_url: https://sites.google.com/moe.edu.sg/baliolj2025/home
+        - title: "Overseas Service Learning 2025: Cambodia"
+          date: 26 May 2025
+          announcement: In 2025, our students embarked on an unforgettable journey to Siem
+            Reap, Cambodia. This experience marked a significant milestone in
+            their service-learning journey, encouraging them to mature and
+            become more thoughtful about the importance of service, both locally
+            and globally.
+          link_text: Follow their journey here
+          link_url: https://sites.google.com/moe.edu.sg/oljcambodia/home
         - title: Secondary 2 Streaming Talk 2025
           date: 04 April 2025
           announcement: Parents of the Secondary Two cohort were invited to the Streaming
@@ -46,20 +63,6 @@ sections:
             school learning activities planned for Term 1.
           link_text: Click here to read more
           link_url: https://canberrasec.moe.edu.sg/breakfast-dialogue-with-school-leaders-18-february-2025/
-        - title: Canberra Secondary School Shines at NUS Geography Challenge 2025!
-          date: 12 March 2025
-          announcement: We are proud to announce our school's outstanding performance at
-            the prestigious National University of Singapore Geography Challenge
-            2025!
-          link_text: Click here to read more
-          link_url: https://canberrasec.moe.edu.sg/canberra-secondary-school-shines-at-nus-geography-challenge-2025/
-        - title: Robotics Team Clinches Create Award at National Championship
-          date: 08 February 2025
-          announcement: Canberra Secondary School's Robotics team has achieved a
-            remarkable milestone by winning the Create Award at the Singapore
-            VEX V5RC National Championship 2025.
-          link_text: Click here to read more
-          link_url: https://canberrasec.moe.edu.sg/student-innovation-shines-robotics-team-clinches-create-award-at-national-championship/
   - resources:
       title: Announcements
       button: VIEW MORE

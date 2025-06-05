@@ -7,7 +7,7 @@ third_nav_title: Overseas Learning Journey
 ---
 <p><strong>All About Sustainability - Overseas Learning Journey</strong>
 </p>
-<p><strong>Bali, Indonesia. 28 May - 31 May 2025</strong>
+<p><strong>Bali, Indonesia: 28 May - 31 May 2025</strong>
 </p>
 <p></p>
 <p>Selected Secondary 3 Canberrans participated in an enriching sustainability-focused

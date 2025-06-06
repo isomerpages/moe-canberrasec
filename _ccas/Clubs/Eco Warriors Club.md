@@ -18,6 +18,9 @@ fostering environmental consciousness among our&nbsp;<strong>Canberrans</strong>
 <p>At its heart, the Eco Warriors Club embodies Canberra Secondary's commitment
 to environmental kindness, proving that small actions today can create
 significant positive change for tomorrow.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4c__Hydroponics.jpg">
+</div>
 <p><strong>Current Projects and Achievements</strong>
 </p>
 <p>Our&nbsp;<strong>Eco Warriors</strong>&nbsp;have been busy transforming

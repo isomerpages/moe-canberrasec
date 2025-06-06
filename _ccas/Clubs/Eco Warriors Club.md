@@ -6,72 +6,47 @@ description: ""
 third_nav_title: Clubs
 ---
 <h3><strong>Eco-Warriors Club (New CCA in 2025!)</strong></h3>
-<p>Launching in 2025, our Eco-Warriors Club is an exciting addition to Canberra
-Secondary School's CCA offerings – a thriving hub of sustainability, innovation,
-and eco-consciousness!</p>
+<p><strong>Eco Warriors Club</strong>
+</p>
+<p><strong>About Us</strong>
+</p>
+<p>As our planet faces mounting challenges from climate change and resource
+depletion, Canberra Secondary School's Eco Warriors are leading the charge
+towards a greener future. Operating on our distinctive Triple 'A' framework—Awareness,
+Action, and Advocacy—this dynamic club has made significant strides in
+fostering environmental consciousness among our&nbsp;<strong>Canberrans</strong>.</p>
+<p>At its heart, the Eco Warriors Club embodies Canberra Secondary's commitment
+to environmental kindness, proving that small actions today can create
+significant positive change for tomorrow.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco_Club_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4c__Hydroponics.jpg">
 </div>
-<p>The club aims to cultivate environmental awareness and promote eco-friendly
-practices among Canberrans, aligning with Singapore's Green Plan 2030 and
-fostering a culture of sustainability and innovation. Members of the Eco-Warriors
-Club will engage in a variety of hands-on activities through our unique
-Eco-Science Programme (ESP). These include projects focused on enhancing
-campus biodiversity, reducing waste, and improving energy and water efficiency.
-By participating in eco-friendly initiatives and challenge-based learning
-activities, students will develop crucial skills such as critical thinking,
-problem-solving, and environmental stewardship.</p>
+<p><strong>Current Projects and Achievements</strong>
+</p>
+<p>Our&nbsp;<strong>Eco Warriors</strong>&nbsp;have been busy transforming
+environmental consciousness within our school community. Working alongside
+Green Leaders from every class, they planned and carried out compelling
+school-wide campaigns for Global Recycling Week and Earth Week 2025.&nbsp;<strong>Our Canberrans</strong>&nbsp;particularly
+enjoyed old school games conducted using recyclables, such as "Strike the
+Cans" and bottle-flipping during Global Recycling Week, while the "Tech
+for Tomorrow" e-waste collection drive and "Power Down, Design Up" sticker
+design competition during Earth Week sparked enthusiastic participation
+across all levels. The creative blend of competition and environmental
+education has been well-received thus far, with many&nbsp;<strong>Canberrans</strong>&nbsp;eagerly
+embracing these eco-friendly initiatives.</p>
+<p>In an exciting Farm-to-Table initiative, our&nbsp;<strong>Eco Warriors</strong>&nbsp;are
+learning hydroponics, bringing sustainable agriculture directly to our
+school. This hands-on experience will culminate in sharing locally grown
+produce with our school community, demonstrating the viability of urban
+farming.</p>
+<p><strong>Student Voice</strong>
+</p>
+<p>"This visit reinforced our club's mission of environmental conservation
+and helped me understand why protecting biodiversity is crucial for our
+planet's future. As an Eco Warrior, I'm now more motivated to educate my
+schoolmates and contribute to conservation efforts."</p>
+<p>--- Almagro Keanne Dreigh Rubio, 1 Honour</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco_Club_3.png">
-</div>
-<p>Our objectives are:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To foster a sense of responsibility towards the environment</p>
-</li>
-<li>
-<p>To encourage participation in eco-friendly initiatives</p>
-</li>
-<li>
-<p>To develop essential life skills, such as critical thinking and problem-solving
-through Challenge-Based Learning Approach</p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco_Club_7.png">
-</div>
-<p>Members will also have opportunities to participate in inter-school environmental
-competitions and collaborate on projects with local environmental organizations.
-As a member of the Eco-Warriors Club, they will:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Be empowered to make a difference: Participate in hands-on activities
-and projects that contribute to a more sustainable future for Singapore.</p>
-</li>
-<li>
-<p>Enhance their knowledge: Learn about environmental conservation, waste
-management, and renewable energy from experts, guest speakers and through
-learning journey.</p>
-</li>
-<li>
-<p>Build lifelong skills: Develop leadership, teamwork, and communication
-abilities through collaborative projects with school and collaboration
-with higher institutions.</p>
-</li>
-</ol>
-<p>Through their efforts, club members will play a crucial role in shaping
-a more sustainable and environmentally conscious school community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco_Club_2.png">
-</div>
-<p>If you are passionate about the environment, enjoy scientific exploration,
-or want to contribute to a more sustainable future, we invite you to join
-our Eco-Warriors Club Club in 2025. Join us and be at the forefront of
-environmental change in our school and beyond! Become part of this dynamic
-CCA that will not only enhance your knowledge of environmental issues but
-also empower you to become an environmental champion, working towards a
-greener tomorrow for generations to come!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Eco_Club_5.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/3b__Visit_to_Rainforest_Wild_Asia.jpg">
 </div>
 <p></p>

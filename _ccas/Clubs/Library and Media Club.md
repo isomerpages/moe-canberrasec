@@ -9,36 +9,36 @@ third_nav_title: Clubs
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Canberra_Reads_Logo.png">
 </div>
 <h3>Library and Media Club (New CCA in 2025!)</h3>
-<p>The Library and Media Club is an exciting new CCA that combines library
-stewardship with student journalism. We are dedicated to nurturing student
-librarians who not only care for our library but also serve as the authentic
-voice of our school community through reporting and storytelling.</p>
+<p><strong>About Us</strong>
+</p>
+<p>The Library and Media Club cultivates a strong reading culture and develops
+21st-century media skills among our Canberrans. Through regular reading
+initiatives, student-led reporting, and multimedia coverage of school events,
+our members express themselves and amplify the voices of their peers. Our
+Canberrans learn the art of interviewing, videography, and video editing,
+while participating in inter-school competitions to refine their skills.
+The club provides a platform for creative expression, critical thinking,
+and meaningful engagement within the school community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_43_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_30_at_5_09_56_PM__2_.jpg">
 </div>
-<p></p>
-<p><strong>Vision</strong>: To transform our school library into a dynamic
-hub where students become both knowledge keepers and storytellers, bringing
-school events and student experiences to life through meaningful reporting.</p>
+<p><strong>Current Projects and Achievements</strong>
+</p>
+<p>Our members are actively developing their skills as news journalists within
+the school community. We recently completed a 600-word report and video
+clip for submission to the Prove-it Contest. During Awards Days, our team
+filmed and interviewed award winners from Secondary 2, 3, and 4. This has
+been an enriching and rewarding experience as students have learned to
+record, edit, and post videos and pictures.</p>
+<p>As the voices of Canberrans, we continue to expand our role in school
+communications. We are also working to promote a reading culture throughout
+the school, with more exciting events planned ahead.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_39_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_30_at_5_09_56_PM__1_.jpg">
 </div>
-<p>In the Library and Media Club, students will take on meaningful roles
-as both library stewards and school journalists. Members will develop essential
-skills in news writing, interviewing, and event coverage while maintaining
-their responsibilities as custodians of our library resources. They will
-be the eyes and ears of our school community, providing thoughtful coverage
-of school events and bringing student perspectives to life through their
-reporting. Members will also have the opportunity to participate in the
-National Library Board's kidsREAD programme, enriching their experience
-as ambassadors of reading and storytelling.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_42_PM.jpg">
-</div>
-<p>Join us in 2025 to be part of a dynamic community that values both literary
-appreciation and authentic student journalism, where every story matters
-and every voice counts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_10_PM.jpg">
-</div>
-<p></p>
+<p><strong>Student Voice</strong>
+</p>
+<p>"It has been an enriching and rewarding experience thus far as we have
+learnt how to record, edit, and post videos or pictures. We are looking
+forward to do even more as the voices of Canberrans."</p>
+<p>--- Oo Yong Ze Davian, 1 Integrity</p>

@@ -13,11 +13,17 @@ a community of grateful, respectful, and compassionate <strong>Canberrans</stron
 excel both on and off the court. We are committed to providing our athletes
 with positive and enjoyable experiences, where they can grow, learn, and
 appreciate the sport of Volleyball.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/More_than_just_teammates_brothers_on_and_off_the_court_.jpg">
+</div>
 <p>Our program is designed to cultivate teamwork, sportsmanship, and a winning
 spirit through healthy competition. We believe in the power of rigorous
 training to instill discipline, resilience, and the right attitude necessary
 for success. Through these experiences, our players learn to be grateful
 for opportunities and respectful of one another's differences and perspectives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Division__Grils__Group_photo_with_supporters_after_Semi_finals.jpg">
+</div>
 <p><strong>Our Canberrans</strong> have the chance to showcase their talents
 and compete at various prestigious local competitions, including the National
 Schools Games and the Volleyball Association of Singapore (VAS) Under 13
@@ -29,8 +35,19 @@ ensuring they improve in physical, cognitive, and emotional aspects. Our
 comprehensive yearly program includes regular friendly matches with partner
 schools and immersive training camps, all designed to foster a strong,
 unified team spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Playing_hard_during_the_National_round.jpg">
+</div>
 <p>Join us at Canberra Secondary School Volleyball and become part of a vibrant
 community that celebrates hard work, dedication, and the joy of the game.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Serving_with_passion.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blocking.jpg">
+</div>
 <p><strong>Highlights for 2025 NSG</strong>
 </p>
 <p>Led by passionate coaches and fueled by unwavering determination, our
@@ -47,6 +64,9 @@ to strive for greatness, both individually and as a team.</p>
 reflected in the lessons learned, the friendships formed, and the memories
 created. Our volleyball teams continue to embody the values of perseverance,
 discipline, and sportsmanship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_proud_moment_with_the_Canberra_Secondary_School_volleyball_family__Here_s_to_teamwork__resilience__and_success_.jpg">
+</div>
 <p><strong>Student Voices</strong>
 </p>
 <p>"I have had the honour of serving as the Captain of the Canberra Volleyball

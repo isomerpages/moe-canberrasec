@@ -60,7 +60,13 @@ individuals and as a team.”</p>
 as part of our Values-In-Action projects. These include the Canberra Zone
 2 Residents' Network Chinese New Year Lo-Hei Celebration, Hari Raya Celebration@Bukit
 Canberra and the FAM K@North West CDC National Day Celebrations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0007.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0020.jpg">
+</div>
 <p>Looking ahead, we aim to strengthen our community ties and enhance <strong>our Canberrans'</strong> performance
 skills through continued participation in various events and performances.</p>
 <table style="minWidth: 50px">
@@ -119,3 +125,4 @@ skills through continued participation in various events and performances.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>

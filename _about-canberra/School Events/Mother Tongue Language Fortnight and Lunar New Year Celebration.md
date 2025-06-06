@@ -32,6 +32,20 @@ joy to everyone.</p>
 culture and traditions but also bonded with their friends and teachers.
 The event encouraged them to appreciate diversity, express gratitude, and
 celebrate the Lunar New Year in a meaningful way.</p>
+<p></p>
+<blockquote>
+<p>"This year's Chinese New Year celebration in school was truly memorable.
+I enjoyed taking part in the various cultural activities like calligraphy,
+lantern making, and Lo Hei. These hands-on experiences helped me learn
+more about Chinese culture in a fun and interactive way. One of the most
+enjoyable moments was doing Lo Hei with my classmates. Tossing the colourful
+ingredients together while shouting auspicious phrases created a joyful
+atmosphere and strengthened our class spirit. Through these activities,
+I gained a stronger appreciation for traditions and the importance of showing
+compassion and kindness to others."</p>
+<p>--- Goh Le Xuan, 2 Kindness</p>
+</blockquote>
+<p></p>
 <p><strong>感恩惜福迎新春，携手共创2025新篇章</strong>
 </p>
 <p>为迎接2025年农历新年，我校于1月20日至28日举办了一系列精彩纷呈的庆祝活动，全校师生与家长群策群力，共同营造了一个充满感恩与喜悦的校园氛围。</p>

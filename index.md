@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/2025_June_banner_merged.gif
+      background: /images/2025_June_banner_merged_ver_230625.gif
       variant: center
       key_highlights:
         - title: Direct School Admission (DSA) 2025 Information

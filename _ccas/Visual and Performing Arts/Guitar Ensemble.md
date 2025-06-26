@@ -61,8 +61,7 @@ their musical journey through diverse performance experiences.&nbsp;&nbsp;&nbsp;
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_3.jpg">
 </div>

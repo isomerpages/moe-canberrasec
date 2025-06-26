@@ -37,10 +37,12 @@ and strategic thinking.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roles</p>
+<p><strong>Roles</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 </tr>
 <tr>

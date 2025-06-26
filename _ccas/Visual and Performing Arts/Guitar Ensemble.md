@@ -28,6 +28,10 @@ their musical journey through diverse performance experiences.&nbsp;&nbsp;&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_7.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_9.jpg">
+</div>
 <p><strong>Current Teachers-In-Charge and Training Schedule</strong>
 </p>
 <table style="minWidth: 50px">

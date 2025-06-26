@@ -12,19 +12,28 @@ diverse repertoires while enhancing their technical skills and musical
 expression. Our vision is to create a vibrant, inclusive environment where
 musicians grow, share their passion, and contribute to the cultural landscape
 through high-quality performances and educational outreach.</p>
-<h4><strong>Highlights and Achievements</strong></h4>
-<p>These platforms provide valuable performance experience, build confidence,
-and connect students with broader audiences while celebrating their musical
-achievements. Ensemble members may also participate in collaborative projects
-with other schools and cultural festivals, further enriching their musical
-journey.</p>
+<p><strong>Highlights and Achievements</strong>
+</p>
+<p>Our ensemble provides valuable performance opportunities that build confidence
+and connect students with broader audiences. Recent highlights include
+a collaborative performance with a renowned German musician at Victoria
+Concert Hall, commemorating 60 years of diplomatic relations between Singapore
+and Germany. We actively seek opportunities for our members to participate
+in collaborative projects with other schools and cultural festivals, enriching
+their musical journey through diverse performance experiences.&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Ensemble_Festival_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Ensemble_Festival_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_7.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_9.jpg">
+</div>
+<p><strong>Current Teachers-In-Charge and Training Schedule</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,53 +61,28 @@ journey.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_3.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_4.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_8.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_5.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Pic_1.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p></p>

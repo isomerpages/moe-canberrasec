@@ -37,7 +37,6 @@ public good while broadening their global perspectives.</p>
 <p>For a detailed overview of the Cambodia OSL experience, including photos
 and student reflections, please visit our <em>Cambodia Overseas Service-Learning Google Site - <a href="https://sites.google.com/moe.edu.sg/oljcambodia/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/oljcambodia/home</a></em>
 </p>
-<p>&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6GUxwNWb3ZM?si=fcAaIFvqy345KocH"></iframe>
 </div>

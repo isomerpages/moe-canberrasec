@@ -5,65 +5,100 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs
 ---
-<h3><strong>Robotics Club: Building the Future, One Bot at a Time (New CCA in 2025!)</strong></h3>
-<h4><strong>Vision:</strong></h4>
-<p>The Robotics Club strives to ignite a passion for Science, Technology,
-Engineering, and Mathematics (STEM) in students by providing a platform
-to design, build, and program robots. We aim to empower our members to
-become innovative thinkers, problem-solvers, and future leaders in the
-technological landscape.</p>
-<h4><strong>About Us:</strong></h4>
-<p>The Robotics Club utilizes the industry-standard VEX V5 robotics platform,
-known for its approachable design and powerful capabilities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/P_20240726_151504.jpg">
-</div>
-<h4><strong>VEX V5: Your Gateway to Robotics</strong></h4>
-<p>VEX V5 represents the fifth generation of educational robotics systems,
-built upon 20 years of experience in fostering STEM learning. Its user-friendly
-electronics and versatile mechanical system make it ideal for both novice
-and experienced users.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Approachable Electronics:</strong> VEX V5 boasts state-of-the-art
-technology, ensuring a smooth learning curve for beginners.</p>
-</li>
-<li>
-<p><strong>Flexible Mechanical System:</strong> Versatile building elements
-allow for limitless design possibilities, catering to both novice and experienced
-builders.</p>
-</li>
-<li>
-<p><strong>Computational Thinking Skills:</strong> Programming VEX robots
-refines critical computational thinking skills crucial for success in the
-21st-century workforce and everyday life.</p>
-</li>
-</ul>
-<h4><strong>Calling all 2025 Sec One students! Join our Robotics Club and:</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>learn the fundamentals of robotics design, construction, and programming.</p>
-</li>
-<li>
-<p>participate in team-based projects and challenges, fostering collaboration
-and communication skills.</p>
-</li>
-<li>
-<p>compete in regional and national robotics competitions, putting your skills
-to the test on a larger stage</p>
-</li>
-<li>
-<p>develop critical thinking, problem-solving, and perseverance through the
-exciting world of robotics.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/P_20240726_151244.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_113629.png">
-</div>
-<h3><strong>Let the Robotics Club be your launchpad into the future of technology!</strong></h3>
-<p></p>
-<p></p>
+<h3><strong>Robotics Club: Building the Future, One Bot at a Time </strong></h3>
+<p>The Robotics CCA at Canberra Secondary School is a newly established club
+focused on the VEX V5 Robotics platform. The CCA provides students with
+hands-on experience in STEM through robot design, building, and programming.
+In just two years, the CCA has already made its mark by winning several
+awards in local and regional competitions. Students learn teamwork, engineering
+design principles and creative problem-solving as they prepare for national
+and international VEX tournaments.</p>
+<p>VEX Robotics competitions challenge teams to design, build, and program
+robots to complete specific game objectives, testing both technical skills
+and strategic thinking.</p>
+<h4>Teacher-in-Charge and Student Leaders</h4>
+<p>Teacher-in-Charge: Mdm Wong Hui Yi</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEKAR YATHEESWAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Vice Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEO JING QI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHYE CHENG ZHANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BALAGOT MARY ANCHESKA, QI XINZHUO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CABRERA PAULA MARGARET MANIBO, LIANG SHUNSHUN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Key Achievements (2024–2025)</h3>
+<h4><u>2024 Competitions:</u></h4>
+<p>In our first ever competition at the Newcomer Meets held at ACS(I), our
+junior team reached the quarterfinals and secured a top 8 position.</p>
+<p>At the Singapore VEX V5 RC Open Tournament 2024, involving teams from
+Hong Kong, Thailand, and Singapore, our team achieved a top 8 finish and
+received the Judges' Award for exceptional teamwork and sportsmanship among
+49 regional teams.</p>
+<h4><u>2025 Competitions:</u></h4>
+<p>At the Singapore VEX V5RC National Championship 2025, our team won the
+prestigious Create Award for outstanding creativity and innovation in engineering
+design.</p>
+<p>At the WorldSkills VEX V5 Robotics Competition, our students [Teams 2769B
+and 2769C - our school's registered team numbers] clinched the following
+awards:</p>
+<p>🏆 Create Award (Team 2769B) - recognizing innovative design and engineering
+excellence</p>
+<p>🏆 Amaze Award (Team 2769C) - for impressive robot performance and presentation</p>
+<p>🥈 Finalist Award (Team 2769C) - second place finish in the tournament</p>
+<p>At the IDE 2025 VEX Robotics Competition, our team earned the Think Award
+for strategic design and autonomous programming excellence.</p>
+<h4>Upcoming Goals and Events</h4>
+<p>With the start of the new VEX V5 season 'Push Back', our team aims to
+continue striving for excellence and improve our performance. We will build
+on our successes and continue to innovate, compete, and grow as a team.</p>
+<h4>Training Schedule</h4>
+<p>Robotics CCA training sessions are held every Friday from 2:00 PM to 5:00
+PM.</p>

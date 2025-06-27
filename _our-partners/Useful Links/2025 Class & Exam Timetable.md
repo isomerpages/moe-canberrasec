@@ -12,7 +12,6 @@ third_nav_title: Useful Links
 </p>
 <p><a href="/files/2025/2025_NT_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table</a>
 </p>
-<p></p>
 <h4>2025 Semester 2 Class Time Table</h4>
 <hr>
 <h4>Mother Tongue Languages Mid-Year Examination Time Table</h4>

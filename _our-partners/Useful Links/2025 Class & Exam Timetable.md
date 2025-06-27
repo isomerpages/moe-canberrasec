@@ -37,7 +37,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Diligence</p>
+<p><a href="/files/2025/1_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Diligence</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Diligence</p>
@@ -51,7 +52,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Empathy</p>
+<p><a href="/files/2025/1_Empathy_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Empathy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Honour</p>
@@ -65,7 +67,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Honour</p>
+<p><a href="/files/2025/1_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Honour</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Integrity</p>
@@ -79,7 +82,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Integrity</p>
+<p><a href="/files/2025/1_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Integrity</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Kindness</p>
@@ -93,7 +97,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Kindness</p>
+<p><a href="/files/2025/1_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Kindness</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Resilience</p>
@@ -107,7 +112,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Resilience</p>
+<p><a href="/files/2025/1_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Resilience</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Respect</p>

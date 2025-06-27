@@ -89,7 +89,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Kindness</p>
+<p><a href="/files/2025/2_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Kindness</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Integrity</p>
@@ -104,7 +105,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Resilience</p>
+<p><a href="/files/2025/2_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Resilience</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Harmony</p>
@@ -119,7 +121,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Respect</p>
+<p><a href="/files/2025/2_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Respect</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Respect</p>

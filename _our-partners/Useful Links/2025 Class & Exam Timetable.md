@@ -73,7 +73,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p><a href="/files/2025/2_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Integrity</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Diligence</p>

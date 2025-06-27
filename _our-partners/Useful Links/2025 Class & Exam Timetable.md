@@ -49,7 +49,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Empathy</p>
+<p><a href="/files/2025/4_Empathy_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Empathy</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +67,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Honour</p>
+<p><a href="/files/2025/4_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Honour</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +85,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Diligence</p>
+<p><a href="/files/2025/4_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Diligence</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +103,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Resilience</p>
+<p><a href="/files/2025/4_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Resilience</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +121,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Integrity</p>
+<p><a href="/files/2025/4_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Integrity</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +139,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Harmony</p>
+<p><a href="/files/2025/4_Harmony_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Harmony</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +156,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Respect</p>
+<p><a href="/files/2025/4_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Respect</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +171,8 @@ third_nav_title: Useful Links
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Kindness</p>
+<p><a href="/files/2025/4_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Kindness</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +186,8 @@ third_nav_title: Useful Links
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Integrity</p>
+<p><a href="/files/2025/5_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">5 Integrity</a>
+</p>
 </td>
 </tr>
 </tbody>

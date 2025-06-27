@@ -12,10 +12,165 @@ third_nav_title: Useful Links
 </p>
 <p><a href="/files/2025/2025_NT_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table</a>
 </p>
+<h4>2025 Semester 2 Class Time Table</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Cohort 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cohort 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cohort 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Cohort 4 &amp; 5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Empathy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Honour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Diligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Kindness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4>Mother Tongue Languages Mid-Year Examination Time Table</h4>
 <p><a href="/files/2025/MTL_MID_YR_EXAM_TT_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4E/5N/4N SBB MT</a>
 </p>
-<h4><br>2025 Semester 1 Class Time Table</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025 Semester 1 Class Time Table</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>Cohort 1</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -477,4 +632,11 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+</div>
+</details>
+</div>
+<h4></h4>
 <p></p>

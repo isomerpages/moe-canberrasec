@@ -12,10 +12,16 @@ third_nav_title: Useful Links
 </p>
 <p><a href="/files/2025/2025_NT_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table</a>
 </p>
+<p></p>
+<h4>2025 Semester 2 Class Time Table</h4>
+<hr>
 <h4>Mother Tongue Languages Mid-Year Examination Time Table</h4>
 <p><a href="/files/2025/MTL_MID_YR_EXAM_TT_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4E/5N/4N SBB MT</a>
 </p>
-<h4><br>2025 Semester 1 Class Time Table</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025 Semester 1 Class Time Table</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4>Cohort 1</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -477,4 +483,11 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
+</div>
+</details>
+</div>
+<h4></h4>
 <p></p>

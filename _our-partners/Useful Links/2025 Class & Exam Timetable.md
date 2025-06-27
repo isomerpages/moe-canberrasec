@@ -127,7 +127,8 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p><a href="/files/2025/1_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Respect</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

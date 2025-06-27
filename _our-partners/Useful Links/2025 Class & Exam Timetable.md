@@ -37,114 +37,127 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Diligence</p>
+<p><a href="/files/2025/1_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Diligence</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Diligence</p>
+<p><a href="/files/2025/2_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Diligence</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Empathy</p>
+<p><a href="/files/2025/3_Empathy_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Empathy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Empathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Empathy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Honour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Honour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Honour</p>
+<p><a href="/files/2025/4_Empathy_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Empathy</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Honour</p>
+<p><a href="/files/2025/1_Empathy_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Empathy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Integrity</p>
+<p><a href="/files/2025/2_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Honour</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Diligence</p>
+<p><a href="/files/2025/3_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Honour</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Diligence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Kindness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Resilience</p>
+<p><a href="/files/2025/4_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Honour</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Kindness</p>
+<p><a href="/files/2025/1_Honour_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Honour</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Resilience</p>
+<p><a href="/files/2025/2_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Integrity</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Harmony</p>
+<p><a href="/files/2025/3_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Diligence</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Integrity</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Harmony</p>
+<p><a href="/files/2025/4_Diligence_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Diligence</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Respect</p>
+<p><a href="/files/2025/1_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Kindness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Integrity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Resilience</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Kindness</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Harmony_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Harmony</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Integrity</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Resilience_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/2_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/3_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Respect</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/4_Harmony_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Harmony</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/1_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1 Respect</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Kindness</p>
+<p><a href="/files/2025/3_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Kindness</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 Respect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 Kindness</p>
+<p><a href="/files/2025/4_Respect_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Respect</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +171,23 @@ third_nav_title: Useful Links
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Integrity</p>
+<p><a href="/files/2025/4_Kindness_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Kindness</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025/5_Integrity_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">5 Integrity</a>
+</p>
 </td>
 </tr>
 </tbody>

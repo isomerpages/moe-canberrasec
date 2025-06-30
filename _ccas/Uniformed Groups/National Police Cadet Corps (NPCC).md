@@ -43,12 +43,21 @@ Group, cadets learn drills to instill discipline and build teamwork.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Police Youth Ambassador Values-in-Action (VIA): </strong>Cadets
 partner with local law enforcement to raise crime prevention awareness
 and contribute to the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PYA.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PYA2.jpg">
+</div>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Community Safety and Security Programme:</strong> Cadets
 engage in advocacy projects within the school to communicate key crime
 prevention messages.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Road Safety:</strong> Cadets learn
 essential skills in traffic management and public safety, highlighting
 the importance of vigilance in daily life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Road_Safety.jpg">
+</div>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>0.22 Revolver Shooting Competition: </strong>Secondary
 3 cadets have the opportunity to develop focus, discipline, and precision
 through competitive shooting.</p>
@@ -66,6 +75,9 @@ key values like integrity, responsibility, and respect. Our programmes
 empower cadets with the skills necessary to contribute positively to society
 and navigate the challenges of today's public safety and community engagement
 landscape.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Others.jpg">
+</div>
 <p><strong>Teachers in Charge &amp; Student Leaders<br>Officer-Commanding (OC) - </strong>A/ASP
 (NPCC) Jeremiah Tan
 <br><strong>Deputy Officer Commanding (DyOC) - </strong>ASP(NPCC) Olivia Ng
@@ -78,6 +90,9 @@ landscape.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>UOPA Distinction for 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UOPA_Distinction.jpg">
+</div>
 </li>
 <li>
 <p>Home Team Corps Award (Team - NPCC Canberra Secondary School NPCC Unit)
@@ -108,6 +123,7 @@ landscape.</p>
 </li>
 <li>
 <p>SSGT MUHAMMAD NAZRI</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Training Day / Time:</strong>

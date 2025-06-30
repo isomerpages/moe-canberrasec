@@ -8,21 +8,70 @@ third_nav_title: Sports & Games
 <h4><strong>Vision</strong></h4>
 <p>The Taekwondo Club aims to inculcate the values of discipline and self-control
 in our students, extending beyond physical benefits to mental and emotional
-development. Through regular training, competitions, and team-building
-activities, we teach valuable life skills, promote physical fitness, and
-foster a sense of community. This club plays a vital role in shaping well-rounded,
-confident individuals ready to face life's challenges.</p>
+development. Through teaching valuable life skills, promoting physical
+fitness, and fostering a sense of community, we shape well-rounded and
+confident individuals.</p>
 <h4><strong>Highlights and Achievements</strong></h4>
-<p>Our Taekwondo training sessions are designed to improve students' physical,
-mental, and emotional capabilities, preparing them for competitions in
-the National Schools Games (NSG). Members participate in bi-annual grading
-sessions and have the opportunity to compete at the NSG level, showcasing
-their skills and applying their learning. These experiences foster both
-independent work and teamwork.</p>
-<p>Beyond technical skills, our program incorporates Values-in-Action (VIA)
-activities, which help instill our school values of Gratitude, Respect,
-and Compassion in our student athletes. This holistic approach ensures
-that participants grow not only as athletes but also as well-rounded individuals.</p>
+<p>Our training programmes are designed to meet students' diverse needs,
+helping them improve in physical, mental, and emotional realms. Members
+participate in bi-annual grading sessions and compete in National School
+Games competitions, providing platforms to showcase their skills and apply
+their learning. Students develop both independent thinking and teamwork
+capabilities through these experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training_5.jpg">
+</div>
+<p>Our CCA programme includes Values in Action (VIA) activities that help
+inculcate the school values of Gratitude, Respect, and Compassion in our
+members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Krystal_Pose.jpg">
+</div>
+<h4><strong>2025 Achievements</strong></h4>
+<p>This year, 16 members represented the school in the National School Games,
+with twelve competing in Poomsae, four in Kyorugi, and three in both events.
+The team achieved outstanding results with 2 gold medals, 1 silver medal,
+and 2 bronze medals.</p>
+<p><strong><u>Competition Results:</u></strong>
+</p>
+<p>Poomsae Category:</p>
+<p>'C' Division Boys Individual - Silver: Han Wei Jue (2RP)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Han_Wei_Jue_Silver_Medalist.jpg">
+</div>
+<p>'C' Division Girls Individual - Gold: Celia Chong (2KI)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celia_Chong_Gold_Medalist.jpg">
+</div>
+<p>'B' Division Girls Individual - Gold: Doann Koh Xin Fang (3RP)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Doann_Koh_Gold_Medalist.jpg">
+</div>
+<p>'C' Division Boys Team - Bronze: Han Wei Jue (2RP), Muhammad Lutfil Hakim
+(2KI), Ashton Tan (2DI)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Team_Bronze.jpg">
+</div>
+<p></p>
+<p>Kyorugi Category:</p>
+<p>'B' Division Girls Individual - Bronze: Jenelle See (3HA)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jenelle_See_4_Bronze_Medalist.jpg">
+</div>
+<p></p>
+<p><em>We extend our gratitude to Mr Karthi for his dedication as Teacher-in-Charge and welcome our new Teachers-in-Charge, Mr Yazid and Mr Ng Kok Wah, as we look forward to continued success under their guidance.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prize_Giving___Assembly.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,33 +80,58 @@ that participants grow not only as athletes but also as well-rounded individuals
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-In-Charge :</strong>
+<p><strong>Team Captain:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Yazid</p>
+<p>Krystal Koh Jiayi (2 KI)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Day / Time :</strong>
+<p><strong>Vice-Captain:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 3 pm - 5.30 pm</p>
+<p>Nur Sheza Tamara Binte Yusri (3 DI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge :</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Yazid Bin Md Yatim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kok Wah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days / Time :</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday: 3.00 pm - 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Studio 2 (Level 2)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_29_at_11_20_11_AM__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_29_at_11_20_08_AM.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_29_at_11_20_10_AM__2_.jpg">
-</div>
-<p></p>
+<p>&nbsp;</p>

@@ -92,11 +92,8 @@ landscape.</p>
 <li>
 <p>SSGT MUHAMMAD NAZRI</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
-<p><strong>Training Day / Time: </strong>
+<p><strong>Training Day / Time:</strong>
 </p>
 <p>2.30 - 6.00 PM, Wednesdays (additional days may be required for special
 activities)</p>

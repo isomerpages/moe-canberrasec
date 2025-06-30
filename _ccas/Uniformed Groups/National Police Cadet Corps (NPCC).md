@@ -5,121 +5,97 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
-<p><strong>The National Police Cadet Corps (NPCC)</strong> aims to develop
-our members into active citizens and community leaders. We work in partnership
-with the Singapore Police Force to fight crime and keep Singapore safe.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unit_Photo.jpg">
-</div>
+<h4><strong>VISION</strong></h4>
+<p>Canberra National Police Cadet Corps (NPCC) Unit strives to develop our
+members to be active citizens and community leaders by working in partnership
+with the Singapore Police Force to fight crime and keep Singapore safe.
+Our unit is committed to NPCC's vision to become the best youth organisation
+in Singapore, one that actively helps to make Singapore the safest place
+in the world.</p>
+<p><strong>KEY PROGRAMMES:</strong>
+</p>
 <p>At Canberra Secondary School, our NPCC unit emphasises the development
 of skills and values through a range of experiential learning opportunities:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adventure Camps: Foster teamwork and resilience, encouraging cadets to
-step outside their comfort zones.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventure_training_Camp_at_Pulau_Ubin.jpg">
-</div>
-</li>
-<li>
-<p>Police Youth Ambassador Initiative: Provides insights into community policing,
-enhancing understanding of police-community relations and instilling civic
-responsibility.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Police_Youth_Ambassador.jpg">
-</div>
-</li>
-<li>
-<p>Community Safety and Security Programmes: Improve cadets' awareness of
-their role in maintaining a safe society.</p>
-</li>
-<li>
-<p>Road Safety Marshalling: Secondary 1 cadets learn essential skills in
-traffic management and public safety, highlighting the importance of vigilance
-in daily life.</p>
-</li>
-<li>
-<p>0.22 Revolver Shooting Competition: Offers Secondary 3 cadets the chance
-to develop focus, discipline, and precision.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0_22_Shooting_at_HTA.jpg">
-</div>
-</li>
-<li>
-<p>Unit Hikes: Promote physical fitness, endurance, connection to nature,
-and teamwork.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo_before_Unit_Hike_min.jpg">
-</div>
-</li>
-<li>
-<p>National Library Board's KidsRead Programme: Cultivates empathy and communication
-skills, enabling cadets to engage effectively with younger community members.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KidsRead_Program.jpg">
-</div>
-</li>
-<li>
-<p>Kayaking: Fosters physical activity while promoting leadership and decision-making
-skills in a dynamic environment.</p>
-</li>
-<li>
-<p>First Aid Courses: Equip cadets with vital life-saving techniques, emphasizing
-the importance of being prepared to assist others in emergencies.</p>
-</li>
-<li>
-<p>Police Knowledge Training: Cadets gain essential knowledge on crime prevention,
-police procedures, and basic laws, critical for any future career in law
-enforcement.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Equiping_exercise.jpg">
-</div>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Adventure Training Camp: </strong>Fosters
+teamwork and resilience, encouraging cadets to step outside their comfort
+zones.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Campcraft: </strong>Cadets learn
+essential survival skills including shelter building, fire starting, and
+knots and lashings</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Drills: </strong>As with any Uniform
+Group, cadets learn drills to instill discipline and build teamwork.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Police Youth Ambassador Values-in-Action (VIA): </strong>Cadets
+partner with local law enforcement to raise crime prevention awareness
+and contribute to the community.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Community Safety and Security Programme:</strong> Cadets
+engage in advocacy projects within the school to communicate key crime
+prevention messages.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Road Safety:</strong> Cadets learn
+essential skills in traffic management and public safety, highlighting
+the importance of vigilance in daily life.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>0.22 Revolver Shooting Competition: </strong>Secondary
+3 cadets have the opportunity to develop focus, discipline, and precision
+through competitive shooting.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cadet Leader Camp: Future cadet leaders</strong> attend
+a 2D1N camp to <strong>develop</strong> self-management <strong>skills, learn</strong> activity
+planning, and <strong>challenge themselves</strong> to become better leaders.</p>
+<p><a href="https://drive.google.com/file/d/1E8ZG2TvCHHHOOXYdKL6XpNfOOA37hyQt/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">NPCC CLC Video</a>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Unit Activities: </strong>Cadets
+participate in unit hikes, educational learning journeys, and Sports Exposure
+Programmes (SEP) such as the 1-star Kayaking programme and Air Pistol Exposure
+to build confidence and resilience.</p>
 <p>These diverse experiences help cultivate well-rounded individuals, instilling
 key values like integrity, responsibility, and respect. Our programmes
 empower cadets with the skills necessary to contribute positively to society
-and navigate the challenges of the ever-evolving landscape of public safety
-and community engagement.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Area_POP.jpg">
-</div>
-<p>We are also proud to announce that our unit achieved the Distinction Award
-for Unit Overall Proficiency Award (UOPA) 2023!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Water_Parade_before_Unit_Hike_min.jpg">
-</div>
+and navigate the challenges of today's public safety and community engagement
+landscape.</p>
+<p><strong>Teachers in Charge &amp; Student Leaders<br>Officer-Commanding (OC) - </strong>A/ASP
+(NPCC) Jeremiah Tan
+<br><strong>Deputy Officer Commanding (DyOC) - </strong>ASP(NPCC) Olivia Ng
+<br><strong>Chairperson: </strong>SGT Yee Ming Feng
+<br><strong>Vice-Chairperson Operations: </strong>SGT Fatehah
+<br><strong>Vice-Chairperson Administration: </strong>SGT Esterina</p>
+<h4><strong>Key Achievements from the Past Year:</strong></h4>
+<p><strong><u>Unit Awards</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>UOPA Distinction for 2024</p>
+</li>
+<li>
+<p>Home Team Corps Award (Team - NPCC Canberra Secondary School NPCC Unit)
+2024</p>
+</li>
+<li>
+<p>Area Inter Unit Drill Competition 2024 - 3rd Place</p>
+</li>
+</ul>
+<p><strong><u>Individual Awards</u></strong>
+</p>
+<p>SPF-NPCC Award Winners 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SI PUTERI</p>
+</li>
+<li>
+<p>SI KHASHIFA</p>
+</li>
+<li>
+<p>SI NUR QAISARAH</p>
+</li>
+</ul>
+<p>Best Unit Cadet Award Winners 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSGT YEE JIA EN</p>
+</li>
+<li>
+<p>SSGT MUHAMMAD NAZRI</p>
+</li>
+<li>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage_Centre_Visit_min.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-In-Charge :</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremiah Tan</p>
-<p>Mrs Ho Liting Olivia</p>
-<p>Ms Ma Lijuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training Day / Time :</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday 2.30 pm - 6 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+</li>
+</ul>
+<p><strong>Training Day / Time: </strong>2.30 - 6.00 PM, Wednesdays (additional
+days may be required for special activities)</p>

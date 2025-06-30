@@ -12,8 +12,7 @@ with the Singapore Police Force to fight crime and keep Singapore safe.
 Our unit is committed to NPCC's vision to become the best youth organisation
 in Singapore, one that actively helps to make Singapore the safest place
 in the world.</p>
-<p><strong>KEY PROGRAMMES:</strong>
-</p>
+<h4><strong>KEY PROGRAMMES:</strong></h4>
 <p>At Canberra Secondary School, our NPCC unit emphasises the development
 of skills and values through a range of experiential learning opportunities:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Adventure Training Camp: </strong>Fosters
@@ -97,5 +96,7 @@ landscape.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Training Day / Time: </strong>2.30 - 6.00 PM, Wednesdays (additional
-days may be required for special activities)</p>
+<p><strong>Training Day / Time: </strong>
+</p>
+<p>2.30 - 6.00 PM, Wednesdays (additional days may be required for special
+activities)</p>

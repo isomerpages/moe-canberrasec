@@ -18,11 +18,28 @@ of skills and values through a range of experiential learning opportunities:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Adventure Training Camp: </strong>Fosters
 teamwork and resilience, encouraging cadets to step outside their comfort
 zones.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ATC.jpg">
+</div>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Campcraft: </strong>Cadets learn
 essential survival skills including shelter building, fire starting, and
 knots and lashings</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Campcraft.jpg">
+</div>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Drills: </strong>As with any Uniform
 Group, cadets learn drills to instill discipline and build teamwork.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drills.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drills__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drills__3_.jpg">
+</div>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Police Youth Ambassador Values-in-Action (VIA): </strong>Cadets
 partner with local law enforcement to raise crime prevention awareness
 and contribute to the community.</p>

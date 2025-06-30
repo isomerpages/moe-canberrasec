@@ -9,10 +9,10 @@ variant: tiptap
 <p><strong>Vision</strong>
 </p>
 <p>At Canberra Secondary School, our Volleyball team is dedicated to nurturing
-a community of grateful, respectful, and compassionate <strong>Canberrans</strong> who
-excel both on and off the court. We are committed to providing our athletes
-with positive and enjoyable experiences, where they can grow, learn, and
-appreciate the sport of Volleyball.</p>
+a community of grateful, respectful, and compassionate Canberrans who excel
+both on and off the court. We are committed to providing our athletes with
+positive and enjoyable experiences, where they can grow, learn, and appreciate
+the sport of Volleyball.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/More_than_just_teammates_brothers_on_and_off_the_court_.jpg">
 </div>
@@ -24,13 +24,13 @@ for opportunities and respectful of one another's differences and perspectives.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Division__Grils__Group_photo_with_supporters_after_Semi_finals.jpg">
 </div>
-<p><strong>Our Canberrans</strong> have the chance to showcase their talents
-and compete at various prestigious local competitions, including the National
-Schools Games and the Volleyball Association of Singapore (VAS) Under 13
-and Under 16 competitions. These platforms provide invaluable experiences
-for our athletes to test their skills, demonstrate their growth, and appreciate
+<p>Our Canberrans have the chance to showcase their talents and compete at
+various prestigious local competitions, including the National Schools
+Games and the Volleyball Association of Singapore (VAS) Under 13 and Under
+16 competitions. These platforms provide invaluable experiences for our
+athletes to test their skills, demonstrate their growth, and appreciate
 the world of competitive sports.</p>
-<p>We tailor our training programs to meet the diverse needs of <strong>our Canberrans</strong>,
+<p>We tailor our training programs to meet the diverse needs of our Canberrans,
 ensuring they improve in physical, cognitive, and emotional aspects. Our
 comprehensive yearly program includes regular friendly matches with partner
 schools and immersive training camps, all designed to foster a strong,

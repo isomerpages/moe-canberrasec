@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <h4><strong>Vision</strong></h4>
-<p>
 <br>The Netball team at Canberra Secondary School aims to instill values of
 teamwork, perseverance and sportsmanship in its players. The team strives
 to create a nurturing environment where students can develop both their
@@ -14,12 +13,10 @@ athletic skills and personal growth. Our goal is to foster a lifelong love
 for the sport and to help students embody the school's core values of Gratitude,
 Respect and Compassion.
 <br>
-</p>
 <h4><strong>Motto</strong></h4>
-<p>
 <br>"Triumph through Tenacity”: We believe that perseverance is the key to
 progress. Our netballers are encouraged to embrace challenges with grit,
-a growth mindset and a positive attitude, both on and off the court.</p>
+a growth mindset and a positive attitude, both on and off the court.<p></p>
 <p></p>
 <p><strong>Highlights and Achievements</strong>
 </p>

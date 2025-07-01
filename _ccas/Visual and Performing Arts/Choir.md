@@ -21,6 +21,12 @@ repertoire — <em>What Is That I Hear?, Tres Canciones de Los Elementos, and Ay
 showcasing their musical growth, teamwork, and passion. Their dedication
 earned them a Certificate of Accomplishment, marking a proud milestone
 in their artistic journey.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2_2025.jpg">
+</div>
 <p>Student Reflection:</p>
 <p><em>"Participating in this year's SYF choir presentation was an unforgettable and enriching experience for me. After months of hard work and rehearsals that shaped our sound, we were proud to receive the Certificate of Accomplishment — an achievement I never imagined we could reach. Standing on stage with my fellow choir members, I felt a surge of confidence and a deep sense of unity as our voices blended in harmony. This journey taught me the value of perseverance, teamwork, and attention to detail. Despite moments of doubt and fatigue, the joy and satisfaction of performing at our best made it all worthwhile. Beyond improving my musical skills, this experience gave me lasting memories and friendships I will always treasure."</em>
 </p>
@@ -36,15 +42,27 @@ in their artistic journey.</p>
 <p>Our choir students participated in an inspiring Choir Exchange with Chung
 Cheng High Yishun and Tampines Secondary School, building skills and confidence
 in preparation for SYF 2025.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_Exchange_3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_Exchange_1.jpg">
+</div>
 <p>[2025 SYF students during the Choir Exchange]</p>
-<p>&nbsp;</p>
-<p>Senior Farewell Celebration</p>
+<p><strong>Senior Farewell Celebration</strong>
+</p>
 <p>Following their memorable SYF performance, choir members came together
 to honour and bid farewell to their graduating seniors. Junior members
 organised a heartfelt celebration to thank their seniors for their guidance,
 leadership, and dedication throughout the year.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_2.jpg">
+</div>
 <p>[Farewell Celebration in school]</p>
 <p><strong>Looking Forward</strong>
 </p>
@@ -52,10 +70,9 @@ leadership, and dedication throughout the year.</p>
 our members' performance skills through ongoing participation in future
 events and performances. Together, we will continue to grow in passion,
 harmony, and excellence.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_booth.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

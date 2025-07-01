@@ -13,7 +13,8 @@ self-confidence and leadership potential. We are committed to fostering
 a supportive and enriching environment where every member can grow musically
 and personally, contributing positively to the community.</p>
 <h4>2025 Highlights and Achievements</h4>
-<p>Singapore Youth Festival (SYF) Arts Presentation</p>
+<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
+</p>
 <p>On 22 April 2025, the Canberra Secondary School Choir participated in
 the Singapore Youth Festival Arts Presentation. The choir performed a diverse
 repertoire — <em>What Is That I Hear?, Tres Canciones de Los Elementos, and Aya Ngena</em> —
@@ -21,19 +22,17 @@ showcasing their musical growth, teamwork, and passion. Their dedication
 earned them a Certificate of Accomplishment, marking a proud milestone
 in their artistic journey.</p>
 <p>Student Reflection:</p>
-<p>"Participating in this year's SYF choir presentation was an unforgettable
-and enriching experience for me. After months of hard work and rehearsals
-that shaped our sound, we were proud to receive the Certificate of Accomplishment
-— an achievement I never imagined we could reach. Standing on stage with
-my fellow choir members, I felt a surge of confidence and a deep sense
-of unity as our voices blended in harmony. This journey taught me the value
-of perseverance, teamwork, and attention to detail. Despite moments of
-doubt and fatigue, the joy and satisfaction of performing at our best made
-it all worthwhile. Beyond improving my musical skills, this experience
-gave me lasting memories and friendships I will always treasure."</p>
-<p>— Heng Qi Le, 4 Resilience</p>
+<p><em>"Participating in this year's SYF choir presentation was an unforgettable and enriching experience for me. After months of hard work and rehearsals that shaped our sound, we were proud to receive the Certificate of Accomplishment — an achievement I never imagined we could reach. Standing on stage with my fellow choir members, I felt a surge of confidence and a deep sense of unity as our voices blended in harmony. This journey taught me the value of perseverance, teamwork, and attention to detail. Despite moments of doubt and fatigue, the joy and satisfaction of performing at our best made it all worthwhile. Beyond improving my musical skills, this experience gave me lasting memories and friendships I will always treasure."</em>
+</p>
+<p><em>— Heng Qi Le, 4 Resilience</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_1_2025.jpg">
+</div>
 <p>[2025 SYF Performers with parents]</p>
-<p>Choir Exchange Programme</p>
+<p><strong>Choir Exchange Programme</strong>
+</p>
 <p>Our choir students participated in an inspiring Choir Exchange with Chung
 Cheng High Yishun and Tampines Secondary School, building skills and confidence
 in preparation for SYF 2025.</p>

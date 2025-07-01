@@ -55,14 +55,6 @@ towards excellence.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/training_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/training_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/training_5.jpg">
 </div>
 <p></p>
@@ -86,11 +78,6 @@ started.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_4.jpg">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_3.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/friendly_2.jpg">
 </div>
@@ -99,12 +86,10 @@ started.</p>
 <p>Ms Siti Rezkiah</p>
 <p>Mrs Jesslyn Yeoh</p>
 <p>Mr Ryan Wong</p>
-<p>&nbsp;</p>
 <p><strong>Training Days &amp; Time</strong>
 </p>
 <p>Monday: 3:00pm – 5:30pm</p>
 <p>Wednesday: 3:00pm – 5:30pm</p>
-<p>&nbsp;</p>
 <p><strong>Learn More</strong>
 </p>
 <p>For more information about Netball, please refer to the links below:</p>

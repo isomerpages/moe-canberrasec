@@ -5,28 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<h4><strong>Vision</strong></h4>
-<p>
-<br>The Netball team at Canberra Secondary School aims to instill values of
-teamwork, perseverance and sportsmanship in its players. The team strives
-to create a nurturing environment where students can develop both their
-athletic skills and personal growth. Our goal is to foster a lifelong love
-for the sport and to help students embody the school's core values of Gratitude,
-Respect and Compassion.</p>
-<h4><strong>Motto</strong></h4>
-<p>
-<br>"Triumph through Tenacity”: We believe that perseverance is the key to
-progress. Our netballers are encouraged to embrace challenges with grit,
-a growth mindset and a positive attitude, both on and off the court.</p>
+<h4><strong>Vision</strong></h4>The Netball team at Canberra Secondary School aims to instill values of teamwork, perseverance and sportsmanship in its players. The team strives to create a nurturing environment where students can develop both their athletic skills and personal growth. Our goal is to foster a lifelong love for the sport and to help students embody the school's core values of Gratitude, Respect and Compassion.
+<h4><strong>Motto</strong></h4>"Triumph through Tenacity”: We believe that perseverance is the key to progress. Our netballers are encouraged to embrace challenges with grit, a growth mindset and a positive attitude, both on and off the court.
 <h4><strong>Highlights and Achievements</strong></h4>
 <p>In just its second year since its relaunch in 2024, Netball at Canberra
 Secondary School continues to grow from strength to strength.</p>
-<p>&nbsp;</p>
 <p>The team is currently participating in the 2025 National School Games
 (NSG) C Division, marking an important milestone. Competing with heart
 and determination, our players finished 3rd in their group during the pool
 games and secured their spot in the upcoming League games in Term 3.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/nsg_1.jpg">
 </div>

@@ -100,8 +100,3 @@ started.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p><strong>Images</strong>
-</p>
-<p>(Placeholder for team photo, training session photos and any other relevant
-images.)</p>
-<p>&nbsp;</p>

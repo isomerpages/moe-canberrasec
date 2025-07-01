@@ -142,6 +142,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Student Wellbeing &amp; Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
+115)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,15 +183,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Kumari_Nagapan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kumari Nagapan</a> (ext
 107)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Special Project)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
-115)</p>
 </td>
 </tr>
 <tr>

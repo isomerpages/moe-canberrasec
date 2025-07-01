@@ -5,53 +5,73 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
+<h4>Vision</h4>
 <p>Our choir enables students, from beginners to advanced musicians, to learn
 and apply vocal and choral techniques. Through personal and creative expression
 in individual, small group, and large group performances, we build students'
-self-confidence and leadership potential. By participating in Values in
-Action (VIA) activities with Canberra Elderly RN Zone 3, we instill the
-values of Gratitude, Respect, and Compassion in our students. We are committed
-to fostering a supportive and enriching environment where every member
-can grow musically and personally, contributing positively to the community.</p>
-<h4><strong>Highlights and Achievements</strong></h4>
-<p>The choir's participation in Canberra Day on 10 March 2024 presented a
-vibrant opportunity to engage with the community through music and celebration
-with the Sound of Music Medley. By performing at this significant event,
-the choir not only showcased their musical talents but also fostered a
-deeper connection with residents. This engagement allowed the choir to
-contribute to the festive atmosphere of Canberra Day, strengthening community
-ties and enhancing the cultural fabric of the celebration. The experience
-was both rewarding for the choir members and enriching for the community,
-as it highlighted the power of music in bringing people together and celebrating
-shared values.</p>
+self-confidence and leadership potential. We are committed to fostering
+a supportive and enriching environment where every member can grow musically
+and personally, contributing positively to the community.</p>
+<h4>2025 Highlights and Achievements</h4>
+<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
+</p>
+<p>On 22 April 2025, the Canberra Secondary School Choir participated in
+the Singapore Youth Festival Arts Presentation. The choir performed a diverse
+repertoire — <em>What Is That I Hear?, Tres Canciones de Los Elementos, and Aya Ngena</em> —
+showcasing their musical growth, teamwork, and passion. Their dedication
+earned them a Certificate of Accomplishment, marking a proud milestone
+in their artistic journey.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2_2025.jpg">
+</div>
+<p>Student Reflection:</p>
+<p><em>"Participating in this year's SYF choir presentation was an unforgettable and enriching experience for me. After months of hard work and rehearsals that shaped our sound, we were proud to receive the Certificate of Accomplishment — an achievement I never imagined we could reach. Standing on stage with my fellow choir members, I felt a surge of confidence and a deep sense of unity as our voices blended in harmony. This journey taught me the value of perseverance, teamwork, and attention to detail. Despite moments of doubt and fatigue, the joy and satisfaction of performing at our best made it all worthwhile. Beyond improving my musical skills, this experience gave me lasting memories and friendships I will always treasure."</em>
+</p>
+<p><em>— Heng Qi Le, 4 Resilience</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_1_2025.jpg">
+</div>
+<p>[2025 SYF Performers with parents]</p>
+<p><strong>Choir Exchange Programme</strong>
+</p>
+<p>Our choir students participated in an inspiring Choir Exchange with Chung
+Cheng High Yishun and Tampines Secondary School, building skills and confidence
+in preparation for SYF 2025.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_Exchange_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_Exchange_1.jpg">
 </div>
-<p>The Catholic High School Choir's Limelight Concert, held on 11 March 2024
-at the Esplanade Concert Hall, provided students with a significant opportunity
-for growth and development. The event exposed students to a prestigious
-performance environment, allowing them to experience the dynamics of a
-major concert venue. Performing at such a distinguished location enhanced
-their technical skills and stage presence, while offering valuable insights
-into the professional music world. The exposure inspired students, boosted
-their confidence, and contributed substantially to their artistic and personal
-growth.</p>
+<p>[2025 SYF students during the Choir Exchange]</p>
+<p><strong>Senior Farewell Celebration</strong>
+</p>
+<p>Following their memorable SYF performance, choir members came together
+to honour and bid farewell to their graduating seniors. Junior members
+organised a heartfelt celebration to thank their seniors for their guidance,
+leadership, and dedication throughout the year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_1.jpg">
 </div>
-<p>In a notable milestone for 2024, Canberra Secondary School successfully
-hosted its Day Camp on the 28th and 29th of May. The event focused on improving
-vocal skills and choral techniques, enhancing group cohesion and teamwork,
-and preparing students for upcoming performances, including SYF2025. The
-camp was not only highly educational but also an enjoyable and memorable
-experience, marking a key moment in the students' musical development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_2.jpg">
+</div>
+<p>[Farewell Celebration in school]</p>
+<p><strong>Looking Forward</strong>
+</p>
+<p>We remain committed to strengthening our choir community and developing
+our members' performance skills through ongoing participation in future
+events and performances. Together, we will continue to grow in passion,
+harmony, and excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_booth.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -61,25 +81,52 @@ experience, marking a key moment in the students' musical development.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers-In-Charge</strong>
+<p><strong>Teachers-In-Charge:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Diyana Hashim
-<br>Ms Wong Mun Foong</p>
+<p>Ms Nurul Diyana Bte Hashim</p>
+<p>Ms Wong Mun Foong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days / Time</strong>
+<p><strong>Training Days / Time:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday 3pm - 5pm</p>
-<p>Wednesday 3pm – 6pm</p>
+<p>Wednesday, 3.00 pm – 5.30 pm</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BUHRMAN BREANHA CHARLENE DALISAY (3 Empathy)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-president:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR ALYSHA BINTE MOHAMMAD HAFFIZ (3 Honour)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

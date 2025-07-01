@@ -24,6 +24,7 @@ in their artistic journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2_2025.jpg">
 </div>
@@ -100,7 +101,7 @@ harmony, and excellence.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

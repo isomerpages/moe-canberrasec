@@ -8,9 +8,9 @@ third_nav_title: Useful Links
 <h4>Sec 4/5 Preliminary Examinations 2025 Time Table</h4>
 <p><a href="/files/2025/2025_O_Level_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 O Level Prelim Time Table</a>
 </p>
-<p><a href="/files/2025/2025_NA_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NA Prelim Time Table</a>
+<p><a href="/files/2025/2025_NA_Prelim_TT_2_July.pdf" rel="noopener nofollow" target="_blank">2025 NA Prelim Time Table (Updated 2 July 2025)</a>
 </p>
-<p><a href="/files/2025/2025_NT_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table</a>
+<p><a href="/files/2025/2025_NT_Prelim_TT_2_July.pdf" rel="noopener nofollow" target="_blank">2025 NT Prelim Time Table (Updated 2 July 2025)</a>
 </p>
 <h4>2025 Semester 2 Class Time Table</h4>
 <table style="minWidth: 100px">

@@ -14,7 +14,7 @@ Breakfast Dialogue sessions with School Leaders.</p>
 with School Leaders will be held on the following dates:</p>
 <p>Session 1: 18 February 2025, Tuesday, 8am – 9.30am</p>
 <p>Session 2: 9 April 2025, Wednesday, 8am – 9.30am</p>
-<p>Session 3: 10 July 2025, Thursday, 8am – 9.30am&nbsp;
+<p>Session 3: 11 July 2025, Friday, 8am – 9.30am&nbsp;
 <br>
 <br>
 </p>

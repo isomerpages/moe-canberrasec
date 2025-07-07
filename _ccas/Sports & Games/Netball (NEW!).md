@@ -5,8 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<h4><strong>Vision</strong></h4>The Netball team at Canberra Secondary School aims to instill values of teamwork, perseverance and sportsmanship in its players. The team strives to create a nurturing environment where students can develop both their athletic skills and personal growth. Our goal is to foster a lifelong love for the sport and to help students embody the school's core values of Gratitude, Respect and Compassion.
-<h4><strong>Motto</strong></h4>"Triumph through Tenacity”: We believe that perseverance is the key to progress. Our netballers are encouraged to embrace challenges with grit, a growth mindset and a positive attitude, both on and off the court.
+<h4><strong>Vision</strong></h4>
+<p>The Netball team at Canberra Secondary School aims to instill values of
+teamwork, perseverance and sportsmanship in its players. The team strives
+to create a nurturing environment where students can develop both their
+athletic skills and personal growth. Our goal is to foster a lifelong love
+for the sport and to help students embody the school's core values of Gratitude,
+Respect and Compassion.</p>
+<h4><strong>Motto</strong></h4>
+<p>"Triumph through Tenacity”: We believe that perseverance is the key to
+progress. Our netballers are encouraged to embrace challenges with grit,
+a growth mindset and a positive attitude, both on and off the court.</p>
 <h4><strong>Highlights and Achievements</strong></h4>
 <p>In just its second year since its relaunch in 2024, Netball at Canberra
 Secondary School continues to grow from strength to strength.</p>
@@ -72,7 +81,6 @@ started.</p>
 </p>
 <p>Ms Siti Rezkiah</p>
 <p>Mrs Jesslyn Yeoh</p>
-<p>Mr Ryan Wong</p>
 <p><strong>Training Days &amp; Time</strong>
 </p>
 <p>Monday: 3:00pm – 5:30pm</p>

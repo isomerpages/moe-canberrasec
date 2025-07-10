@@ -308,6 +308,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tham Michelle</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher CL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -376,6 +385,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahira_shari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahira Shari</a>
+</p>
+<p><a href="mailto:Farah_Dilla_Sulaiman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farah Dilla</a>
 </p>
 </td>
 </tr>

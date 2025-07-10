@@ -67,6 +67,38 @@ description: ""
 Amaze Award and Finalist Award</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Commendation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Certificate of Accomplishment</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>2024</h3>

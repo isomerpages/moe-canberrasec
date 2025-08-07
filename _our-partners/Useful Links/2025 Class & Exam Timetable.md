@@ -5,6 +5,17 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
+<h4>Secondary 1-3 End-Of-Year Examination Time Table</h4>
+<p><a href="/files/2025/Sec_1_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Exam Time Table</a>
+</p>
+<p><a href="/files/2025/Sec_2_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Exam Time Table</a>
+</p>
+<p><a href="/files/2025/Sec_3E_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Empathy, 3 Honour &amp; 3 Diligence EOY Exam Time Table</a>
+</p>
+<p><a href="/files/2025/Sec_3NA_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Integrity &amp; 3 Harmony EOY Exam Time Table</a>
+</p>
+<p><a href="/files/2025/Sec_3NT_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Respect &amp; 3 Kindness EOY Exam Time Table</a>
+</p>
 <h4>Sec 4/5 Preliminary Examinations 2025 Time Table</h4>
 <p><a href="/files/2025/2025_O_Level_Prelim_TT_20_May.pdf" rel="noopener nofollow" target="_blank">2025 O Level Prelim Time Table</a>
 </p>

@@ -271,7 +271,8 @@ variant: tiptap
 <p>Assistant Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng</p>
+<p><a rel="noopener nofollow" target="_blank">Mr Jeremy Tng</a>
+</p>
 </td>
 </tr>
 <tr>

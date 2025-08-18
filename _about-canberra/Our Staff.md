@@ -268,6 +268,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Tng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">

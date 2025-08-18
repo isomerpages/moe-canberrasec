@@ -133,15 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ching_tard@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Ching Tard</a> (ext
-117)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Student Wellbeing &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">

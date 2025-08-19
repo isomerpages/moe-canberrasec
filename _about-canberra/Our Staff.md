@@ -133,15 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ching_tard@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Ching Tard</a> (ext
-117)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Student Wellbeing &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,6 +268,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assistant Discipline Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener nofollow" target="_blank">Mr Jeremy Tng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -367,15 +367,6 @@ variant: tiptap
 <p><a href="mailto:ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
 </p>
 <p><a href="mailto:chua_shu_ting_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Christine Chua</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fong_siew_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fong Siew Kay</a>
 </p>
 </td>
 </tr>

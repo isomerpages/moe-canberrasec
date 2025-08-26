@@ -45,4 +45,7 @@ third_nav_title: School Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/250814132615415.jpg">
 </div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fezhopSQcSo?si=yQP6zKXrzu7Vc4C9"></iframe>
+</div>
 <p></p>

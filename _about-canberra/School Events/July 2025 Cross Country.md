@@ -30,3 +30,7 @@ third_nav_title: School Events
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G1Flu62w5O8?si=VIG-3wCbcFHwBndb"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EJgMVEa9Wpk?si=CoL3iKEqtJTQLHWe"></iframe>
+</div>
+<p></p>

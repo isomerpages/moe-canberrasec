@@ -11,3 +11,7 @@ games, low-element challenges, outdoor cooking, dragon boating, navigation
 hikes, and reflective sessions. The camp cultivated socio-emotional competences,
 leadership skills, peer relationships, and a spirit of adventure whilst
 building a positive, supportive class environment.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fezhopSQcSo?si=yQP6zKXrzu7Vc4C9"></iframe>
+</div>
+<p></p>

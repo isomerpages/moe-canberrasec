@@ -1,6 +1,6 @@
 ---
-title: Sec 3 OAL Camp
-permalink: /sec-3-oal-camp/
+title: Sec 3 OAL Camp 2024
+permalink: /sec-3-oal-camp-2024/
 variant: tiptap
 description: ""
 third_nav_title: Outdoor Adventure Learning

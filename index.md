@@ -10,10 +10,6 @@ sections:
       url: /contact-us/
       background: /images/2025_June_banner_merged_ver_230625.gif
       variant: center
-      key_highlights:
-        - title: Direct School Admission (DSA) 2025 Information
-          description: Please click here for details
-          url: https://www.canberrasec.moe.edu.sg/dsa/
   - infopic:
       alt: Image alt text
       image: /images/Homepage_text.png

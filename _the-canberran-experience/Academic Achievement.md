@@ -66,7 +66,6 @@ all participants for their literary passion and creative expression!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -4,6 +4,22 @@ permalink: /academic-achievement/
 description: ""
 variant: tiptap
 ---
+<h3>2025</h3>
+<p><strong>NIE Mathematics Challenge</strong>
+</p>
+<p>The NIE Mathematics Challenge is an annual competition organised by the
+National Institute of Education, designed to stretch mathematical thinking
+through non-routine problems that go beyond the school curriculum. The
+challenge encourages creativity, logical reasoning, and perseverance in
+problem-solving. Several of our students rose to this challenge, with a
+number achieving High Distinction and Distinction Awards.</p>
+<p>Well done Canberrans, for your exceptional mathematical prowess. To all
+our budding mathematicians: don't shy away from challenging problems that
+seem impossible at first glance. Every complex equation you tackle, every
+creative solution you discover, strengthens your analytical thinking. Mathematics
+is not just about getting the right answer—it's about developing the resilience
+to keep trying when the path isn't clear.</p>
+<hr>
 <h3>2023</h3>
 <table style="minWidth: 25px">
 <colgroup>

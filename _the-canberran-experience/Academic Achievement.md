@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3>2025</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>NIE Mathematics Challenge</strong>
 </p>
 <p>The NIE Mathematics Challenge is an annual competition organised by the
@@ -19,8 +26,52 @@ seem impossible at first glance. Every complex equation you tackle, every
 creative solution you discover, strengthens your analytical thinking. Mathematics
 is not just about getting the right answer—it's about developing the resilience
 to keep trying when the path isn't clear.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Chef Culinary Competition</strong>
+</p>
+<p>At Republic Polytechnic's Junior Chef Culinary Competition, finalists
+from top schools showcased their culinary artistry. Xanneth and Afie from
+Sec 3 Respect proudly represented Canberra Secondary, crafting their innovative
+take on the Awesome Pedas burger. While they didn't place in the top three,
+these aspiring chefs gained invaluable experience working in an industrial-standard
+kitchen. We applaud their creativity and determination in this competitive
+culinary arena.</p>
+<p></p>
+<p>Xanneth and Afie show us that every experience is a stepping stone to
+growth. To all Canberrans with creative passions: pursue what excites you,
+even if the outcome is uncertain. Whether it's cooking, art, music, or
+any other pursuit, the courage to try and the willingness to learn matter
+more than winning. Your creativity and determination today build the foundation
+for tomorrow's success.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The National Schools Literature Festival (NSLF)</strong>
+</p>
+<p>The National Schools Literature Festival provides a vibrant platform for
+developing students' passion for literature, collaboratively organized
+by educators with support from the Ministry of Education, National Institute
+of Education, National Arts Council and Singapore Book Council.</p>
+<p>Our budding writers and literature enthusiasts embraced this opportunity
+with gusto. Canberrans submitted Flash Fictions exploring the theme "60",
+while our lower secondary cohort created compelling Book Trailers and Upper
+Secondary Literature students engaged in spirited Unseen Debates. We honor
+all participants for their literary passion and creative expression!</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
-<h3>2023</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -282,4 +333,10 @@ at Institut Lyfe, in France.
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h3></h3>
 <p></p>

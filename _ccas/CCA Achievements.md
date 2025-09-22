@@ -23,11 +23,10 @@ you compete. Our character as athletes speaks louder than any trophy or
 medal. To all our current and future sports representatives: strive to
 compete with the same honor and sportsmanship that makes our school proud,
 both in victory and defeat.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_21_AM.jpg">
 </div>
-<p></p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

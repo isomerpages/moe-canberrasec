@@ -5,6 +5,25 @@ variant: tiptap
 description: ""
 ---
 <h3>2025</h3>
+<p><strong>Display of Sportsmanship during NSG</strong>
+</p>
+<p>We celebrate Badminton C Boys Captain, Hariharan s/o Alagappan of 2 Resilience,
+for his outstanding display of sportsmanship. During the 3rd/4th Placing
+Match of the National League 2 Badminton Competition on 22 August 2025
+against Evergreen Secondary School, this exceptional Canberran impressed
+both their Principal and teachers-in-charge with his grit, skill, and integrity.
+In a crucial rally, the umpire had awarded him a point, but Hariharan immediately
+corrected the call, declaring the shuttle out. By placing fairness and
+honesty above personal and team advantage, he left a lasting impression
+on the opposing school and match officials. His actions truly embody the
+spirit of sport—honesty, integrity, and respect for the game.</p>
+<p>Hariharan's exemplary conduct serves as an inspiration to all our Canberran
+athletes. Remember that true victory lies not just in winning, but in how
+you compete. Our character as athletes speaks louder than any trophy or
+medal. To all our current and future sports representatives: strive to
+compete with the same honor and sportsmanship that makes our school proud,
+both in victory and defeat.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,6 +120,7 @@ Amaze Award and Finalist Award</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>2024</h3>
 <table style="minWidth: 50px">
 <colgroup>

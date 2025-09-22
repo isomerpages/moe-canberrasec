@@ -26,6 +26,35 @@ seem impossible at first glance. Every complex equation you tackle, every
 creative solution you discover, strengthens your analytical thinking. Mathematics
 is not just about getting the right answer—it's about developing the resilience
 to keep trying when the path isn't clear.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_22_AM.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Junior Chemistry Olympiad (SJChO) 2025 </strong>
+</p>
+<p>More than 2000 students from over 80 secondary schools across Singapore
+participated in the Singapore Junior Chemistry Olympiad (SJChO), organized
+by the Singapore National Institute of Chemistry (SNIC). This prestigious
+competition challenges students' chemistry knowledge and skills while promoting
+excitement in learning and identifying young Chemistry talents.</p>
+<p>&nbsp;</p>
+<p>Our representatives, Ramesh Hrithik and Zhang Duoduo from 4 Empathy, distinguished
+themselves by advancing to Round 2. Hrithik secured the Bronze Award while
+Duoduo earned the Merit Award—achievements that reflect their dedication
+to scientific excellence. Hrithik was also invited to the Award Ceremony
+held at MOE Building to receive his Bronze Award. Well done, Hrithik and
+Duoduo!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_26_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_27_AM.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -61,7 +90,10 @@ with gusto. Canberrans submitted Flash Fictions exploring the theme "60",
 while our lower secondary cohort created compelling Book Trailers and Upper
 Secondary Literature students engaged in spirited Unseen Debates. We honor
 all participants for their literary passion and creative expression!</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_56_03_AM.jpg">
+</div>
 </td>
 </tr>
 </tbody>

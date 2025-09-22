@@ -23,3 +23,11 @@ Duoduo!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJChO___Hrithik.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_26_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_54_27_AM.jpg">
+</div>
+<p></p>

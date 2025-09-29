@@ -46,3 +46,11 @@ school on this international platform.</p>
 <p>This milestone is a testament to the growing strength of our Robotics
 programme, and we look forward to seeing more Canberrans shine on both
 local and global stages.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/250919162205453LS.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/250919162317345LS.jpg">
+</div>
+<p></p>

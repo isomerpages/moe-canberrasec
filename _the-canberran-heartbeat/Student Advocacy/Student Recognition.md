@@ -152,24 +152,6 @@ qualities and achievements.</p>
 the school values of <strong>Gratitude, Respect, and Compassion (GRC)</strong>.</p>
 </li>
 <li>
-<p><strong>Adherence to GRC GEMS Deliverable Outcomes:</strong>
-<br>The nominee should embody the following GRC GEMS outcomes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>G:</strong> Going the Extra Mile</p>
-</li>
-<li>
-<p><strong>E:</strong> Effective in Teams</p>
-</li>
-<li>
-<p><strong>M:</strong> Model the Way</p>
-</li>
-<li>
-<p><strong>S:</strong> Self-Directed Learner</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>Exemplary Role Model:</strong>
 <br>The nominee should possess qualities associated with outstanding character
 and be able to inspire others as a role model.</p>

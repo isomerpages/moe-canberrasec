@@ -14,7 +14,10 @@ on this link: <a href="https://www.canberrasec.moe.edu.sg/student-recognition/" 
 </p>
 <p>If you wish to nominate a deserving student or your child for the ECHA,
 please click on the link or scan the QR code attached and submit your nomination.</p>
-<p>Nomination link: &nbsp;</p>
+<p>Nomination link: <a href="https://go.gov.sg/echanominations2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/echanominations2025</a>&nbsp;</p>
 <p>QR Code:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/ECHA2025.jpg">
+</div>
 <p>Please submit your completed nomination by <strong><u>1700 hrs on Monday, 13<sup>th</sup> October 2025</u></strong>.</p>
 <p>Thank you.</p>

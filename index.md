@@ -19,6 +19,14 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: "Overseas Learning Journey 2025: Vietnam"
+          date: 08 October 2025
+          announcement: Our students will be departing on an Overseas Learning Journey to
+            Ho Chi Minh, Vietnam, from 14-18 October 2025. For daily updates,
+            photos and student reflections, please visit the OLJ Google Site
+            linked below.
+          link_text: 2025 Vietnam OLJ Google Site
+          link_url: https://sites.google.com/moe.edu.sg/oljhcm2025/home
         - title: "Overseas Learning Journey 2025: Bali"
           date: 27 May 2025
           announcement: This overseas learning journey aims to provide students with
@@ -51,14 +59,6 @@ sections:
             Sands Expo & Convention Centre.
           link_text: Click here to read more
           link_url: https://canberrasec.moe.edu.sg/robotics-team-shines-at-worldskills-singapore-2025-vex-v5-robotics-competition/
-        - title: Breakfast Dialogue with School Leaders on 18 February 2025
-          date: 12 March 2025
-          announcement: On 18 Feb 2025, a productive PSG breakfast dialogue session took
-            place at Canberra Secondary School Cosmix from 8am to 10am. During
-            the session, our school principal, Mr. Leong, shared the various
-            school learning activities planned for Term 1.
-          link_text: Click here to read more
-          link_url: https://canberrasec.moe.edu.sg/breakfast-dialogue-with-school-leaders-18-february-2025/
   - resources:
       title: Announcements
       button: VIEW MORE

@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-<h4>2025 Booklist</h4>
+<h4>2026 Booklist</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,15 +22,6 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/S1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,12 +34,7 @@ third_nav_title: Useful Links
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025/S3__EXP__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Empathy, 3 Honour, 3 Diligence</a>
-</p>
-<p><a href="/files/2025/S3__NA__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Harmony, 3 Integrity</a>
-</p>
-<p><a href="/files/2025/S3__NT__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Respect, 3 Kindness</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,16 +50,6 @@ third_nav_title: Useful Links
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025/S5__NA__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">5 Integrity</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Uniform Order Form</a></h4>
 <p></p>

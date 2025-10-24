@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/2025_Open_House_Ver.gif
+      background: /images/2025_Open_House_Ver_v2.gif
       variant: center
   - infopic:
       alt: Image alt text

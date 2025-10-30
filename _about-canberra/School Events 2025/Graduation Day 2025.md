@@ -38,3 +38,7 @@ third_nav_title: School Events 2025
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7161.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7190.jpg">
+</div>
+<p></p>

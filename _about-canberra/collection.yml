@@ -2,7 +2,7 @@ collections:
   about-canberra:
     output: true
     order:
-      - 2023   2024 School Events/.keep
+      - Past School Events/.keep
       - Principal's Message & School Philosophy.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md

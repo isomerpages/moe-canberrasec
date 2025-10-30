@@ -2,7 +2,6 @@ collections:
   about-canberra:
     output: true
     order:
-      - Past School Events/.keep
       - Principal's Message & School Philosophy.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
@@ -10,10 +9,11 @@ collections:
       - Vision, Mission & Values/School Crest & School Song.md
       - School Advisory Committee.md
       - Our Staff.md
+      - School Publications/.keep
       - School Publications/School Publications 2025.md
       - School Publications/School Publications 2024.md
-      - School Publications/.keep
       - School Publications/School Publications 2023.md
+      - School Events/.keep
       - School Events/Teachers' Day Celebrations 2025.md
       - School Events/Secondary 2 Applied Learning Module Showcase.md
       - School Events/National Day Celebrations 2025.md
@@ -26,7 +26,6 @@ collections:
       - School Events/May 2025 Sports Carnival.md
       - School Events/Secondary 2 Streaming Talk 2025.md
       - School Events/Awards Day 2025.md
-      - School Events/.keep
       - School Events/Breakfast Dialogue with School Leaders on 18 February
         2025.md
       - "School Events/Fostering Partnerships and Prosperity: PSG Welcome Party
@@ -60,4 +59,5 @@ collections:
       - School Events/Passing Out Parade 2024.md
       - School Events/Lunar New Year Celebrations 2024.md
       - School Events/Open House 2023.md
+      - Past School Events/.keep
       - Locate Us.md

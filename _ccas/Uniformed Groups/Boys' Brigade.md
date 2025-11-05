@@ -16,11 +16,23 @@ and Steadfast.' Our company is adaptive, enterprising, and attuned to the
 evolving demands of the world, maintaining active engagement with our stakeholders
 to ensure a holistic development of our members.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3592.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BB_Air_Rifle.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/f990f598_848e_4f51_8ff6_98ed3dd387d3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BB_Drills.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BB_Elderly_CIP_at_St_Andrew_s.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BB_Kayaking.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BB_Training_Camp.jpg">
 </div>
 <h4><strong>Highlights and Achievements</strong></h4>
 <p>In 2023, we were honoured to have five of our graduating members receive

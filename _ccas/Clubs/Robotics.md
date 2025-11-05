@@ -111,7 +111,6 @@ excellence</p>
 <p>🥈 Finalist Award (Team 2769C) - second place finish in the tournament</p>
 <p>At the IDE 2025 VEX Robotics Competition, our team earned the Think Award
 for strategic design and autonomous programming excellence.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_03_21_PM.jpg">
 </div>
@@ -125,7 +124,6 @@ on our successes and continue to innovate, compete, and grow as a team.</p>
 <h4>Training Schedule</h4>
 <p>Robotics CCA training sessions are held every Friday from 2:00 PM to 5:00
 PM.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_04_46_PM.jpg">
 </div>

@@ -118,9 +118,6 @@ to receive the prestigious NCC Outstanding Cadet Award 2023</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZvWR6XpymQE?si=7HXCO5fDtAWuAoVI"></iframe>
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

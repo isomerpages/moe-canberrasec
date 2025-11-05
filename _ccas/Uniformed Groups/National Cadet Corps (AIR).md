@@ -19,25 +19,25 @@ fit body, and a committed heart.</p>
 <li>
 <p>Regular training sessions</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Parade_min.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/National_Day_Parade_min.jpg">
 </div>
 </li>
 <li>
 <p>Precision drills</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Precision_Drills_min.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Precision_Drills_min.jpg">
 </div>
 </li>
 <li>
 <p>Marksmanship</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Individual_Field_Craft_min.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Individual_Field_Craft_min.jpg">
 </div>
 </li>
 <li>
 <p>Air activities such as drone flying and the Flight Experience Programme</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flying_of_Drone.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Airomodelling_2.jpg">
 </div>
 </li>
 </ul>
@@ -57,7 +57,7 @@ and Fitness Challenges</p>
 <p>These activities are designed to foster an adventurous spirit while learning
 through fun and challenging experiences.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Individual_Field_Craft_2_min.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NCC_2.jpg">
 </div>
 <p>To further enrich their learning experience, cadets engage in activities
 like the Precision Drill Squad (PDS), Kayaking, and Drone Workshops. These
@@ -67,7 +67,7 @@ camaraderie among the cadets, making their NCC journey more fulfilling.</p>
 strong, well-rounded and future-ready cadets who embody the "Cadet Strong"
 spirit and are prepared to face the challenges of the future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Balsa_Wood_Glider_min.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/NCC_1.jpg">
 </div>
 <h4><strong>Latest Achievements</strong></h4>
 <table style="minWidth: 50px">

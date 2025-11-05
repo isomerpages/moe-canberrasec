@@ -5,42 +5,40 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
-<p>The main objectives of the school’s Concert Band are to provide members
-with the skills to perform for various occasions and build their self-confidence.
-Also, we want to create opportunities to develop and enhance the leadership
-potential of our members.</p>
-<h4><strong>Highlights and Achievements</strong></h4>
-<p>Under the baton of Mr Xaven Chng, the Canberra Secondary School Concert
-Band participated in the Singapore Youth Festival Art Presentation 2023
-and achieved a Certificate of Commendation. The pieces played were <em>Tanah di Bawah Angin</em> and <em>Terracotta Warriors</em>.
-Through this SYF experience, the band realised that every practice session
-must be taken seriously for us to accomplish greater heights in the future.
-As a result, we learned to be more tenacious and rigorous in our practices
-and learning processes. Through conversations such as how to execute our
-SYF compositions, the band also developed its ability to function effectively
-as a team.</p>
+<h4><strong><em>Vision:</em></strong><em> Growing together in music, discipline, and character to achieve excellence.</em></h4>
+<h4><strong><em>Mission:</em></strong><em> To nurture band members through musical learning and practice, building confidence, leadership, and opportunities to shine.</em></h4>
+<p>The Canberra Secondary School Concert Band, led by Mr. Xaven Chng, is
+a dynamic group of passionate young musicians who share the joy of making
+music together. United by teamwork and discipline, the band strives to
+grow both musically and personally, embodying the school's spirit of excellence
+and character.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_1.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Xaven_Chng.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2.jpg">
-</div>
-<p>The Concert Band has also participated in external performances such as
-the Band Fiesta 2023 @ Our Tampines Hub, as well as school performances
-such as the Open House 2023 and Lunar New Year celebration concert 2024.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band_Fiesta_2023.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lunar_New_Year_celebrations_2024_min.jpg">
-</div>
-<p>We also offer Junior Band Training Programme for all new Secondary 1 recruits.
-Our Junior Band conductor, Mr. Bernard Ong, trains all new members, even
-if they do not have any musical background. Additionally, the band seniors
-take on the responsibility of training the Secondary Ones. Such experiences
-allow our senior members to build up their level of confidence and proficiency,
-while providing leadership and guidance to the new members.</p>
+<h4><strong>Recent Achievements</strong></h4>
+<p>In 2025, the band proudly represented the school at the Singapore Youth
+Festival Arts Presentation, performing Overture No. 1 by Kelly Tang and
+Arabian Dances by Roland Barrett. Their dedication and teamwork earned
+them a Certificate of Commendation, a reflection of their hard work, commitment,
+and musical growth.</p>
+<h4><strong>School Performances</strong></h4>
+<p>The band plays an important role in bringing life and pride to school
+events such as the National Day Parade and School Open House, where members
+perform lively marches and upbeat tunes to celebrate and inspire the school
+community. These performances also encourage fellow students to join and
+experience the fun and fulfilment of being part of a band.</p>
+<h4><strong>Leadership Development</strong></h4>
+<p>Beyond performances, four student leaders attended the Youth Arts Leaders
+Conference 2025, where they gained valuable knowledge in leadership, band
+management, and musicianship. They have since applied what they learned
+to support and uplift the band's growth.</p>
+<h4><strong>Community Engagement</strong></h4>
+<p>The band also takes part in music exchanges with groups such as the Sembawang
+Wind Orchestra and Hougang Secondary School Band, fostering friendships
+and sharing the joy of music-making. In addition, members participate in
+the Sports Elective Programme — including Bowling and Air Pistol — which
+nurtures teamwork, patience, and focus, qualities that strengthen them
+both as musicians and as individuals.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,7 +66,4 @@ while providing leadership and guidance to the new members.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2023_min.jpg">
-</div>
 <p></p>

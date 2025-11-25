@@ -7,11 +7,11 @@ third_nav_title: For Parents
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Learning Device 2025</a>
+<p><a href="/files/2026/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) on Learning with a Personal Learning Device 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Learning Device 2025</a>
+<p><a href="/files/2026/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) on Learning with a Personal Learning Device 2026</a>
 </p>
 </li>
 <li>

@@ -3,7 +3,6 @@ title: 2025 Termly Breakfast Dialogue sessions with School Leaders
 permalink: /termly-breakfast-dialogues/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <h4>Invitation to attend 1st Breakfast Dialogue Session with School Leaders on Tuesday, 18 February 2025 from 8am to 9.30am</h4>
 <p>As part of the school’s additional outreach efforts to engage parents

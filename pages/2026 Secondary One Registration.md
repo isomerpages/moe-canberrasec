@@ -4,7 +4,7 @@ permalink: /sec-1-registration/
 variant: tiptap
 description: ""
 ---
-<p><strong>Canberra Secondary School welcomes our 2025 Sec 1 Students and Parents!</strong>
+<p><strong>Canberra Secondary School welcomes our 2026 Sec 1 Students and Parents!</strong>
 </p>
 <p>Congratulations on your posting to Canberra Secondary to commence your
 secondary school education. It will be a new phase of your development
@@ -12,8 +12,8 @@ and we are happy to welcome you to the Canberran family!</p>
 <p>When you receive your posting to Canberra, you&nbsp;<strong>do not need to </strong>physically
 report to our school the next day as we will be conducting our Sec 1 Registration
 Exercise online.</p>
-<p>Students only need to report on the first day of school on 2 January 2025
-(Thursday).</p>
+<p>Students only need to report on the first day of school on 2 January 2026
+(Friday).</p>
 <p>The school address is 51 Sembawang Drive Singapore 757699.</p>
 <p>We are located within a 15-minute walk from Sembawang MRT Station.</p>
 <p>Bus services: 859, 962 (Bus stop outside school)</p>
@@ -30,14 +30,14 @@ child’s school posting.</p>
 </li>
 <li>
 <p>You should receive notification on the Parents Gateway app to complete
-the Sec 1 registration. <strong><em>(More details will be made available on 18th December 2024 on Parents Gateway)</em></strong>
+the Sec 1 registration. <strong><em>(More details will be made available on 18th December 2025 on Parents Gateway)</em></strong>
 </p>
 </li>
 <li>
 <p>Students with Posting Group 1 and 2 will be able to take English Language,
 Mathematics, Science and Mother Tongue Language, at G2 or G3 level when
 they enter Secondary 1 based on their performance in these subjects at
-the PSLE. <strong><em>(More details will be made available on 18th December 2024 on Parents Gateway)</em></strong>
+the PSLE. <strong><em>(More details will be made available on 18th December 2025 on Parents Gateway)</em></strong>
 </p>
 </li>
 </ol>
@@ -65,15 +65,15 @@ and uniform purchase can be found in the documents below:</p>
 <p></p>
 <p><strong><u>3.</u></strong><u>&nbsp;</u><strong><u>MOE Financial Assistance Scheme (MOE FAS) Application</u></strong>
 </p>
-<p>Students whose MOE FAS application was approved before 16 December 2024
+<p>Students whose MOE FAS application was approved before 16 December 2025
 by their primary schools will receive a notification from us through Parents
-Gateway by 26<sup>th</sup> December 2024.</p>
+Gateway by 26<sup>th</sup> December 2025.</p>
 <p>You <strong>need not</strong> order the books and uniforms online. You and
 your child must report to the General Office at the assigned timing (refer
 to Table 1) for administrative purposes before going to the bookshop to
 collect the books and uniforms. You may contact the General Office at 6758
 5070 if you do not receive the Parents Gateway notification by the evening
-of 26<sup>th</sup> December 2024.</p>
+of 26<sup>th</sup> December 2025.</p>
 <p>For students who have yet to apply for MOE FAS and wish to do so, you
 may obtain a copy of the application form from the General Office. Upon
 completion, please submit the application form and the required supporting
@@ -107,7 +107,7 @@ we will notify you of the status accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26<sup>th </sup>December 2024 (Thursday)</p>
+<p>December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am – 3 pm</p>
@@ -118,7 +118,7 @@ we will notify you of the status accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27<sup>th</sup> December 2024 (Friday)</p>
+<p>December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am – 3 pm</p>
@@ -164,7 +164,7 @@ results will be released in early January.</p>
 </li>
 <li>
 <p>If you intend to appeal for transfer, your child must still report to
-our school on 2 January 2025.</p>
+our school on 2 January 2026.</p>
 </li>
 <li>
 <p>Your child is required to attend school until his/her appeal for transfer
@@ -193,7 +193,7 @@ score of the posting year.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>5. Sec 1 Orientation Programme 2025</u></strong>
+<p><strong><u>5. Sec 1 Orientation Programme 2026</u></strong>
 </p>
 <p>Details for Sec 1 Orientation Programme will be made available through
 Parents Gateway and the School Website.</p>
@@ -295,5 +295,5 @@ us at canberra_ss@moe.edu.sg.</p>
 </ul>
 <p>Should you have further enquiries, please contact the General Office at
 6758 5070 on weekdays between 8.30 am - 4.30 pm.</p>
-<p>Thank you and on behalf of the school, we would like to wish all our 2025
+<p>Thank you and on behalf of the school, we would like to wish all our 2026
 Sec 1 students and families a great year ahead.</p>

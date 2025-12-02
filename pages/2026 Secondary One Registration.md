@@ -136,7 +136,6 @@ we will notify you of the status accordingly.</p>
 your child’s physical health or special learning needs, you may appeal
 for a transfer. Appeals can be filed at Canberra Secondary School&nbsp;General
 Office <strong>on the next day after the posting results have been released</strong>.</p>
-<p></p>
 <p><strong>Points to note about appealing for a transfer:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -174,7 +173,6 @@ is approved.</p>
 <p>Transfers are subjected to vacancies at the requested transfer school.</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Note:</strong>
 </p>
 <p>If you are seeking a transfer due to other reasons, you&nbsp;<strong>may</strong>&nbsp;approach
@@ -192,7 +190,6 @@ score of the posting year.</p>
 <p>The school must have available vacancies.</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>5. Sec 1 Orientation Programme 2026</u></strong>
 </p>
 <p>Details for Sec 1 Orientation Programme will be made available through

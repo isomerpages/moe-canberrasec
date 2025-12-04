@@ -199,7 +199,6 @@ Parents Gateway and the School Website.</p>
 <p>Students moving from Primary to Secondary School are entering a new phase
 of life. They will be exposed to different challenges and it is crucial
 to help your child with the transition.</p>
-<p></p>
 <p><strong>Help your child to understand the common challenges</strong>
 </p>
 <p>Some of the challenges faced by students entering Secondary School include:</p>
@@ -226,7 +225,6 @@ There will also be more subject choices, especially in Upper Secondary.</p>
 go through physical, emotional and mental changes. They will also begin
 to explore the different pathways available for them to fulfil their dreams
 and aspirations.</p>
-<p></p>
 <p><strong>Support your child’s development and interests</strong>
 </p>
 <p>It is important that you select a school where your child’s development
@@ -252,7 +250,6 @@ Co-Curricular Activities (CCAs).</p>
 <li>
 <p>Are able to enjoy the process of learning at an appropriate level for
 them.</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Encourage your child to prepare for the transition</strong>

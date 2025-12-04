@@ -82,7 +82,6 @@ documents to the General Office.&nbsp;If your documents are in order, we
 will be able to process your application between 7 to 10 working days and
 we will notify you of the status accordingly.</p>
 <p>Alternatively, you may apply for MOE FAS online by clicking here <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
-<p></p>
 <p><strong>Table 1</strong>
 </p>
 <table style="minWidth: 75px">

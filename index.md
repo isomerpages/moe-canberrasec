@@ -11,6 +11,13 @@ sections:
       background: /images/2025_Nov_ver.gif
       variant: center
   - infopic:
+      title: Secondary 1 Registration 2026
+      id: infopic
+      button: Please click here for infromation
+      url: https://canberrasec.moe.edu.sg/sec-1-registration/
+      image: /images/Sec_1_Registration_2026.png
+      alt: Image alt text
+  - infopic:
       alt: Image alt text
       image: /images/Homepage_text.png
       description: “The future belongs to those who believe in the beauty of their

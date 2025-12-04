@@ -55,7 +55,7 @@ for the books to be delivered to your homes. The details for the books
 and uniform purchase can be found in the documents below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener nofollow" target="_blank">Canberra Uniform Order Form</a>
+<p><a href="/files/2026/S2_2026.pdf" rel="noopener nofollow" target="_blank">Canberra Uniform Order Form</a>
 </p>
 </li>
 <li>
@@ -66,7 +66,7 @@ and uniform purchase can be found in the documents below:</p>
 <p></p>
 <p><strong><u>3.</u></strong><u>&nbsp;</u><strong><u>MOE Financial Assistance Scheme (MOE FAS) Application</u></strong>
 </p>
-<p>Students whose MOE FAS application was approved before 16 December 2025
+<p>Students whose MOE FAS application was approved before 18 December 2025
 by their primary schools will receive a notification from us through Parents
 Gateway by 26<sup>th</sup> December 2025.</p>
 <p>You <strong>need not</strong> order the books and uniforms online. You and

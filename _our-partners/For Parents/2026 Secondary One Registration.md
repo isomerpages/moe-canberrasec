@@ -55,11 +55,11 @@ for the books to be delivered to your homes. The details for the books
 and uniform purchase can be found in the documents below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parenting_Clinic_2024.pdf" rel="noopener nofollow" target="_blank">Canberra Uniform Order Form</a>
+<p><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener nofollow" target="_blank">Canberra Sec Uniform Order Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025/S1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Book lists for G1, G2 and G3</a>
+<p><a href="/files/2026/S1.pdf" rel="noopener nofollow" target="_blank">Book list for G1, G2 and G3</a>
 </p>
 </li>
 </ul>

@@ -55,7 +55,7 @@ for the books to be delivered to your homes. The details for the books
 and uniform purchase can be found in the documents below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026/S2_2026.pdf" rel="noopener nofollow" target="_blank">Canberra Uniform Order Form</a>
+<p><a href="/files/Parenting_Clinic_2024.pdf" rel="noopener nofollow" target="_blank">Canberra Uniform Order Form</a>
 </p>
 </li>
 <li>

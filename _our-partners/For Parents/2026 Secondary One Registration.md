@@ -31,14 +31,14 @@ child’s school posting.</p>
 </li>
 <li>
 <p>You should receive notification on the Parents Gateway app to complete
-the Sec 1 registration. <strong><em>(More details will be made available on 18th December 2025 on Parents Gateway)</em></strong>
+the Sec 1 registration. <strong><em>(More details will be made available on 19th December 2025 on Parents Gateway)</em></strong>
 </p>
 </li>
 <li>
 <p>Students with Posting Group 1 and 2 will be able to take English Language,
 Mathematics, Science and Mother Tongue Language, at G2 or G3 level when
 they enter Secondary 1 based on their performance in these subjects at
-the PSLE. <strong><em>(More details will be made available on 18th December 2025 on Parents Gateway)</em></strong>
+the PSLE. <strong><em>(More details will be made available on 19th December 2025 on Parents Gateway)</em></strong>
 </p>
 </li>
 </ol>
@@ -66,7 +66,7 @@ and uniform purchase can be found in the documents below:</p>
 <p></p>
 <p><strong><u>3.</u></strong><u>&nbsp;</u><strong><u>MOE Financial Assistance Scheme (MOE FAS) Application</u></strong>
 </p>
-<p>Students whose MOE FAS application was approved before 18 December 2025
+<p>Students whose MOE FAS application was approved before 19 December 2025
 by their primary schools will receive a notification from us through Parents
 Gateway by 26<sup>th</sup> December 2025.</p>
 <p>You <strong>need not</strong> order the books and uniforms online. You and

@@ -2,7 +2,6 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
-      - Secondary 1 Registration 2026/Join the Parent Support Group (PSG).md
       - Secondary 1 Registration 2026/.keep
       - Secondary 1 Registration 2026/2026 Secondary One Registration.md
       - Secondary 1 Registration 2026/Purchase of Books and Sale of Uniforms for
@@ -11,6 +10,7 @@ collections:
         Application.md
       - Secondary 1 Registration 2026/Appeal Process for Secondary 1.md
       - Secondary 1 Registration 2026/Transition to Secondary School.md
+      - Secondary 1 Registration 2026/Join the Parent Support Group (PSG).md
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md

@@ -2,7 +2,6 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
-      - Secondary 1 Registration/.keep
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md

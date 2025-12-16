@@ -34,7 +34,6 @@ the month of approval, for up to 40 school weeks per annum</p>
 will be pro-rated accordingly from the month after your application is
 approved to December of the same year.</p>
 <p><sup># </sup>Subsidies for school meals purchased and consumed in school.</p>
-<p></p>
 <p><strong><u>Criteria for Eligibility</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -50,10 +49,8 @@ per month OR</p>
 <p>b.&nbsp;&nbsp;&nbsp; Per Capita Income not exceeding $750 per month*&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>* Per Capita Income is computed by dividing the Total Gross Monthly Household
 Income by the number of members in the same household.</p>
-<p></p>
 <p>You may also check your child’s eligibility for the MOE FAS via the eligibility
 calculator available on the MOE Website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>).</p>
-<p>&nbsp;</p>
 <p>Application forms for MOE FAS are available in the General Office. Students
 can approach <strong>Mdm Zakiyah </strong>at the <strong>General Office</strong> for
 enquiries.</p>

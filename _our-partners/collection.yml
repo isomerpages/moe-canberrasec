@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/2026 Secondary One Registration.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/2025 Term Letters to Parents.md

@@ -283,7 +283,7 @@ your child. Should you require more details or clarification, please email
 us at canberra_ss@moe.edu.sg.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024/3_PSG_Recruitment_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Recruitment Form</a>
+<p><a href="/files/2024/3_PSG_Recruitment_Form.pdf" rel="noopener nofollow" target="_blank">PSG Recruitment Form</a>
 </p>
 </li>
 </ul>

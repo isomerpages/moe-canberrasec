@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - 2026 Sec 1 Admission/.keep
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/2025 Term Letters to Parents.md
@@ -25,3 +24,4 @@ collections:
       - Useful Links/Direct School Admission (DSA) 2025.md
       - Useful Links/Leave Of Absence (LOA).md
       - Useful Links/Frequently Asked Questions.md
+      - 2026 Sec 1 Admission/.keep

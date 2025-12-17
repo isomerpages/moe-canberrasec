@@ -8,7 +8,7 @@ third_nav_title: 2026 Sec 1 Admission
 <p>If you assess that Canberra Secondary School is unable to accommodate
 your child’s physical health or special learning needs, you may appeal
 for a transfer. Appeals can be filed at Canberra Secondary School&nbsp;General
-Office <strong>on the next day after the posting results have been released</strong>.</p>
+Office <strong>on the next working day (22 December) after the posting results have been released</strong>.</p>
 <p><strong>Points to note about appealing for a transfer:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -36,7 +36,7 @@ results will be released in early January.</p>
 </li>
 <li>
 <p>If you intend to appeal for transfer, your child must still report to
-our school on 2 January 2026.</p>
+our school on the <strong>reporting day</strong>.</p>
 </li>
 <li>
 <p>Your child is required to attend school until his/her appeal for transfer
@@ -48,7 +48,7 @@ is approved.</p>
 </ul>
 <p><strong>Note:</strong>
 </p>
-<p>If you are seeking a transfer due to other reasons, you&nbsp;<strong>may</strong>&nbsp;approach
+<p><strong>If you are seeking a transfer due to other reasons</strong>, you&nbsp;may&nbsp;approach
 the school of your choice directly.</p>
 <p>It is important to keep the following in mind:</p>
 <ul data-tight="true" class="tight">

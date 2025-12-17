@@ -10,7 +10,113 @@ on 2, 5, 6 and 7 January 2026 (Friday, Monday, Tuesday and Wednesday).</p>
 <p>The highlights of our Secondary 1 Orientation programme include a school
 tour, class bonding activities, form teacher engagement, and student development
 programmes.</p>
+<p><strong>Overview of Orientation Programme</strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date/Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Reporting Time</p>
+<p>&amp; Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attire</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Things to bring</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan 2026</p>
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30 am</p>
+<p>Parade Square</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.40 pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Jan 2026</p>
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am</p>
+<p>School Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Jan 2026</p>
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am</p>
+<p>School Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Jan 2026</p>
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.40 am</p>
+<p>School Hall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>*Compulsory items</p>
 <p># Students who do not have school attire due to valid reasons can report
 to school in their primary school uniform.</p>

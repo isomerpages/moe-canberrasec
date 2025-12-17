@@ -56,14 +56,14 @@ programmes.</p>
 <p>School PE T-shirt</p>
 <p>and school</p>
 <p>bermuda/culottes</p>
-<p>.Only white canvas</p>
+<p>.Onlywhite canvas</p>
 <p>shoes with</p>
 <p>shoelaces are</p>
 <p>allowed. Socks</p>
 <p>must be plain</p>
 <p>white and visibly</p>
 <p>worn. Student to</p>
-<p>bring along your</p>
+<p>bringalong your</p>
 <p>school tie.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,6 +99,7 @@ programmes.</p>
 <p>2.25 pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

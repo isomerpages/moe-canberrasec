@@ -52,10 +52,38 @@ programmes.</p>
 <p>12.40 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>#Canberra Sec</p>
+<p>School PE T-shirt</p>
+<p>and school</p>
+<p>bermuda/culottes</p>
+<p>.Only white canvas</p>
+<p>shoes with</p>
+<p>shoelaces are</p>
+<p>allowed. Socks</p>
+<p>must be plain</p>
+<p>white and visibly</p>
+<p>worn. Student to</p>
+<p>bring along your</p>
+<p>school tie.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1. Small face towel</p>
+<p>(for personal</p>
+<p>hygiene)</p>
+<p>2. *School tie</p>
+<p>(required for 6 Jan</p>
+<p>2026) (Tues)</p>
+<p>3. *Storybook</p>
+<p>4. *Writing materials</p>
+<p>5. *Water bottle</p>
+<p>6. *Personal</p>
+<p>thermometer</p>
+<p>7. ^Sufficient cash for</p>
+<p>purchase of meals</p>
+<p>8. Padlock for locker</p>
+<p>(available for</p>
+<p>purchase at school</p>
+<p>bookshop)</p>
 </td>
 </tr>
 <tr>

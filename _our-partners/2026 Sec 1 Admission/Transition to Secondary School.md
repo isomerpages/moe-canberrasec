@@ -7,31 +7,36 @@ third_nav_title: 2026 Sec 1 Admission
 ---
 <p>Students moving from Primary to Secondary School are entering a new phase
 of life. They will be exposed to different challenges and it is crucial
-to help your child with the transition.</p>
-<p><strong>Help your child to understand the common challenges</strong>
+to help your child/ward with the transition.</p>
+<p><strong>Help your child/ward to understand the common challenges</strong>
 </p>
 <p>Some of the challenges faced by students entering Secondary School include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>New School environment (ie. timing and peers)</p>
+<p>New School environment</p>
 </li>
 <li>
-<p>New subject syllabus</p>
+<p>New friends</p>
+</li>
+<li>
+<p>New syllabus</p>
 </li>
 <li>
 <p>New phase of life</p>
 </li>
 </ul>
-<p>Your child has spent the last 6 years getting used to their Primary School,
-and now they will be going to a new school. Moreover, many of your child’s
-Primary School friends may be posted to different Secondary Schools.</p>
+<p>Your child/ward has spent the last 6 years getting used to their Primary
+School, and now they'll be going to a new school. Moreover, many of your
+child’/ward's Primary School friends may be posted to different Secondary
+Schools.</p>
 <p>Meeting new people can be difficult, but it is also an opportunity for
 them to form new, long-lasting friendships.</p>
-<p>Your child will also be learning new subjects, including Geography, History,
-Literature, Food and Consumer Education, as well as Design and Technology.
-There will also be more subject choices, especially in Upper Secondary.</p>
-<p>In this phase of school, your child will enter their teenage years and
-go through physical, emotional and mental changes. They will also begin
+<p>Your child/ward will also be learning new subjects, including Geography,
+History, Literature, Food and Consumer Education, as well as Design and
+Technology. There will also be more subject choices, especially in Upper
+Secondary.</p>
+<p>In this phase of school, your child/ward will enter their teenage years
+and go through physical, emotional and mental changes. They will also begin
 to explore the different pathways available for them to fulfil their dreams
 and aspirations.</p>
 <p><strong>Support your child’s development and interests</strong>
@@ -51,7 +56,7 @@ best when they:</p>
 Co-Curricular Activities (CCAs).</p>
 </li>
 <li>
-<p>Find their interests and explore new experiences.</p>
+<p>Find their interests and learn new things.</p>
 </li>
 <li>
 <p>Have teachers who care about them and cater to their needs.</p>
@@ -76,7 +81,7 @@ them.</p>
 CCAs. They get the opportunity to find their interests and learn new things.</p>
 </li>
 <li>
-<p>Let you know if they are having challenges in school.</p>
+<p>Let you know if they are having difficulties in school.</p>
 </li>
 </ul>
 <p></p>

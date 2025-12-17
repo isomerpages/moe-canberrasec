@@ -31,7 +31,7 @@ bookshop for the rest of the year are as such:</p>
 <p>Monday, 22 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 3pm</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ bookshop for the rest of the year are as such:</p>
 <p>Tuesday, 23 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 3pm</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ bookshop for the rest of the year are as such:</p>
 <p>Friday, 26 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 3pm</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ bookshop for the rest of the year are as such:</p>
 <p>Saturday, 27 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 11.30 am</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ bookshop for the rest of the year are as such:</p>
 <p>Monday, 29 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 3pm</p>
 </td>
 </tr>
 <tr>
@@ -71,12 +71,15 @@ bookshop for the rest of the year are as such:</p>
 <p>Tuesday, 30 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 am – 3pm</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Note: Bookshop will be closed for lunch from 12pm - 1pm.</p>
 <p></p>
+<p>The details for the books and uniform purchase can be found in the documents
+below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener nofollow" target="_blank">Canberra Sec Uniform Order Form</a>

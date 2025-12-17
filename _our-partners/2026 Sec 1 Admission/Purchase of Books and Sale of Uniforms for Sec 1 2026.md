@@ -12,6 +12,71 @@ you can select the date and time that you wish to collect the order physically
 in school. Please note that only one adult can accompany the student to
 collect the books physically in school. The opening hours of the school
 bookshop for the rest of the year are as such:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day and Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Opening Hours</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 22 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 23 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 26 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday, 27 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 29 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 30 Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener nofollow" target="_blank">Canberra Sec Uniform Order Form</a>

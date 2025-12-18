@@ -5,4 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec 1 Admission
 ---
-<p>This page will be updated by 6 pm on Thu, 18 December 2025</p>
+<p>In Canberra Secondary School, we offer Chinese Language, Higher Chinese
+Language and Malay Language during curriculum hours.</p>
+<p>Students taking Tamil Language will take their lessons at Sembawang Secondary
+School after curriculum hours. The dates and time will be made known once
+we have received the information.</p>

@@ -29,14 +29,33 @@ will be conducted online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 Dec 2025 (Tue)</p>
+<p>by 6 pm, 19 Dec (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Complete Sec 1 Registration on Parents Gateway by clicking on the “Acknowledge”
-button at the bottom of the PG notification.</p>
-<p></p>
-<p>Acceptance/Rejection of Subject Offerings on Parents Gateway for students
-eligible to offer subjects at a more demanding level (MDL).</p>
+<p>You will receive a letter to register via Parents Gateway.</p>
+<p>Complete the Sec 1 Registration by clicking on the ‘acknowledge’ icon.
+Please register by 23 Dec 2025 (Tue).</p>
+<p>[Note: Parents Gateway will be down on 19 Dec (Fri) between 12 pm and
+5 pm]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>by 5 pm, 22 Dec (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If your child/ward is eligible to offer subjects at a more demanding level
+(MDL), you will receive the Acceptance/Rejection of Subject Offerings on
+Parents Gateway.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>by 23 Dec 2025 (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deadline for Sec 1 Registration on Parents Gateway. Do ensure that you
+have clicked on the ‘acknowledge’ icon.</p>
 </td>
 </tr>
 <tr>

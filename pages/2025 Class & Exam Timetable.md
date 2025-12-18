@@ -3,7 +3,6 @@ title: 2025 Class & Exam Timetable
 permalink: /class-exam-time-table/
 description: ""
 variant: tiptap
-third_nav_title: Useful Links
 ---
 <h4>Secondary 1-3 End-Of-Year Examination Time Table</h4>
 <p><a href="/files/2025/Sec_1_EOY_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Exam Time Table</a>

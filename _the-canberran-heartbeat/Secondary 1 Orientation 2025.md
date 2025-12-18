@@ -1,5 +1,5 @@
 ---
-title: Secondary 1 Orientation
+title: Secondary 1 Orientation 2025
 permalink: /secondary-1-orientation/
 variant: tiptap
 description: ""

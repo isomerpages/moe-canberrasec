@@ -51,22 +51,25 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>12.40 pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>#Canberra Sec</p>
 <p>School PE T-shirt</p>
 <p>and school</p>
 <p>bermuda/culottes</p>
-<p>.Onlywhite canvas</p>
+<p>.</p>
+<p>Onlywhite canvas</p>
 <p>shoes with</p>
 <p>shoelaces are</p>
 <p>allowed. Socks</p>
 <p>must be plain</p>
 <p>white and visibly</p>
 <p>worn. Student to</p>
-<p>bringalong your</p>
+<p>bring along your</p>
 <p>school tie.</p>
+<p></p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1. Small face towel</p>
 <p>(for personal</p>
 <p>hygiene)</p>
@@ -98,13 +101,6 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>A</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -118,12 +114,6 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,12 +126,6 @@ programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

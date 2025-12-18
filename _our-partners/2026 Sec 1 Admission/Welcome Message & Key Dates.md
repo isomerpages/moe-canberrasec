@@ -34,7 +34,8 @@ will be conducted online.</p>
 <td rowspan="1" colspan="1">
 <p>Complete Sec 1 Registration on Parents Gateway</p>
 <p>Acceptance/Rejection of Subject Offerings on Parents Gateway for students
-eligible to offer subjects at a more demanding level (MDL)</p>
+eligible to offer subjects at a more demanding level (MDL) by clicking
+on the “Acknowledge” button at the bottom of the PG notification.</p>
 </td>
 </tr>
 <tr>

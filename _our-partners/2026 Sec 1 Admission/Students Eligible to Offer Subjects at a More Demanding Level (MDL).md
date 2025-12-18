@@ -12,4 +12,4 @@ Mother Tongue Languages, Mathematics and Science at a more demanding level
 via Parents Gateway.</p>
 <p>Please use the Online Acceptance Form in the Parents Gateway notification
 to indicate your child’s/ward’s acceptance of the MDL offer by 5 pm on
-Tue, 23 Dec 2025.</p>
+Fri, 26 Dec 2025.</p>

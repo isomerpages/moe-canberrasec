@@ -60,6 +60,16 @@ have clicked on the ‘acknowledge’ icon.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>by 5 pm, 26 Dec (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deadline for the Acceptance/Rejection of Subject Offerings on Parents
+Gateway for students eligible to offer subjects at a more demanding level
+(MDL).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>22 (Mon) – 30 Dec 2025(Tue)</p>
 </td>
 <td rowspan="1" colspan="1">

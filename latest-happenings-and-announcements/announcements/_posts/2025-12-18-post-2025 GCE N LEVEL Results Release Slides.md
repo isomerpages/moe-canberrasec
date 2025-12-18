@@ -12,3 +12,5 @@ variant: tiptap
 and website links that were shared during the GCE N-Level result release
 administrative briefing.</p>
 <p>Thank you.</p>
+<p><a href="/files/2025/N_Level_Results_Release_2025_Slides_for_18_Dec_2025_WEBSITE_FINAL2.pdf" rel="noopener nofollow" target="_blank">2025 GCE N-Level Result Release Slides</a>
+</p>

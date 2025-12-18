@@ -32,10 +32,11 @@ will be conducted online.</p>
 <p>23 Dec 2025 (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Complete Sec 1 Registration on Parents Gateway</p>
+<p>Complete Sec 1 Registration on Parents Gateway by clicking on the “Acknowledge”
+button at the bottom of the PG notification.</p>
+<p></p>
 <p>Acceptance/Rejection of Subject Offerings on Parents Gateway for students
-eligible to offer subjects at a more demanding level (MDL) by clicking
-on the “Acknowledge” button at the bottom of the PG notification.</p>
+eligible to offer subjects at a more demanding level (MDL).</p>
 </td>
 </tr>
 <tr>

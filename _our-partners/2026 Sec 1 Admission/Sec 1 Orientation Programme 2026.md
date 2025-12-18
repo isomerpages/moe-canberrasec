@@ -55,9 +55,8 @@ programmes.</p>
 <p>#Canberra Sec</p>
 <p>School PE T-shirt</p>
 <p>and school</p>
-<p>bermuda/culottes</p>
-<p>.</p>
-<p>Onlywhite canvas</p>
+<p>bermuda/culottes.</p>
+<p>Only white canvas</p>
 <p>shoes with</p>
 <p>shoelaces are</p>
 <p>allowed. Socks</p>

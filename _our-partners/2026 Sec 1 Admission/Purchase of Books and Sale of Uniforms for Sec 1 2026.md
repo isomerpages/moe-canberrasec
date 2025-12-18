@@ -58,26 +58,9 @@ bookshop for the rest of the year are as such:</p>
 <p>9 am – 11.30 am</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 29 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 am – 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 30 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 am – 3pm</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Note: Bookshop will be closed for lunch from 12pm - 1pm.</p>
-<p></p>
 <p>The details for the books and uniform purchase can be found in the documents
 below:</p>
 <ul data-tight="true" class="tight">

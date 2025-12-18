@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Students and Parents/Guardians,</p>
+<p>Please refer to the slides below for the important information, dates
+and website links that were shared during the GCE N-Level result release
+administrative briefing.</p>
+<p>Thank you.</p>

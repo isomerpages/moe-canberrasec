@@ -70,7 +70,7 @@ Gateway for students eligible to offer subjects at a more demanding level
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 (Mon) – 30 Dec 2025(Tue)</p>
+<p>22 (Mon) – 27 Dec 2025 (Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Purchase of School Uniform and Books (online and onsite)</p>

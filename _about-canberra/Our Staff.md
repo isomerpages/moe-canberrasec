@@ -119,8 +119,8 @@ variant: tiptap
 <p>HOD PE/CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manoharan_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Manoharan Ramasamy</a>
-</p>
+<p><a href="mailto:manoharan_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Manoharan Ramasamy</a> (ext
+117)</p>
 </td>
 </tr>
 <tr>
@@ -164,8 +164,8 @@ variant: tiptap
 <p>HOD/Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jesslyn Yeoh</a>
-</p>
+<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
+115)</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Toh Guang Rong, Ivan</p>
+<p>Mr See Toh Guang Rong, Ivan (ext 239)</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ variant: tiptap
 <p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Ong</p>
+<p>Mr Peter Ong (ext 222)</p>
 </td>
 </tr>
 <tr>
@@ -279,8 +279,7 @@ variant: tiptap
 <p>Assistant Discipline Master</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener nofollow" target="_blank">Mr Jeremy Tng</a>
-</p>
+<p><a rel="noopener nofollow" target="_blank">Mr Jeremy Tng</a> (ext 231)</p>
 </td>
 </tr>
 <tr>
@@ -319,8 +318,8 @@ variant: tiptap
 <p>Senior Teacher Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tham Michelle</a>
-</p>
+<p><a href="mailto:tham_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tham Michelle</a> (ext
+202)</p>
 </td>
 </tr>
 <tr>

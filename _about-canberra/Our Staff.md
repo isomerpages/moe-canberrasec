@@ -32,7 +32,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Tirmidzi</p>
+<p>Mrs Amanda Tan</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Tan</p>
+<p>Mr Muhammad Tirmidzi</p>
 </td>
 </tr>
 </tbody>
@@ -128,7 +128,8 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Selvarajoo</p>
+<p><a href="mailto:samuel_selvarajoo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samuel Selvarajoo</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +137,8 @@ variant: tiptap
 <p>HOD Student Wellbeing &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Yi Lun</p>
+<p><a href="mailto:low_yi_lun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Yi Lun</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,6 +157,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_lay_ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Lay Ching</a> (ext
 109)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jesslyn Yeoh</a>
+</p>
 </td>
 </tr>
 <tr>

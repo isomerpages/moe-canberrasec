@@ -128,8 +128,8 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a> (ext
-108)</p>
+<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,8 +182,8 @@ variant: tiptap
 <p>Year Head (Sec 3 &amp; 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kumari_Nagapan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kumari Nagapan</a> (ext
-107)</p>
+<p><a href="mailto:Kumari_Nagapan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kumari Nagapan</a>
+</p>
 </td>
 </tr>
 <tr>

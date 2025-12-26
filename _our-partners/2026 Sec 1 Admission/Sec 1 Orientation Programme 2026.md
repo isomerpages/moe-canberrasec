@@ -51,22 +51,12 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>12.40 pm</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>#Canberra Sec</p>
-<p>School PE T-shirt</p>
-<p>and school</p>
-<p>bermuda/culottes.</p>
-<p>Only white canvas</p>
-<p>shoes with</p>
-<p>shoelaces are</p>
-<p>allowed. Socks</p>
-<p>must be plain</p>
-<p>white and visibly</p>
-<p>worn. Student to</p>
-<p>bring along your</p>
-<p>school tie.</p>
-<p></p>
-<p></p>
+<td rowspan="1" colspan="1">
+<p>#Canberra Sec School Red Polo Shirt and school bermuda/culottes.</p>
+<p>&nbsp;</p>
+<p>Only white canvas shoes with shoelaces are allowed.</p>
+<p>&nbsp;</p>
+<p>Socks must be plain white and visibly worn.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>1. Small face towel</p>
@@ -100,6 +90,12 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>#Report to school in Full School Uniform with Tie.</p>
+<p>&nbsp;</p>
+<p>Bring along School PE T-shirt – Sec 1s will change into PE T-shirt for
+specific orientation activities.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -112,6 +108,10 @@ programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>#Canberra Sec School PE T-Shirt and school bermuda/culottes.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -126,6 +126,9 @@ programmes.</p>
 <td rowspan="1" colspan="1">
 <p>2.25 pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>#Canberra Sec School PE T-Shirt and school bermuda/culottes.</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -138,3 +141,12 @@ A plate of food typically costs between $2.50 and $3.50.</p>
 <p>Your child’s/ward’s Form Class Allocation and more details on the Sec
 1 Orientation Programme will be made available on Parents Gateway by Tue,
 30 Dec 2025.</p>
+<p><strong>Curriculum Hours after Orientation</strong>
+</p>
+<p>Students are encouraged to have breakfast in the school from 7.20 am onwards
+and report to the flag raising venue by 7.45 am. Please refer to school
+website for the class timetable after the orientation.</p>
+<p>Information on CCAs will be provided to parents on Friday, 16 January
+2026 at our Parent Engagement Session &amp; CCA Open House. The event will
+take place from 3.30pm to 6pm, and we invite all parents/guardians to join
+us.</p>

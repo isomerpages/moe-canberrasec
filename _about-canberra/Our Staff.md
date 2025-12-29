@@ -40,7 +40,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Tirmidzi</p>
+<p>Mr Muhammad Tirmidzi Bin Abdul Ghani</p>
 </td>
 </tr>
 </tbody>
@@ -152,20 +152,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Student Wellbeing &amp; Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
+115)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_lay_ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ong Lay Ching</a> (ext
 109)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD/Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
-115)</p>
 </td>
 </tr>
 <tr>

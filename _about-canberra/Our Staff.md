@@ -245,7 +245,7 @@ variant: tiptap
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:see_toh_guang_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr See Toh Guang Rong, Ivan</a> (ext
+<p><a href="mailto:see_toh_guang_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ivan See Toh</a> (ext
 239)</p>
 </td>
 </tr>

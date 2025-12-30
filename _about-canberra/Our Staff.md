@@ -128,7 +128,7 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a>
+<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Lilian</a>
 </p>
 </td>
 </tr>
@@ -137,8 +137,8 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_selvarajoo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samuel Selvarajoo</a>
-</p>
+<p><a href="mailto:samuel_selvarajoo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samuel Selvarajoo</a> (ext
+108)</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ variant: tiptap
 <p>HOD Student Wellbeing &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yi_lun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Yi Lun</a>
-</p>
+<p><a href="mailto:low_yi_lun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Yi Lun</a> (ext
+119)</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ variant: tiptap
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cheung-Sim Yi Lian</a> (ext
+<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Yi Lian</a> (ext
 248)</p>
 </td>
 </tr>
@@ -245,7 +245,8 @@ variant: tiptap
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Toh Guang Rong, Ivan (ext 239)</p>
+<p><a href="mailto:see_toh_guang_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ivan See Toh</a> (ext
+239)</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +272,8 @@ variant: tiptap
 <p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Ong (ext 222)</p>
+<p><a href="mailto:peter_ong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Peter Ong</a> (ext
+222)</p>
 </td>
 </tr>
 <tr>
@@ -385,6 +387,15 @@ variant: tiptap
 <p><a href="mailto:shahira_shari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahira Shari</a>
 </p>
 <p><a href="mailto:Farah_Dilla_Sulaiman@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Farah Dilla</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Syafiqah_Saifuddin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Syafiqah Saifuddin</a>
 </p>
 </td>
 </tr>

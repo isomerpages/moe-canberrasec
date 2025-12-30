@@ -395,7 +395,8 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syafiqah Saifuddin</p>
+<p><a href="mailto:Nur_Syafiqah_Saifuddin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nur Syafiqah Saifuddin</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -245,7 +245,8 @@ variant: tiptap
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Toh Guang Rong, Ivan (ext 239)</p>
+<p><a href="mailto:see_toh_guang_rong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr See Toh Guang Rong, Ivan</a> (ext
+239)</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +272,8 @@ variant: tiptap
 <p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Ong (ext 222)</p>
+<p><a href="mailto:peter_ong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Peter Ong</a> (ext
+222)</p>
 </td>
 </tr>
 <tr>

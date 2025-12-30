@@ -10,6 +10,10 @@ sections:
       url: /contact-us/
       background: /images/2025_Nov_ver.gif
       variant: center
+      key_highlights:
+        - title: 2026 Semester 1 class timetable
+          description: ""
+          url: https://www.canberrasec.moe.edu.sg/2026-class-exam-timetable/
   - infopic:
       title: Secondary 1 Registration 2026
       id: infopic

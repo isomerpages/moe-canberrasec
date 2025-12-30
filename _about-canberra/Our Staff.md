@@ -200,7 +200,7 @@ variant: tiptap
 <p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cheung-Sim Yi Lian</a> (ext
+<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Yi Lian</a> (ext
 248)</p>
 </td>
 </tr>

@@ -137,8 +137,8 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_selvarajoo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samuel Selvarajoo</a>
-</p>
+<p><a href="mailto:samuel_selvarajoo_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Samuel Selvarajoo</a> (ext
+108)</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +146,8 @@ variant: tiptap
 <p>HOD Student Wellbeing &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yi_lun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Yi Lun</a>
-</p>
+<p><a href="mailto:low_yi_lun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Low Yi Lun</a> (ext
+119)</p>
 </td>
 </tr>
 <tr>

@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec 1 Admission
 ---
+<p><em>Updated 26 Nov 2025</em>
+</p>
 <p>Our new Secondary 1 students will participate in an Orientation Programme
 on 2, 5, 6 and 7 January 2026 (Friday, Monday, Tuesday and Wednesday).</p>
 <p>The highlights of our Secondary 1 Orientation programme include a school

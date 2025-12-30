@@ -128,7 +128,7 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheng Lilian</a>
+<p><a href="mailto:cheng_lilian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Lilian</a>
 </p>
 </td>
 </tr>

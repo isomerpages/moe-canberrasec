@@ -142,6 +142,8 @@ all participants for their literary passion and creative expression!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_19_at_11_56_03_AM.jpg">
+	<br>
+	<br>
 </div>
 </td>
 </tr>

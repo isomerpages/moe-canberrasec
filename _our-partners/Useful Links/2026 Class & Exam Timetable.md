@@ -132,7 +132,7 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/4_Resepct_Sem_1.pdf" rel="noopener nofollow" target="_blank">4 Respect</a>
+<p><a href="/files/2026/4_Respect_Sem_1.pdf" rel="noopener nofollow" target="_blank">4 Respect</a>
 </p>
 </td>
 </tr>
@@ -169,5 +169,4 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2026/3_Empathy_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Empathy</a>
-</p>
+<p></p>

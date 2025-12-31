@@ -3,6 +3,7 @@ title: 2026 Class & Exam Timetable
 permalink: /2026-class-exam-timetable/
 variant: tiptap
 description: ""
+third_nav_title: Useful Links
 ---
 <h3>Semester 1</h3>
 <table style="minWidth: 100px">
@@ -131,7 +132,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/4_Resepct_Sem_1.pdf" rel="noopener nofollow" target="_blank">4 Respect</a>
+<p><a href="/files/2026/4_Respect_Sem_1.pdf" rel="noopener nofollow" target="_blank">4 Respect</a>
 </p>
 </td>
 </tr>

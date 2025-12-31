@@ -169,4 +169,5 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/2026/3_Empathy_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Empathy</a>
+</p>

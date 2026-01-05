@@ -82,7 +82,7 @@ skills through continued participation in various events and performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Cai Wen</p>
-<p>Mr Mohamed Nor Ariffin Ismail</p>
+<p>Ms Wang Xuejuan</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ skills through continued participation in various events and performances.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Xin Yi (3 Integrity)</p>
+<p>Lim Xin Yi (4 Integrity)</p>
 </td>
 </tr>
 <tr>
@@ -118,8 +118,8 @@ skills through continued participation in various events and performances.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Natalie Ng Jia Xuan (3 Diligence)</p>
-<p>Tan Yan Ning (3 Harmony)</p>
+<p>Natalie Ng Jia Xuan (4 Diligence)</p>
+<p>Tan Yan Ning (4 Harmony)</p>
 </td>
 </tr>
 </tbody>

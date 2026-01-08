@@ -337,7 +337,6 @@ training range on their own.</p>
 <p><strong>Clubs &amp; Societies</strong>
 </p>
 <p>Wednesday 3.00pm – 6.00pm</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>

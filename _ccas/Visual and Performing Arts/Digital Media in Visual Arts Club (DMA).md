@@ -322,7 +322,7 @@ and gain inspiration from their surroundings.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Goh Shu Hui</p>
-<p>Ms. Jamilene Tan</p>
+<p>Ms. Yusra Abd Razak</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@ and gain inspiration from their surroundings.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays, 2:30 pm to 6:00 pm</p>
+<p>Wednesdays, 3 pm to 6:00 pm</p>
 </td>
 </tr>
 </tbody>

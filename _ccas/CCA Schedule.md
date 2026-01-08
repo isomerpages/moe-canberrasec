@@ -4,6 +4,8 @@ permalink: /cca/cca-schedule/
 description: ""
 variant: tiptap
 ---
+<p><strong>2026 CCA Schedule</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -32,8 +34,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Sports &amp; Clubs</strong> 
-<br>Mondays and Wednesday 3 pm – 5.30 pm</p>
+<p><strong>Sports and Clubs</strong>
+</p>
+<p>Monday 3.00pm – 5.30pm and Wednesday 3.00pm – 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -50,25 +53,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall
-<br>Level 1 &amp; Level 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Victoria Teo</p>
-<p>67585070 ext 220</p>
-<p><a href="mailto:teo_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jiaen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -85,12 +70,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shooting (Air Pistol)</p>
+<p>Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAFRA Yishun</p>
@@ -109,6 +94,23 @@ training range on their own.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Volleyball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall L1 and L2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cassandra Tay Hwee Min</p>
+<p>67585070 ext 247</p>
+<p><a href="mailto:cassandra_tay_hwee_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_tay_hwee_min@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,22 +125,22 @@ training range on their own.</p>
 <td rowspan="1" colspan="1">
 <p>Members will need to pay for personal set of training attire and grading.</p>
 <p>&nbsp;</p>
-<p><strong>Wednesday only</strong>
-</p>
+<p>Wednesday only</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Visual and Performing Arts</strong> 
-<br>Mondays and Wednesdays 3 pm – 5.30 pm</p>
+<p><strong>Visual and Performing Arts</strong>
+</p>
+<p>Wednesday 3.00pm – 6.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Digital Media Design in Visual Arts Club (DMA)</p>
+<p>Digital Media Design in Visual Arts Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 2-1</p>
+<p>DMA Studio/ Com Lab 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Hui</p>
@@ -147,7 +149,7 @@ training range on their own.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -155,16 +157,16 @@ training range on their own.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA Room</p>
+<p>AVA room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Diyana Binte Hashim</p>
-<p>67585070 ext 205</p>
-<p><a href="mailto:Nurul_diyana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_diyana_hashim@schools.gov.sg</a>
+<p>Mr Tay Seng How, Simon</p>
+<p>67585070 ext 221</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_seng_how@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -175,13 +177,13 @@ training range on their own.</p>
 <p>Music Room/ Resource Room 2/ Cosmix</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imarah Bin Abas</p>
-<p>67585070 ext 252</p>
-<p><a href="mailto:Imarah_B_Abas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Imarah_B_Abas@schools.gov.sg</a>
+<p>Ms Sim Yi Lian</p>
+<p>67585070 ext 248</p>
+<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yi_lian@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -198,24 +200,7 @@ training range on their own.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 pm - 5 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guzheng Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Air Rifle Range</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chow Cai Wen</p>
-<p>67585070 ext 213</p>
-<p><a href="mailto:Chow_Cai_Wen@schools.gov.sg" rel="noopener nofollow" target="_blank">Chow_Cai_Wen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -232,49 +217,68 @@ training range on their own.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3pm - 6 pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Air Rifle Range</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chow Cai Wen</p>
+<p>67585070 ext 213</p>
+<p><a href="mailto:Chow_Cai_Wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chow_Cai_Wen@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Uniformed Groups</strong> 
-<br>Wednesday 3pm - 6pm</p>
+<p><strong>Uniformed Groups</strong>
+</p>
+<p>Wednesday 3.00pm – 6.00pm</p>
+<p>*BB and GB Saturday 8.30am – 12.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys' Brigade
-<br>(boys only)</p>
+<p>*Boys Brigade</p>
+<p>(Boys only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parade Square</p>
+<p>Parade&nbsp; Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Preston Tay</p>
+<p>Mr Tay Tzu-Lin, Preston</p>
 <p>67585070 ext 242</p>
 <p><a href="mailto:Preston_Tay_Tzu_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Preston_Tay_Tzu_Lin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Saturday</strong> 8.30am – 12.30pm</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls Brigade
-<br>(girls only)</p>
+<p>*Girls Brigade</p>
+<p>(Girls only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Fam</p>
+<p>Ms Fam Rong'en, Adeline</p>
 <p>67585070 ext 203</p>
 <p><a href="mailto:fam_rongen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_rongen_adeline@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Saturday</strong> 8.30am – 12.30pm</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -285,19 +289,18 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng</p>
+<p>Mr Jeremy Tng Ying Xiang</p>
 <p>67585070 ext 231</p>
 <p><a href="mailto:Jeremy_Tng_Ying_Xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremy_Tng_Ying_Xiang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Civil Defence Cadet Corps
-<br>(NCDCC)</p>
+<p>National Civil Defence Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square</p>
@@ -309,31 +312,31 @@ training range on their own.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corps
-<br>(NPCC)</p>
+<p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremiah Tan</p>
-<p>67585070 ext 211</p>
-<p><a href="mailto:Jeremiah_Tan_Teck_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremiah_Tan_Teck_Xuan@schools.gov.sg</a>
+<p>Mrs Olivia Ho</p>
+<p>67585070 ext 248</p>
+<p><a href="mailto:Ng_Liting_Olivia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Liting_Olivia@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Clubs &amp; Societies</strong>
-<br>Wednesdays 3 pm - 6 pm</p>
+</p>
+<p>Wednesday 3.00pm – 6.00pm</p>
 </td>
 </tr>
 <tr>
@@ -344,14 +347,13 @@ training range on their own.</p>
 <p>Computer Lab 1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hui Yi
-<br>67585070 ext 202</p>
+<p>Ms Wong Hui Yi</p>
+<p>67585070 ext 202</p>
 <p><a href="mailto:Wong_Hui_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Hui_Yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Friday</strong> 
-<br>2.30 pm - 5.30 pm</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -362,13 +364,13 @@ training range on their own.</p>
 <p>Biology Lab 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheak Su Peng
-<br>67585070 ext 210</p>
+<p>Ms Cheak Su Peng</p>
+<p>67585070 ext 210</p>
 <p><a href="mailto:Cheak_Su_Peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheak_Su_Peng@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -379,32 +381,15 @@ training range on their own.</p>
 <p>Cosmix</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vishnu Preyei
-<br>67585070 ext 208</p>
+<p>Ms Vishnu Preyei</p>
+<p>67585070 ext 208</p>
 <p><a href="mailto:Vishnu_Preyei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vishnu_Preyei@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Audio-visual Innovators (AI)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 1-1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Jacqueline Koh
-<br>62571915</p>
-<p><a href="mailto:Koh_Mei_Fang_Jacqueline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Mei_Fang_Jacqueline@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>

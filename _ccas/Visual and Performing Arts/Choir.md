@@ -86,8 +86,9 @@ harmony, and excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Diyana Bte Hashim</p>
-<p>Ms Wong Mun Foong</p>
+<p>Mr Tay Seng How Simon
+<br>Mr Tan Chu Sing</p>
+<p>Ms Rachelle Marie Chua Hui Ling</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +97,7 @@ harmony, and excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 3.00 pm – 5.30 pm</p>
+<p>Wednesday, 3 pm – 6 pm</p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +115,7 @@ harmony, and excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BUHRMAN BREANHA CHARLENE DALISAY (3 Empathy)</p>
+<p>BUHRMAN BREANHA CHARLENE DALISAY (4 Empathy)</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +124,7 @@ harmony, and excellence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR ALYSHA BINTE MOHAMMAD HAFFIZ (3 Honour)</p>
+<p>NUR ALYSHA BINTE MOHAMMAD HAFFIZ (4 Honour)</p>
 </td>
 </tr>
 </tbody>

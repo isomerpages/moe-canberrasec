@@ -67,8 +67,9 @@ both as musicians and as individuals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imarah Bin Abas
-<br>Mrs Cheung - Sim Yi Lian</p>
+<p>Ms Sim Yi Lian</p>
+<p>Mdm Farasidah Binte Rohmat</p>
+<p>Mr Imarah Bin Abas</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +78,7 @@ both as musicians and as individuals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3 pm - 5.30 pm</p>
+<p>Wednesday 3 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>

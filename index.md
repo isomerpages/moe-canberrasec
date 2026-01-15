@@ -18,17 +18,13 @@ sections:
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-term-letters-to-parents/
   - infopic:
-      title: Secondary 1 Registration 2026
-      id: infopic
-      button: Please click here for infromation
-      url: https://canberrasec.moe.edu.sg/sec-1-registration/
-      image: /images/Sec_1_Registration_2026.png
-      alt: Image alt text
-  - infopic:
       alt: Image alt text
       image: /images/Homepage_text.png
       description: “The future belongs to those who believe in the beauty of their
         dreams.” - Eleanor Roosevelt
+  - resources:
+      title: Announcements
+      button: VIEW MORE
   - announcements:
       title: Latest Happenings
       id: announcements
@@ -49,7 +45,4 @@ sections:
             linked below.
           link_text: 2025 Vietnam OLJ Google Site
           link_url: https://sites.google.com/moe.edu.sg/oljhcm2025/home
-  - resources:
-      title: Announcements
-      button: VIEW MORE
 ---

@@ -15,6 +15,10 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
+<p><a href="/files/2026/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2026</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2026/AUP_26_Nov_2025.pdf" rel="noopener nofollow" target="_blank">PLD Acceptable Use Policy For Students</a>
 </p>
 </li>

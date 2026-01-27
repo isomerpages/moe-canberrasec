@@ -22,5 +22,9 @@ third_nav_title: For Parents
 <p><a href="/files/2026/AUP_26_Nov_2025.pdf" rel="noopener nofollow" target="_blank">PLD Acceptable Use Policy For Students</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026/iPadOS_DMA_Parent_Option_A_V1_2.pdf" rel="noopener nofollow" target="_blank">DMA Guide for Parents and Guardians - Option A</a>
+</p>
+</li>
 </ul>
 <p></p>

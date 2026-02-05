@@ -2,9 +2,9 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/Guidelines for School Home Partnership.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
+      - For Parents/Guidelines for School Home Partnership.md
       - For Parents/2026 Term Letters to Parents.md
       - For Parents/Parenting Support Programmes.md
       - For Parents/Cyber Wellness.md

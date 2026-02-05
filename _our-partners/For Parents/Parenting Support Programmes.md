@@ -44,7 +44,4 @@ you can visit <a href="https://www.carecorner.org.sg/services/parenting-support/
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parenting_Consultation_Clinic.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thriving_Teens.png">
-</div>
 <p></p>

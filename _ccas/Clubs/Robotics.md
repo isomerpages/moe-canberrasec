@@ -128,7 +128,6 @@ PM.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_04_46_PM.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_02_23_PM.jpg">
 </div>

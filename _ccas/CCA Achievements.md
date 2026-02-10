@@ -86,7 +86,11 @@ both in victory and defeat.</p>
 <a href="https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-8910.html#general-info" rel="noopener nofollow" target="_blank">VEX V5 Robotics Competition Middle School Event</a><strong> in Texas, USA.</strong>
 <br>
 <br>WorldSkills Singapore 2025 VEX V5 Robotics Competition - Create Award,
-Amaze Award and Finalist Award</p>
+Amaze Award and Finalist Award
+<br>
+<br>Singapore Spooky Robo Rumble (V5RC) - Inspire Award
+<br>
+<br>Singapore VEX V5RC Tournament 2025 - Sportsmanship Award</p>
 </td>
 </tr>
 <tr>

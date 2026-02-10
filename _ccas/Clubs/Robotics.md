@@ -122,12 +122,11 @@ for strategic design and autonomous programming excellence.</p>
 continue striving for excellence and improve our performance. We will build
 on our successes and continue to innovate, compete, and grow as a team.</p>
 <h4>Training Schedule</h4>
-<p>Robotics CCA training sessions are held every Friday from 2:00 PM to 5:00
-PM.</p>
+<p>Robotics CCA training sessions are held every Wednesday from 3:00 PM to
+5:30 PM.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_04_46_PM.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_06_25_at_1_02_23_PM.jpg">

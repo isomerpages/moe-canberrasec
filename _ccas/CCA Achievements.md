@@ -88,7 +88,7 @@ both in victory and defeat.</p>
 <br>WorldSkills Singapore 2025 VEX V5 Robotics Competition - Create Award,
 Amaze Award and Finalist Award
 <br>
-<br>Singapore Spooky Robo Rumble (V5RC) - Inspire Award
+<br>Singapore Spooky Robo Rumble (V5RC) 2025 - Inspire Award
 <br>
 <br>Singapore VEX V5RC Tournament 2025 - Sportsmanship Award</p>
 </td>

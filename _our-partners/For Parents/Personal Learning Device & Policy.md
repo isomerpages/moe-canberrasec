@@ -15,7 +15,7 @@ third_nav_title: For Parents
 </p>
 </li>
 <li>
-<p><a href="/files/2026/Student_Device_Information_Kit_2026.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2026</a>
+<p><a href="/files/2026/DR4b___Student_Device_Information_Kit_2026__Apple_iPad_AsiaPac_.pdf" rel="noopener nofollow" target="_blank">Student Device Information Kit 2026</a>
 </p>
 </li>
 <li>

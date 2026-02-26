@@ -14,3 +14,7 @@ third_nav_title: School Events 2026
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0395.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8254.jpg">
+</div>
+<p></p>

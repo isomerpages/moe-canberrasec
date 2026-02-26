@@ -7,11 +7,19 @@ third_nav_title: School Events 2026
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7953.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1477.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0395.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0397.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8061_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

@@ -2,8 +2,6 @@ collections:
   about-canberra:
     output: true
     order:
-      - School Events 2026/Secondary 1 Orientation 2026.md
-      - School Events 2026/.keep
       - Principal's Message & School Philosophy.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
@@ -15,10 +13,13 @@ collections:
       - School Publications/School Publications 2025.md
       - School Publications/School Publications 2024.md
       - School Publications/School Publications 2023.md
+      - School Events 2026/.keep
+      - School Events 2026/Secondary 1 Orientation 2026.md
+      - Locate Us.md
+      - School Events 2025/.keep
       - School Events 2025/Post Exam Programme.md
       - School Events 2025/PSG Mooncake Baking.md
       - School Events 2025/Graduation Day 2025.md
-      - School Events 2025/.keep
       - School Events 2025/Teachers' Day Celebrations 2025.md
       - School Events 2025/Secondary 2 Applied Learning Module Showcase.md
       - School Events 2025/National Day Celebrations 2025.md
@@ -66,5 +67,3 @@ collections:
       - School Events 2025/Passing Out Parade 2024.md
       - School Events 2025/Lunar New Year Celebrations 2024.md
       - School Events 2025/Open House 2023.md
-      - School Events 2025/.keep
-      - Locate Us.md

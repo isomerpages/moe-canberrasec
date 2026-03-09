@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>2025</h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EdaaRF00gjU?si=WH7f_1CUF38eGP00"></iframe>
+</div>
+<p></p>
 <p><strong>Display of Sportsmanship during NSG</strong>
 </p>
 <p>We celebrate Badminton C Boys Captain, Hariharan s/o Alagappan of 2 Resilience,

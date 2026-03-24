@@ -14,7 +14,7 @@ sections:
         - title: 2026 Semester 1 Class TImetable
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-class-exam-timetable/
-        - title: Term 1 Letter to Parents and Guardians
+        - title: Term 2 Letter to Parents and Guardians
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-term-letters-to-parents/
   - infopic:

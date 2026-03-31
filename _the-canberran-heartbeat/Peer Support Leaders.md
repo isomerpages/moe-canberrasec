@@ -19,7 +19,7 @@ where students participate in fostering strong friendships and a sense
 of belonging to the school community (peer bonding), provide practical
 help and social-emotional support to one another (peer helping) and promote
 positive mindsets, pro-social behaviours (both online and offline), well-being
-and role model good character (peer influencing) <a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/cce/2021-character-and-citizenship-education-syllabus-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">(CCE Student Development Curriculum Division, 2020)</a>.</p>
+and role model good character (peer influencing).</p>
 <p>Peer Support Leaders (PSLs) are selected students who take on a more active
 role in supporting their peers. Their responsibilities include monthly
 training sessions where they develop skills to listen actively, respond

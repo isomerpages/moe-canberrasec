@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-<h3>Semester 1</h3>
+<h4>MTL Prelim Exam Timetable</h4>
+<p><a href="/files/2026/MTL_PRELIM_2026_Timetable.pdf" rel="noopener nofollow" target="_blank">MTL Prelim Exam Timetable for Secondary 4 &amp; 5</a>
+</p>
+<h4><br>Semester 1</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

@@ -100,7 +100,7 @@ academic excellence.</p>
 motivation, and the right learning disposition to grow with us at Canberra
 Secondary School.</p>
 <p>Development opportunities, and detailed selection criteria and process
-can be found <a href="https://www.canberrasec.moe.edu.sg/files/2025/Direct_School_Admission_additional_information_for_DSA.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+can be found <a href="/files/2026/Selcetion_criterion_for_DSA_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
 </p>
 <h4><strong>Application Process</strong></h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.

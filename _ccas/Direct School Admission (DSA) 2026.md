@@ -13,12 +13,13 @@ selection criteria. Parents and students are encouraged to choose schools
 wisely based on the student’s aptitudes and strengths, bearing in mind
 the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
-<h4><strong>Direct School Admission @ Canberra Secondary School</strong></h4>
+<p><strong>Direct School Admission @ Canberra Secondary School</strong>
+</p>
 <p>Canberra Secondary School welcomes prospective students who demonstrate
 talent, passion and potential in the following talent categories:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Digital Media and Visual Arts (DMA) &nbsp;– Media Arts / Film / Photography</p>
+<p>Digital Media and Visual Arts (DMA) – Media Arts / Film / Photography</p>
 </li>
 <li>
 <p>Robotics</p>
@@ -50,10 +51,9 @@ to lead and serve others, demonstrating initiative and responsibility.</p>
 <p><strong>Academic Readiness</strong>: While academic excellence is not
 the primary criterion, applicants should demonstrate the ability to manage
 both their talent development and academic studies effectively.</p>
-<p></p>
 </li>
 </ul>
-<p>Successful applicants will join Canberra Secondary School in January 2026.
+<p>Successful applicants will join Canberra Secondary School in January 2027.
 Students who are keen to apply should possess a strong level of motivation
 and commitment to their chosen talent area. While achievement and mastery
 in their chosen area is important, we are also looking for students who
@@ -99,31 +99,48 @@ academic excellence.</p>
 <p>We welcome students who demonstrate not just achievement, but also potential,
 motivation, and the right learning disposition to grow with us at Canberra
 Secondary School.</p>
-<h4>Development opportunities, and detailed selection criteria and process can be found <a href="/files/2025/Direct_School_Admission_additional_information_for_DSA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u></h4>
+<p>Development opportunities, and detailed selection criteria and process
+can be found <a href="https://www.canberrasec.moe.edu.sg/files/2025/Direct_School_Admission_additional_information_for_DSA.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u>
+</p>
 <h4><strong>Application Process</strong></h4>
-<p>The online application period runs from <strong>7 May 2025, 11:00 am to 3 June 2025, 3:00 pm</strong> through
-the centralised DSA-Sec Portal.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>6 May 2026, 11am to 2 June 2026, 4.30pm</strong>.
+For more details, please refer to MOE website – <a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>For applicants from MOE mainstream primary schools</em></strong>:
-Parents may access the DSA-Sec Portal directly using one parent's Singpass.
-Parents/guardians requiring assistance with the online applications may
-approach their child's/ ward’s primary school for support.</p>
+<p><strong>For applicants from MOE mainstream primary schools</strong>: Parents
+may access the DSA-Sec Portal directly using one parent's Singpass. Parents/guardians
+requiring assistance with the online applications may approach their child's/
+ward’s primary school for support.
+<br>
+</p>
 </li>
 <li>
-<p><strong><em>For applicants not from MOE mainstream primary schools:</em></strong> Parents
+<p><strong>For applicants not from MOE mainstream primary schools:</strong>&nbsp;Parents
 must first obtain a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal. For assistance, please visit: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+Portal. For assistance, please visit:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<br>
+</p>
+</li>
+<li>
+<p>International Students (who are not taking the PSLE) are required to take
+and fulfil the requirements of the Admissions Exercise for International
+Students (AEIS) to be successful in DSA. Permanent Residents (who are not
+taking the PSLE) do not need to take AEIS.
 <br>
 </p>
 </li>
 <li>
 <p>Applicants may submit up to 3 choices, with a maximum of 2 choices for
-the same school under different talent areas.</p>
+the same school under two different talent areas.
+<br>
+</p>
 </li>
 <li>
 <p>Applications can be updated, withdrawn, and resubmitted during the application
-period until the closing time of 3:00 pm on 3 June 2025.
+period until the closing time of 4:30 pm on 2 June 2026.
 <br>
 </p>
 </li>
@@ -134,22 +151,118 @@ participation, school-based activities, and achievements) will be automatically
 shared with the selected schools.</p>
 </li>
 </ul>
+<p>Note: Applicants who do not have prior experience may also apply. The
+school will assess applicants based on the selection criteria, which may
+include assessing the potential of the applicants.</p>
 <h4><strong>Selection Process</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Shortlisted candidates will be notified by Monday, 21 July 2025.</p>
+<p>Shortlisted candidates will be notified by <strong>Friday, 3 July 2026</strong>.</p>
 </li>
 <li>
-<p>Trials, selection tests, and interviews will be conducted between July
-and August 2025.</p>
+<p>Trials, selection tests, and interviews will be conducted between <strong>3 July and 28 August 2026</strong>.</p>
 </li>
 <li>
-<p>Shortlisted applicants will receive specific date and time notifications.</p>
-<p></p>
+<p>Shortlisted applicants will receive specific date and time notifications
+for interviews/trials.</p>
 </li>
 </ul>
-<p>All applicants will be notified of outcomes <strong>between 25 August and 4 September 2025</strong>.
-The school's decision is final, and reasons for non-selection may not be
-disclosed.</p>
+<p>All applicants will receive their application outcomes between 17 and
+28 Aug 2026<strong>.</strong> The school's decision is final, and reasons
+for non-selection may not be disclosed.</p>
 <p><strong><u>Please note that meeting all criteria does not guarantee shortlisting or an offer.</u></strong>
 </p>
+<p></p>
+<p><strong>Useful MOE weblinks</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Main Webpage</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Mainstream students)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application</p>
+<p>(Non-Mainstream Students)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal</p>
+<p>(Mainstream Students)</p>
+<p>*go live on 6 May 2026, 11am</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal</p>
+<p>(Non-Mainstream Students)</p>
+<p>*go live on 6 May 2026, 11am</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec iFAQs</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec SchoolFinder</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

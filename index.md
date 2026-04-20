@@ -9,11 +9,14 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/2025_Nov_ver.gif
-      variant: center
+      variant: image
       key_highlights:
         - title: 2026 Semester 1 Class TImetable
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-class-exam-timetable/
+        - title: DIrect School Admission (DSA) 2026
+          description: ""
+          url: https://canberrasec.moe.edu.sg/dsa/
         - title: Term 2 Letter to Parents and Guardians
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-term-letters-to-parents/

@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Direct School Admission (DSA) 2026.md
       - Our Co Curriculum.md
       - CCA Achievements.md
       - Sports & Games/.keep

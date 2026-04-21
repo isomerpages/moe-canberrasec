@@ -9,7 +9,6 @@ students with a comprehensive understanding of computing concepts, proficiency
 in a range of application software, and expertise in computational thinking
 and problem-solving. We prioritize the responsible use of technology in
 everyday life, ensuring students are well-equipped for the digital age.</p>
-<p></p>
 <p>The CPA curriculum encompasses a broad spectrum of IT skills and tools,
 aligning with Baseline ICT Skill areas in word processing, spreadsheet,
 multimedia, animation, and game-making. Teachers employ diverse pedagogical

@@ -63,28 +63,4 @@ of the importance of healthy eating, and the benefits of regular participation
 in physical activities. This broadens the students’ repertoire of health
 concepts and skills, and they are better able to make informed decisions,
 contributing towards active and healthy living.</p>
-<p>Our PE Team consists of</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Ms Jenny Soh, HOD PE/CCA (Covering D&amp;T Unit)</p>
-</li>
-<li>
-<p>Mr Whelan Chen, SH PE/CCA</p>
-</li>
-<li>
-<p>Mr Lok Chee How, Teacher</p>
-</li>
-<li>
-<p>Mr Lim Beng Hua (Alan), Teacher</p>
-</li>
-<li>
-<p>Mr Tan Bak Cheng, Teacher</p>
-</li>
-<li>
-<p>Mr Wong Pee Wah (Ryan), Teacher</p>
-</li>
-<li>
-<p>Mr Ser Thien Huat (Steven), Teacher</p>
-</li>
-</ol>
 <p>&nbsp;</p>

@@ -9,8 +9,7 @@ variant: tiptap
 thinking, and self-expression through a dynamic and comprehensive art curriculum.
 Our programmes are designed to nurture students' artistic abilities while
 developing their appreciation of art in its various forms and mediums.</p>
-<p></p>
-<h2>Lower Secondary Curriculum</h2>
+<h4>Lower Secondary Curriculum</h4>
 <p>At the Lower Secondary level, students embark on an exciting journey of
 exploration across diverse artistic media through:</p>
 <p><strong>Core Skills Development:</strong>
@@ -63,7 +62,7 @@ exploration across diverse artistic media through:</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_6.jpg">
 </div>
 <p></p>
-<h2>Upper Secondary Curriculum</h2>
+<h4>Upper Secondary Curriculum</h4>
 <p>Our Upper Secondary Art Programme is tailored to meet the requirements
 of different academic streams while nurturing each student's artistic potential.</p>
 <p><strong>Express Stream (O-Level Art)</strong>
@@ -127,7 +126,7 @@ of different academic streams while nurturing each student's artistic potential.
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_9.jpg">
 </div>
-<h2>Enhanced Art Programmes</h2>
+<h4>Enhanced Art Programmes</h4>
 <p><strong>Learning Journeys and Industry Exposure</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -187,25 +186,12 @@ of different academic streams while nurturing each student's artistic potential.
 <p>Community art showcase opportunities</p>
 </li>
 </ul>
-<h2>Canberran Artists in Action</h2>
+<h4>Canberran Artists in Action</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_8.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_7.jpg">
-</div>
-<p></p>
-<h3><strong>Here are some of our Achievements:</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art3.png">
 </div>
 <p></p>

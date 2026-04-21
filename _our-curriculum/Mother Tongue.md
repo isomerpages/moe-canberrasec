@@ -154,7 +154,6 @@ and engaging learning experience.</p>
 </div>
 <p><em>Secondary Two CL AA project: Create Your Own Brochure</em>
 </p>
-<p></p>
 <h4><strong>Festive Celebrations</strong></h4>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lunar New Year</strong>
 </p>
@@ -254,7 +253,6 @@ the diverse cultures in our community.</p>
 </ol>
 <p><em>Students participating in a lantern making activity as part of the Mid-Autumn Festival celebration.</em>
 </p>
-<p></p>
 <h4><strong>Publications</strong></h4>
 <p>Launched in 2014, <em>康情 Kang Qing</em> is our flagship Chinese Language
 publication that showcases students' written works and reflections. In
@@ -267,7 +265,6 @@ with others in our diverse community.</p>
 </div>
 <p><em>康情 Kang Qing 2023</em>
 </p>
-<p></p>
 <h4><strong>Competitions</strong></h4>
 <p>Participation in competitions provides our students valuable opportunities
 to apply their language skills in real-world contexts. These experiences
@@ -300,27 +297,4 @@ preparing them for success in a globalized world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Competition_4.jpg">
 </div>
-<h4><strong>Student Achievements</strong></h4>
-<p><u>2024:</u>
-</p>
-<p>“Awe-Inspiring Virture and Ocean of Wisdom” National Calligraphy Competition</p>
-<p>「威德智海」全国硬笔书法比赛</p>
-<p>Finalist</p>
-<p></p>
-<p><u>2023:</u>
-</p>
-<p>Reading Ambassadors Programme Competition</p>
-<p>超级阅读明星比赛</p>
-<p>Video Category (Team): First Prize &amp; Second Prize</p>
-<p></p>
-<p>Create Your Own Newspaper Competition</p>
-<p>全国学生编采比赛</p>
-<p>Upper Sec Category – First Prize (高年级组 一等奖 )</p>
-<p>Lower Sec Category – Second Prize (低年级组 二等奖)</p>
-<p></p>
-<p><u>2022:</u>
-</p>
-<p>5<sup>th</sup> Text Recital Competition for Primary and Secondary Schools</p>
-<p>第五届中小学课文朗诵比赛</p>
-<p>Upper Secondary (Individual) Category: Second Prize (亚军)</p>
 <p></p>

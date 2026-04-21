@@ -128,7 +128,6 @@ to nurture future-ready students who excel not only in academics but also
 in character. By acknowledging and celebrating our students' achievements
 across various domains, we reinforce our commitment to holistic education
 and inspire our students to embody our school values and vision.</p>
-<p>&nbsp;</p>
 <hr>
 <p><strong>Edusave Character Award (ECHA)</strong>
 </p>
@@ -286,9 +285,7 @@ ownership.</p>
 to take charge without being prompted.</p>
 </li>
 </ul>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>

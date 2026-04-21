@@ -57,12 +57,3 @@ softwares to help improve their speeches.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_2.jpg">
 </div>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>

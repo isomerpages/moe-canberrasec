@@ -12,7 +12,6 @@ and creative Future-Ready Canberrans</p>
 <p><strong>Mission:</strong> Our mission is to provide a safe and creative
 learning environment that empowers our students to achieve cognitive excellence,
 digital competencies, and technological knowledge and skills.</p>
-<p></p>
 <p><strong>Lower Secondary Curriculum</strong>
 </p>
 <p>In the lower secondary years, we offer an integrated approach to design
@@ -24,7 +23,6 @@ design thinking knowledge and skills alongside eSketching to develop authentic
 ideas and bring their prototypes to fruition. This approach equips our
 students with the knowledge, skills, and mindset to innovate and create
 in the ever-evolving technological landscape.</p>
-<p>&nbsp;</p>
 <p><strong>Upper Secondary Curriculum</strong>
 </p>
 <p>When students reach the upper secondary level, our D&amp;T students will
@@ -36,9 +34,8 @@ and inventive thinking skills, in line with the enhanced 21st-century (21CC)
 competency framework. This holistic approach not only fosters innovation
 and creativity but also prepares our students to thrive in an increasingly
 technology-driven world.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Catapult_7.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Catapult_7.jpg">
 </div>
 <p><strong>Special Programmes</strong>
 </p>
@@ -49,16 +46,14 @@ setting but also foster creativity, critical thinking, and teamwork. Through
 these dynamic projects, students hone their problem-solving skills, collaborate
 in teams, and gain a deeper appreciation for the practical applications
 of engineering.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20240124_041328264.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/PXL_20240124_041328264.jpg">
 </div>
 <p>Come join us in the fun and enriching learning experience that sparks
 your passion for innovation and creativity! Immerse yourself in exciting
 hands-on learning experiences with our Design and Technology programmes.</p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_4_Team_Photo.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Group_4_Team_Photo.jpg">
 </div>
 <p>Our D&amp;T team consist of</p>
 <ol data-tight="true" class="tight">

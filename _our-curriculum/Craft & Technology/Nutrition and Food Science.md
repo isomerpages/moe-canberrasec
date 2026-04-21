@@ -27,11 +27,3 @@ through a series of interactive activities; delving into flour technology
 and other culinary baking fundamentals. These workshops allow students
 to gain and deepen insights in skills, process and products of the Food
 and Beverage industry.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fn1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fn2.png">
-</div>
-<p></p>

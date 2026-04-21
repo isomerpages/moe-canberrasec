@@ -63,9 +63,6 @@ hands-on learning experiences with our Design and Technology programmes.</p>
 <p>Our D&amp;T team consist of</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Jenny Soh, HOD PE/CCA (Covering D&amp;T Unit)</p>
-</li>
-<li>
 <p>Mr Aw Yong Wai Keet, AYH2</p>
 </li>
 <li>
@@ -76,9 +73,6 @@ hands-on learning experiences with our Design and Technology programmes.</p>
 </li>
 <li>
 <p>Mr Shaik Allauddin, Teacher</p>
-</li>
-<li>
-<p>Mr Mohammed Amin B Abdul, STEM instructor</p>
 </li>
 <li>
 <p>Mr Chua Chong Eng, STEM instructor</p>

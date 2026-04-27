@@ -78,7 +78,10 @@ grounded Future-Ready Canberrans.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_2.png">
+</div>
+<p>Stilt-Walking and Festive Drums Performers</p>
 </td>
 </tr>
 </tbody>
@@ -115,6 +118,7 @@ grounded Future-Ready Canberrans.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8254.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

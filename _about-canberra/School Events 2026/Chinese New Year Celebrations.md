@@ -133,15 +133,34 @@ grounded Future-Ready Canberrans.</p>
 <p>Our Emcees</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_5.jpg">
+</div>
+<p>Blessings by the God of Fortune</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8254.jpg">
+</div>
+<p>Wishing Everyone a Happy Lunar New Year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
 <br>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8254.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>

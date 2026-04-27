@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: School Events 2026
 ---
-<p><strong>Lunar New Year Celebration cum Mother Tongue Language Fortnight 2026</strong>
-</p>
 <p>In 2026, our school proudly celebrated the Lunar New Year Celebration
 cum Mother Tongue Language Fortnight, a vibrant event that brought together
 culture, language, and community. Aligned with our school's mission of
@@ -193,6 +191,33 @@ grounded Future-Ready Canberrans.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_10.png">
 </div>
 <p>Ink Painting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_11.png">
+</div>
+<p>Calligraphy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_12.png">
+</div>
+<p>Having Fun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_13.png">
+</div>
+<p>LNY Classroom Decoration Prize Presentation</p>
 </td>
 </tr>
 </tbody>

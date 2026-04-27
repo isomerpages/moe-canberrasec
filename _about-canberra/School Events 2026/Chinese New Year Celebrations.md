@@ -70,6 +70,14 @@ grounded Future-Ready Canberrans.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_1.jpg">
+</div>
+<p>Sichuan Opera Mask Changing Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -107,5 +115,6 @@ grounded Future-Ready Canberrans.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8254.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>

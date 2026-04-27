@@ -168,13 +168,33 @@ grounded Future-Ready Canberrans.</p>
 <p>Chinese Yoyo</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_8.png">
+</div>
+<p>TCM Knowledge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_9.png">
+</div>
+<p>Fan Painting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2026_10.png">
+</div>
+<p>Ink Painting</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>

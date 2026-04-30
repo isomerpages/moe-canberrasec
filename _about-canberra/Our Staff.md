@@ -401,15 +401,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soo_yam_koon_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Soo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Education and Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">

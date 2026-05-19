@@ -32,20 +32,18 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: "Overseas Learning Journey 2025: China"
-          date: 15 October 2025
-          announcement: 26 students and four teachers will be embarking on an Overseas
-            Learning Journey to Hainan, China from 14-18 October 2025. For daily
-            updates, photos and student reflections, please visit the OLJ Google
-            Site linked below.
-          link_text: 2025 Hainan OLJ Google Site
-          link_url: https://sites.google.com/moe.edu.sg/cohort3hainan2025
-        - title: "Overseas Learning Journey 2025: Vietnam"
-          date: 08 October 2025
-          announcement: Our students will be departing on an Overseas Learning Journey to
-            Ho Chi Minh, Vietnam, from 14-18 October 2025. For daily updates,
-            photos and student reflections, please visit the OLJ Google Site
-            linked below.
-          link_text: 2025 Vietnam OLJ Google Site
-          link_url: https://sites.google.com/moe.edu.sg/oljhcm2025/home
+        - title: "Overseas Learning Journey 2026: Hong Kong"
+          date: 18 May 2026
+          announcement: Our students embarked on an Overseas Learning Journey to Hong Kong
+            from 18-22 May 2026. For daily updates, photos and student
+            reflections, please visit the OLJ Google Site linked below.
+          link_text: 2026 Hong Kong OLJ Google Site
+          link_url: https://sites.google.com/moe.edu.sg/cbssolj2026hk/home
+        - title: "Overseas Learning Journey 2026: Vietnam"
+          date: 18 May 2026
+          announcement: Our students embarked on an Overseas Learning Journey to Ho Chi
+            Minh, Vietnam, from 18-22 May 2026. For daily updates, photos and
+            student reflections, please visit the OLJ Google Site linked below.
+          link_text: 2026 Vietnam OLJ Google Site
+          link_url: https://sites.google.com/moe.edu.sg/cbssoljviet2k26?usp=sharing
 ---

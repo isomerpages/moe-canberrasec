@@ -5,6 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
+<h4>Secondary 4 &amp; 5 Prelim Exam Timetable</h4>
+<p><a href="/files/2026/2026_Prelim_Exams_TT_4E5N_26_May.pdf" rel="noopener nofollow" target="_blank">4 Empathy, 4 Honour, 4 Diligence, 5 Integrity</a>
+</p>
+<p><a href="/files/2026/2026_Prelim_Exams_TT_4NA_26_May.pdf" rel="noopener nofollow" target="_blank">4 Integrity, 4 Harmony</a>
+</p>
+<p><a href="/files/2026/2026_Prelim_Exams_TT_4NT_26_May.pdf" rel="noopener nofollow" target="_blank">4 Respect, 4 Kindness</a>
+</p>
 <h4>MTL Prelim Exam Timetable</h4>
 <p><a href="/files/2026/MTL_PRELIM_2026_Timetable.pdf" rel="noopener nofollow" target="_blank">MTL Prelim Exam Timetable for Secondary 4 &amp; 5</a>
 </p>

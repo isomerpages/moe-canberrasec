@@ -2,7 +2,7 @@
 title: Academic Programmes
 permalink: /academic-programmes/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Canberra Secondary offers a rigorous academic programme and comprehensive
 range of student development programmes that are well-aligned to MOE's
@@ -39,7 +39,7 @@ global community.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/mother-tongue/"><img style="width: 100%" height="50%" width="50%" src="/images/mother-tongue.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/mother-tongue-languages/"><img style="width: 100%" height="50%" width="50%" src="/images/mother-tongue.png"></a>
 <p><strong>Mother Tongue Languages</strong>
 </p>
 </td>

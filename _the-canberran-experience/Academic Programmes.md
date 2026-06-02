@@ -40,7 +40,7 @@ global community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/mother-tongue/"><img style="width: 100%" height="50%" width="50%" src="/images/mother-tongue.png"></a>
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/craft-n-technology/"><img style="width: 100%" height="50%" width="50%" src="/images/craft-n-tech.png"></a>

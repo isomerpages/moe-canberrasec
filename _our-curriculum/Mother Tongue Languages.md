@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /mother-tongue-languages/
+permalink: /mt-language/
 description: ""
 variant: tiptap
 ---

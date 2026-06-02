@@ -1,6 +1,6 @@
 ---
-title: Mother Tongue
-permalink: /mother-tongue/
+title: Mother Tongue Languages
+permalink: /mother-tongue-languages/
 description: ""
 variant: tiptap
 ---

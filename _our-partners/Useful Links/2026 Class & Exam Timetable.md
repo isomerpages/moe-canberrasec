@@ -30,8 +30,7 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Empathy_Sem_2pdf" rel="noopener nofollow" target="_blank">1 Empathy</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2026/2_Empathy_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Empathy</a>

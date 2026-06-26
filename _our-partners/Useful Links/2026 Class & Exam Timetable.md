@@ -30,15 +30,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Empathy_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Empathy</a>
+<p><a href="/files/2026/1_Empathy_Sem_2pdf" rel="noopener nofollow" target="_blank">1 Empathy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Empathy_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Empathy</a>
+<p><a href="/files/2026/2_Empathy_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Empathy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Empathy_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Empathy</a>
+<p><a href="/files/2026/3_Empathy_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Empathy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,15 +48,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Honour_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Honour</a>
+<p><a href="/files/2026/1_Honour_Sem_2.pdf" rel="noopener nofollow" target="_blank">1 Honour</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Honour_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Honour</a>
+<p><a href="/files/2026/2_Honour_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Honour</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Honour_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Honour</a>
+<p><a href="/files/2026/3_Honour_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Honour</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,15 +66,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Diligence_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Diligence</a>
+<p><a href="/files/2026/1_Diligence_Sem_2.pdf" rel="noopener nofollow" target="_blank">1 Diligence</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Diligence_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Diligence</a>
+<p><a href="/files/2026/2_Diligence_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Diligence</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Diligence_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Diligence</a>
+<p><a href="/files/2026/3_Diligence_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Diligence</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,15 +84,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Integrity_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Integrity</a>
+<p><a href="/files/2026/1_Integrity_Sem_2.pdf" rel="noopener nofollow" target="_blank">1 Integrity</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Integrity_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Integrity</a>
+<p><a href="/files/2026/2_Integrity_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Integrity</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Integrity_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Integrity</a>
+<p><a href="/files/2026/3_Integrity_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Integrity</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,15 +102,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Harmony_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Harmony</a>
+<p><a href="/files/2026/1_Harmony_Sem_2.pdf" rel="noopener nofollow" target="_blank">1 Harmony</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Resilience_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Resilience</a>
+<p><a href="/files/2026/2_Resilience_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Resilience</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Harmony_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Harmony</a>
+<p><a href="/files/2026/3_Harmony_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Harmony</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,15 +120,15 @@ third_nav_title: Useful Links
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/1_Respect_Sem_1.pdf" rel="noopener nofollow" target="_blank">1 Respect</a>
+<p><a href="/files/2026/1_Respect_Sem_2.pdf" rel="noopener nofollow" target="_blank">1 Respect</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Respect_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Respect</a>
+<p><a href="/files/2026/2_Respect_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Respect</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/3_Respect_Sem_1.pdf" rel="noopener nofollow" target="_blank">3 Respect</a>
+<p><a href="/files/2026/3_Respect_Sem_2.pdf" rel="noopener nofollow" target="_blank">3 Respect</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ third_nav_title: Useful Links
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026/2_Kindness_Sem_1.pdf" rel="noopener nofollow" target="_blank">2 Kindness</a>
+<p><a href="/files/2026/2_Kindness_Sem_2.pdf" rel="noopener nofollow" target="_blank">2 Kindness</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

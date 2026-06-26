@@ -11,7 +11,7 @@ sections:
       background: /images/2025_Nov_ver.gif
       variant: image
       key_highlights:
-        - title: 2026 Term 3 Timetable
+        - title: 2026 Semester 2 Class Timetable
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-class-exam-timetable/
         - title: DIrect School Admission (DSA) 2026

@@ -17,7 +17,7 @@ sections:
         - title: DIrect School Admission (DSA) 2026
           description: ""
           url: https://canberrasec.moe.edu.sg/dsa/
-        - title: Term 2 Letter to Parents and Guardians
+        - title: Semester 2 Letter to Parents and Guardians
           description: ""
           url: https://canberrasec.moe.edu.sg/2026-term-letters-to-parents/
   - infopic:

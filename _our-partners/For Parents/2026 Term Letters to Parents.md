@@ -27,4 +27,7 @@ third_nav_title: For Parents
 <h4>Term 2</h4>
 <p><a href="/files/2026/2026_03_24___PG_2026_Term_2_Sec_1_to_Sec_5_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Term 2 Letter to Parents</a>
 </p>
+<h4>Semester 2</h4>
+<p><a href="/files/2026/Principal_s_Letter_for_Sem_2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Letter to Parents</a>
+</p>
 <p></p>

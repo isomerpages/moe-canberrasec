@@ -269,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>SH Student Leadership &amp; Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peter_ong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Peter Ong</a> (ext

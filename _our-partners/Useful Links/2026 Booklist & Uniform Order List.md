@@ -53,4 +53,5 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/2026/CBRSS_UNIFORM_ORDER_FORM_updated_JULY_2026.pdf" rel="noopener nofollow" target="_blank">Uniform Order List Updated July 2026</a>
+</p>

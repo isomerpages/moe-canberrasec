@@ -10,7 +10,9 @@ third_nav_title: For Parents
 Your active involvement in the Parent Support Group (PSG) strengthens the
 school-home partnership, benefiting your child, enriching your parenting
 journey, and enhancing our school community.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/PSG_as_of_050326.jpg">
+</div>
 <p><strong>Our Objectives</strong>
 </p>
 <p>PSG @ Canberra Secondary aims to inspire and empower parents as positive

@@ -16,6 +16,11 @@ on this link: <a href="https://www.canberrasec.moe.edu.sg/student-recognition/" 
 please click on the link or scan the QR code attached and submit your nomination.</p>
 <p>Nomination link: <a href="https://go.gov.sg/echa-nomination-2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/echa-nomination-2026</a>
 </p>
-<p>QR Code:</p>
+<p>QR Code:
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qrcode_form_gov_sg.png">
+</div>
 <p>Please submit your completed nomination by <strong><u>1700 hrs on Friday, 7<sup>th</sup> August 2026</u></strong>.</p>
 <p>Thank you.</p>

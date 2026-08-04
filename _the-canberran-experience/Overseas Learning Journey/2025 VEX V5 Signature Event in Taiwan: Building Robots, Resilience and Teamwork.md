@@ -89,8 +89,7 @@ design process.</p>
 </div>
 <p><em>Students explaining their robot design and engineering journey during the competition interview.</em>
 </p>
-<p><strong>Growing Through the Experience</strong>
-</p>
+<h4><strong>Growing Through the Experience</strong></h4>
 <p>The trip provided many learning opportunities beyond the competition itself.
 The students learned to remain calm when faced with unexpected problems,
 persevere when their initial solutions did not work and support one another
@@ -101,56 +100,68 @@ an unfamiliar environment.</p>
 <p>Most importantly, the students learned that progress in robotics comes
 through continuous testing, reflection and improvement. Challenges and
 setbacks became opportunities for the team to learn and grow together.</p>
-<p><strong>Students’ Reflections</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/skillmatch.jpg">
+</div>
+<p><em>Our Robotics CCA members getting ready for skill challenge</em>
 </p>
-<p><strong>PHOTO: competition</strong>
+<h4><strong>Students’ Reflections</strong></h4>
+<blockquote>
+<p>The PAS VEX competition in Taiwan 2025 was my first ever robotics competition
+held overseas. I was honoured and excited when this opportunity came along.
+As the only driver of the team, I was tasked with many duties that would
+test my skillset. I was given the responsibility of handling the robot
+and winning the matches.
+<br>
+<br>Despite all the technical difficulties with the robot, I still persevered
+and fought hard with the controller. Even when my team needed help with
+building, I stepped in and contributed. Overall, PAS VEX was an amazing
+opportunity that introduced me to many new things. I got to learn from
+top teams around the world, such as Unicorn Puncher, Joinus, and Xelsious.
+<br>
+<br>All these teams have also been part of our robotics learning journey.
+Hence, I am grateful for the chance to represent my school and nation in
+Taiwan.</p>
+<p>-SEKAR YATHEESWAR (3 Empathy 2025)</p>
+</blockquote>
+<blockquote>
+<p>Competing in PAS VEX Taiwan was an enriching and eye-opening experience
+for my team and me. At the start, the competition felt intimidating, as
+many of the other teams appeared highly passionate and committed. However,
+as time passed, we gradually adapted and learned to view our difficulties
+as valuable learning opportunities.</p>
+<p>
+<br>Throughout the competition, we faced many challenges and often felt under
+pressure. One of the biggest was communicating with our alliance partners,
+as the language barrier between us and teams from other countries was significant.
+Being proficient only in English, while many other participants primarily
+spoke Mandarin, placed us at a considerable disadvantage. Despite these
+obstacles, we continued to give our best effort and made the most of the
+experience.
+<br>
 </p>
-<p><strong>Caption: </strong>Our Robotics CCA members getting ready for skill
-challenge</p>
-<p>PAS vex&nbsp; competition in taiwan 2025 is my first ever robotics competition
-held overseas. I was honoured and excited when this opportunity came by.
-As the only driver of the team, i was tasked with a lot of duties that
-would test my skillset. I was given responsibily of handling the robot
-and winning the matches. Despite all the technical difficulties from the
-robot, i still persevered and fought hard with the controller. And, even
-when my team needed help with building, i stepped in and played a part.
-Overall, PAS Vex was an amazing oppportinity and it introduced a lot of
-new things. I got to learn from top teams around the world such as Unicorn
-puncher, Joinus and Xelsious. All these teams is also part of our robotics
-learning journey. Hence, i am grateful for getting the chance to represent
-my school and nation in taiwan.</p>
-<p>Yatheeswar 3 Empathy 2025</p>
-<p>&nbsp;</p>
-<p>Competing in PAS VEX Taiwan was an enriching and eye opening experience
-for my team and me. At the start, the competition felt intimidating as
-many of the other teams appeared highly passionate and committed to what
-they were doing. However, as time passed, we gradually adapted and learned
-to view our difficulties as valuable learning opportunities. Throughout
-the competition, we faced many challenges and often felt pressured. One
-of the biggest challenges was communicating with our alliance partners.
-The language barrier between us and teams from different countries was
-significant. While I was only proficient in English, many of the other
-participants primarily spoke Mandarin, which placed us at a disadvantage.
-Despite these obstacles, we continued to put in our best effort and made
-the most of the experience. Although we did not win any awards, the competition
-exposed us to a much broader perspective beyond local competitions and
-pushed us out of our comfort zone. This experience taught me the importance
-of staying positive when things do not go as planned and remaining committed
-even in challenging situations.</p>
-<p>Mary Ancheska 3 Empathy 2025</p>
-<p>&nbsp;</p>
+<p>Although we did not win any awards, the competition exposed us to a much
+broader perspective beyond local competitions and pushed us out of our
+comfort zone. It taught me the importance of staying positive when things
+do not go as planned, and of remaining committed even in challenging situations.</p>
+<p>-LIM MARY ANCHESKA B. (3 Empathy 2025)</p>
+</blockquote>
+<blockquote>
 <p>The PAS VEX V5 competition in Taiwan was my first overseas competition,
 making it a memorable and meaningful experience. Competing in a different
 country was both exciting and challenging, as everything felt unfamiliar,
 from the competition environment to the high level of teams participating.
-This experience pushed me out of my comfort zone and gave me valuable exposure
-beyond local competitions.</p>
+<br>
+<br>This experience pushed me out of my comfort zone and gave me valuable
+exposure beyond local competitions.</p>
 <p>During the competition, my team and I faced various challenges, including
 technical issues with our robot. Midway through the competition, our drivetrain
 developed problems, which affected our robot’s movement and performance
 during matches. With limited time between rounds, we had to troubleshoot
 quickly and make adjustments under pressure. This tested our teamwork,
-communication, and ability to stay calm when things did not go as planned.</p>
+communication, and ability to stay calm when things did not go as planned.
+<br>
+</p>
 <p>One of the most valuable aspects of the competition was being exposed
 to many strong and experienced teams. Observing their robot designs, programming
 techniques, and match strategies helped us understand what it takes to
@@ -158,24 +169,23 @@ perform at a higher level. Even though we did not win any awards, the experience
 was extremely rewarding. We learned a great deal from our mistakes and
 from other teams, and this motivated us to improve our robot’s reliability,
 strategy, and preparation for future VEX V5 competitions.</p>
-<p>&nbsp;</p>
-<p>Chye Cheng Zhang 2 Diligence 2025</p>
-<p>&nbsp;</p>
-<p>The PAS vex competition in Taiwan was my first VEX robotics competition
-overseas. While it was definitely intimidating for me, I am grateful to
-be given such a unique opportunity.&nbsp; One of my biggest challenges
-was the language barrier between the other countries that were participating.
-English is my only language, therefore as a scout I had to watch the gameplay
-to know better about the other teams. Something I feel like I did well
-was keeping the logistics organised, which made it easier for my team members
-to make quick fixes between rounds. Overall, I learnt to think on the spot
-when things dont go to plan, and not letting losses get to me. It was definitely
-a fun and memorable experience.</p>
-<p>&nbsp;</p>
-<p>CABRERA PAULA MARGARET MANIBO 3 Empathy 2025</p>
-<p>&nbsp;</p>
-<p><strong>A Memorable Learning Journey</strong>
-</p>
+<p>-CHYE CHENG ZHANG (2 Diligence 2025)</p>
+</blockquote>
+<blockquote>
+<p>The PAS VEX competition in Taiwan was my first overseas VEX Robotics competition.
+While it was certainly intimidating, I am grateful to have been given such
+a unique opportunity. One of my biggest challenges was the language barrier
+between the participating countries. As English is my only language, I
+had to rely on observing the gameplay as a scout to better understand the
+other teams.
+<br>
+<br>One thing I feel I did well was keeping the logistics organised, which
+made it easier for my team members to make quick fixes between rounds.
+Overall, I learnt to think on my feet when things did not go to plan, and
+not to let losses affect me. It was a truly fun and memorable experience.</p>
+<p>-CABRERA PAULA MARGARET MANIBO (3 Empathy 2025)</p>
+</blockquote>
+<h4><strong>A Memorable Learning Journey</strong></h4>
 <p>The PAS Taiwan Robotics Trip was more than an opportunity to participate
 in an overseas competition. It was a meaningful learning journey that strengthened
 the students’ technical skills, resilience, teamwork and confidence.</p>

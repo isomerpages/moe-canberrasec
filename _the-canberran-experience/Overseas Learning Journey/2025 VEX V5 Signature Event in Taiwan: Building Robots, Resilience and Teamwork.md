@@ -55,13 +55,11 @@ observation and effective communication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Preparation1.jpg">
 </div>
-<p>
-<br><em>Students working together to inspect and prepare their robot before a match.</em>
+<p><em>Students working together to inspect and prepare their robot before a match.</em>
 </p>
 <p><em>Team members troubleshooting the robot and making adjustments under time pressure.</em>
 </p>
-<p><strong>Taking Part in the VEX V5 Competition</strong>
-</p>
+<h4><strong>Taking Part in the VEX V5 Competition</strong></h4>
 <p>During the competition, the students put their preparation into action.
 They had to communicate clearly, respond quickly to changing situations
 and make strategic decisions during each match.</p>
@@ -71,12 +69,12 @@ fellow participants, the students gained new perspectives and ideas that
 could support their future development in robotics.</p>
 <p>Regardless of the results of each match, the team remained focused and
 continued to reflect on how the robot and their approach could be improved.</p>
-<p><strong>PHOTO:</strong> Preparation 2</p>
-<p><strong>Caption:</strong>
-<br><em>Our Robotics CCA members preparing their robot during the VEX V5 Signature Event.</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/preparation2.jpg">
+</div>
+<p><em>Our Robotics CCA members preparing their robot during the VEX V5 Signature Event.</em>
 </p>
-<p><strong>Sharing Their Engineering Process</strong>
-</p>
+<h4><strong>Sharing Their Engineering Process</strong></h4>
 <p>As part of the competition experience, the students participated in an
 interview where they shared their robot design and engineering process.</p>
 <p>They explained the ideas behind the robot, the roles of different team
@@ -86,9 +84,10 @@ and communicate their ideas clearly.</p>
 <p>The interview helped them understand that engineers must not only create
 solutions but also explain and justify the decisions made throughout the
 design process.</p>
-<p><strong>PHOTO:</strong> interview</p>
-<p><strong>Caption:</strong>
-<br><em>Students explaining their robot design and engineering journey during the competition interview.</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/interview.jpg">
+</div>
+<p><em>Students explaining their robot design and engineering journey during the competition interview.</em>
 </p>
 <p><strong>Growing Through the Experience</strong>
 </p>
@@ -182,4 +181,4 @@ in an overseas competition. It was a meaningful learning journey that strengthen
 the students’ technical skills, resilience, teamwork and confidence.</p>
 <p>The lessons learned and memories created in Hsinchu will continue to inspire
 the five students as they take on future challenges in robotics and beyond.</p>
-<p>&nbsp;</p>
+<p></p>
